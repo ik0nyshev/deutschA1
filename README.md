@@ -1,6 +1,6 @@
 # Anki Decks for "Pluspunkt Deutsch: Leben in Deutschland"
 
-![Anki Logo](anki_logo.png)
+![Pluspunkt Logo](A1.png)
 
 Welcome to the Anki decks designed for "Pluspunkt Deutsch: Leben in Deutschland."
 
