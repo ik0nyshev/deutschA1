@@ -35,6 +35,11 @@ These decks are not affiliated with the official "Pluspunkt Deutsch" course.
 
 These decks were created with ChatGPT by OpenAI.
 
+Audio files were created with help google tts library.
+
+import audio to anki2
+https://docs.ankiweb.net/importing/text-files.html#importing-media
+
 
 **Happy Learning!**
 
