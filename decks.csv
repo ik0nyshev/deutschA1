@@ -1,810 +1,810 @@
-1;wie;how;Wie geht es Ihnen?;How are you?;
-2;heißen;to be called;Wie heißen Sie?;'What''s your name?';
-3;Guten Tag;Good day;Guten Tag!;Good day!;
-4;und;and;Ich möchte Brot und Käse.;I want bread and cheese.;
-5;woher;where from;Woher kommen Sie?;Where are you from?;
-6;kommen;to come;Ich komme aus Deutschland.;I come from Germany.;
-7;Woher kommen Sie?;Where are you from?;;;
-8;Ich komme aus ...;I come from ...;;;
-9;Guten Morgen;Good morning;Guten Morgen!;Good morning!;
-10;der Name;name;Wie ist Ihr Name?;What is your name?;
-11;neu;new;Ich bin neu hier.;I am new here.;
-12;das Haus;house;Mein Haus ist groß.;My house is big.;
-13;Ich bin neu hier im Haus;I am new here in the house.;;;
-14;Entschuldigung;excuse me;Entschuldigung, können Sie das wiederholen?;Excuse me, can you repeat that?;
-15;wohnen;to live;Ich wohne in Berlin.;I live in Berlin.;
-16;schon lang(e);a long time;Ich lebe schon lange hier.;I have been living here for a long time.;
-17;hier;here;Ich bin hier.;I am here.;
-18;Hallo;Hello;Hallo, wie geht es dir?;Hello, how are you?;
-19;wer;who;Wer ist das?;Who is that?;
-20;Wie bitte?;Pardon?;Wie bitte? Ich habe dich nicht verstanden.;'Pardon? I didn''t understand you.';
-21;schreiben;to write;Kannst du mir das aufschreiben?;Can you write that down for me?;
-22;Wie schreibt man das?;How is that written?;;;
-23;buchstabieren;to spell;Können Sie das für mich buchstabieren?;Can you spell that for me?;
-24;der Familienname;surname;Mein Familienname ist Müller.;My surname is Müller.;
-25;der Vorname;first name;Sein Vorname ist Peter.;His first name is Peter.;
-26;das Land;country;Deutschland ist ein schönes Land.;Germany is a beautiful country.;
-27;Frau ...;Mrs. ...;Frau Müller, wie geht es Ihnen?;Mrs. Müller, how are you?;
-28;Herr ...;Mr. ...;Herr Schmidt, das ist mein Chef.;'Mr. Schmidt, that''s my boss.';
-29;Wie geht es Ihnen?;How are you?;;;
-30;danke;thank you;Danke für deine Hilfe.;Thank you for your help.;
-31;gut;good;Mir geht es gut.;I am good.;
-32;auch;also;Ich möchte auch Kaffee.;I would like coffee too.;
-33;Auf Wiedersehen;Goodbye;Auf Wiedersehen, bis bald!;Goodbye, see you soon!;
-34;Bis bald!;See you soon!;;;
-35;Es geht so.;'It''s okay.';Wie geht es dir? - Es geht so.;'How are you? - It''s okay.';
-36;Tschüss;Goodbye;Tschüss, bis morgen!;Goodbye, see you tomorrow!;
-37;Bis morgen.;See you tomorrow.;;;
-38;was;what;Was machst du?;What are you doing?;
-39;machen;to do;Ich möchte heute Abend nichts machen.;'I don''t want to do anything tonight.';
-40;Was machst du?;What are you doing?;;;
-41;lernen;to learn;Ich lerne Deutsch.;I am learning German.;
-42;Deutsch;German;Ich lerne Deutsch.;I am learning German.;
-43;wo;where;Wo ist das Restaurant?;Where is the restaurant?;
-44;die Zahl;number;Die Zahl 7 ist eine Glückszahl.;The number 7 is a lucky number.;
-45;die Nummer;number;Meine Nummer ist 555-1234.;My number is 555-1234.;
-46;Meine Nummer ist ...;My number is ...;;;
-47;ja;yes;Bist du bereit? - Ja.;Are you ready? - Yes.;
-48;nein;no;Möchtest du Tee? - Nein, danke.;Would you like some tea? - No, thank you.;
-49;Ja, genau.;Yes, exactly.;;;
-50;nicht;not;Das ist nicht mein Buch.;This is not my book.;
-51;der Beruf;occupation;Was sind Sie von Beruf?;What is your occupation?;
-52;der/die Ingenieur/in;engineer;Er ist Ingenieur.;He is an engineer.;
-53;der/die Verkäufer/in;salesperson;Sie ist Verkäuferin.;She is a salesperson.;
-54;der/die Arzt/Ärztin;doctor;Der Arzt ist im Krankenhaus.;The doctor is at the hospital.;
-55;der/die Lehrer/in;teacher;Der Lehrer unterrichtet Deutsch.;The teacher teaches German.;
-56;die Heimat;homeland;Meine Heimat ist Deutschland.;My homeland is Germany.;
-57;wo liegt...?;where is...?;Wo liegt Berlin?;Where is Berlin?;
-58;in;in;Ich wohne in einem Haus.;I live in a house.;
-59;die Nationalität, -en;nationality;Welche Nationalität hast du?;What is your nationality?;
-60;die Sprache, -n;language;Deutsch ist eine schöne Sprache.;German is a beautiful language.;
-61;die Muttersprache, -n;mother tongue;Meine Muttersprache ist Spanisch.;My mother tongue is Spanish.;
-62;sprechen, er spricht;to speak;Ich spreche Englisch.;I speak English.;
-63;ein bisschen;a little;Ich verstehe ein bisschen Deutsch.;I understand a little German.;
-64;arbeiten;to work;Ich arbeite von Montag bis Freitag.;I work from Monday to Friday.;
-65;lernen;to learn;Ich lerne Deutsch in der Schule.;I learn German in school.;
-66;lieben;to love;Ich liebe meine Familie.;I love my family.;
-67;leben;to live;Ich lebe in einer kleinen Stadt.;I live in a small town.;
-68;suchen;to search;Ich suche mein Handy.;I am looking for my phone.;
-69;die Arbeit;work;Meine Arbeit macht Spaß.;I enjoy my work.;
-70;der Stift, -e;pen;Kannst du mir einen Stift leihen?;Can you lend me a pen?;
-71;der Kugelschreiber, -;ballpoint pen;Ich habe keinen Kugelschreiber.;'I don''t have a ballpoint pen.';
-72;der Kuli, -s;pen (slang);Hast du einen Kuli?;Do you have a pen?;
-73;der Laptop, -s;laptop;Mein Laptop ist schnell.;My laptop is fast.;
-74;das Tablet, -s;tablet;Ich lese Bücher auf meinem Tablet.;I read books on my tablet.;
-75;der Schlüssel, -;key;Hast du den Schlüssel verloren?;Did you lose the key?;
-76;der Tisch, -e;table;Wir essen am Tisch.;We eat at the table.;
-77;der Stuhl, "-e;chair;Bitte nehmen Sie Platz auf dem Stuhl.;Please take a seat on the chair.;
-78;das Buch, "-er;book;Ich lese gerne Bücher.;I enjoy reading books.;
-79;das Heft, -e;notebook;Ich schreibe Notizen in mein Heft.;I write notes in my notebook.;
-80;das Handy, -s;mobile phone;Mein Handy klingelt.;My mobile phone is ringing.;
-81;das Fenster, -;window;Mach das Fenster zu, es zieht.;'Close the window, there''s a draft.';
-82;die Lampe, -n;lamp;Die Lampe ist kaputt.;The lamp is broken.;
-83;die Brille, -n;glasses;Ich trage eine Brille.;I wear glasses.;
-84;die CD, -s;CD;Ich höre gerne Musik auf CD.;I enjoy listening to music on CD.;
-85;die Flasche, -n;bottle;Gib mir die Flasche Wasser.;Give me the bottle of water.;
-86;die Tür, -en;door;Die Tür ist geschlossen.;The door is closed.;
-87;die Uhr, -en;clock;Die Uhr zeigt 3 Uhr an.;'The clock shows 3 o''clock.';
-88;die Tafel, -n;blackboard;Der Lehrer schreibt an die Tafel.;The teacher writes on the blackboard.;
-89;die Tasche, -n;bag;Ich habe meine Tasche vergessen.;I forgot my bag.;
-90;kosten;to cost;Wie viel kostet das?;How much does this cost?;
-91;der Euro, -s;euro;Das kostet 10 Euro.;That costs 10 euros.;
-92;richtig;correct;Das ist die richtige Antwort.;That is the correct answer.;
-93;kaputt;broken;Mein Handy ist kaputt.;My phone is broken.;
-94;interessant;interesting;Das Buch ist sehr interessant.;The book is very interesting.;
-95;die Vorwahl, -en;area code;Die Vorwahl für Berlin ist 030.;The area code for Berlin is 030.;
-96;die Telefonnummer, -n;phone number;Wie ist deine Telefonnummer?;What is your phone number?;
-97;die Adresse, -n;address;Bitte geben Sie mir Ihre Adresse.;Please give me your address.;
-98;die Straße, -n;street;Ich wohne in der Hauptstraße.;I live on Main Street.;
-99;die Postleitzahl, -en;postcode;Was ist deine Postleitzahl?;What is your postcode?;
-100;die E-Mail-Adresse, -n;email address;Kannst du mir deine E-Mail-Adresse geben?;Can you give me your email address?;
-101;die Kita, -s;kindergarten;Unsere Tochter geht in die Kita.;Our daughter goes to kindergarten.;
-102;der Platz, "-e;place;Ist hier noch ein freier Platz?;Is there a free place here?;
-103;frei;free;Der Tisch ist noch frei.;The table is still free.;
-104;schicken;to send;Ich werde dir die Datei schicken.;I will send you the file.;
-105;das Anmeldeformular, -e;registration form;Bitte füllen Sie das Anmeldeformular aus.;Please fill out the registration form.;
-106;Vielen Dank;Thank you very much;Vielen Dank für Ihre Hilfe.;Thank you very much for your help.;
-107;auf Wiederhören;Goodbye (on the phone);Auf Wiederhören!;Goodbye!;
-108;ganz schön;quite;Das war ganz schön schwierig.;That was quite difficult.;
-109;schlecht;bad;Das Essen war wirklich schlecht.;The food was really bad.;
-110;langweilig;boring;Der Film war langweilig.;The movie was boring.;
-111;furchtbar;terrible;Das Wetter ist heute furchtbar.;The weather is terrible today.;
-112;das Erdgeschoss, -e;ground floor;Unsere Wohnung ist im Erdgeschoss.;Our apartment is on the ground floor.;
-113;der Stock, PL: Stockwerke;floor;Die Büros sind im dritten Stock.;The offices are on the third floor.;
-114;im ersten/zweiten/dritten Stock;on the first/second/third floor;Meine Wohnung ist im ersten Stock.;My apartment is on the first floor.;
-115;das Dachgeschoss, -e;attic;Das Dachgeschoss ist ein schöner Raum.;The attic is a beautiful space.;
-116;oben;up;Die Schlafzimmer sind oben.;The bedrooms are up.;
-117;unten;down;Die Küche ist unten.;The kitchen is downstairs.;
-118;links;left;Das Museum ist auf der linken Seite.;The museum is on the left side.;
-119;rechts;right;Das Restaurant ist auf der rechten Seite.;The restaurant is on the right side.;
-120;das Geschäft, -e;shop;Ich gehe ins Geschäft, um einzukaufen.;'I''m going to the shop to shop.';
-121;es gibt;there is/are;Es gibt viele Bücher in der Bibliothek.;There are many books in the library.;
-122;der Quadratmeter, (qm), -;square meter;Die Wohnung ist 100 Quadratmeter groß.;The apartment is 100 square meters.;
-123;der Balkon, -s/-e;balcony;Der Balkon hat einen schönen Ausblick.;The balcony has a beautiful view.;
-124;der Garten;garden;Wir haben einen großen Garten.;We have a big garden.;
-125;in der Nähe;nearby;Der Supermarkt ist in der Nähe.;The supermarket is nearby.;
-126;die Zentralheizung, -en;central heating;Unsere Wohnung hat Zentralheizung.;Our apartment has central heating.;
-127;bezahlen;to pay;Ich werde die Rechnung bezahlen.;I will pay the bill.;
-128;die Miete, -n;rent;Die Miete ist monatlich zu zahlen.;The rent is to be paid monthly.;
-129;die Nebenkosten, PI;utility costs;Die Nebenkosten sind im Mietpreis enthalten.;The utility costs are included in the rent.;
-130;kalt;cold;Es ist heute sehr kalt.;It is very cold today.;
-131;warm;warm;Das Wasser in der Dusche ist warm.;The water in the shower is warm.;
-132;hell;bright;Das Zimmer ist hell und geräumig.;The room is bright and spacious.;
-133;dunkel;dark;Der Keller ist dunkel.;The basement is dark.;
-134;laut;loud;Die Musik ist zu laut.;The music is too loud.;
-135;ruhig;quiet;Es ist hier sehr ruhig.;'It''s very quiet here.';
-136;günstig;affordable;Die Preise sind günstig.;The prices are affordable.;
-137;der Vater;father;Mein Vater ist Arzt.;My father is a doctor.;
-138;die Mutter;mother;Meine Mutter ist Lehrerin.;My mother is a teacher.;
-139;die Eltern, PI;parents;Meine Eltern kommen zu Besuch.;My parents are coming to visit.;
-140;der Bruder;brother;Mein Bruder spielt Fußball.;My brother plays soccer.;
-141;die Schwester, -n;sister;Meine Schwester studiert Medizin.;My sister is studying medicine.;
-142;die Geschwister, PI;siblings;Meine Geschwister und ich sind sehr eng.;My siblings and I are very close.;
-143;der Onkel, -;uncle;Mein Onkel wohnt in Berlin.;My uncle lives in Berlin.;
-144;die Tante,-n;aunt;Meine Tante ist sehr nett.;My aunt is very nice.;
-145;der Sohn, "-e;son;Unser Sohn ist fünf Jahre alt.;Our son is five years old.;
-146;die Tochter;daughter;Ihre Tochter ist sehr talentiert.;Your daughter is very talented.;
-147;das Foto, -s;photo;Ich mache ein Foto von dir.;'I''m taking a photo of you.';
-148;zu Hause;at home;Ich bin zu Hause.;I am at home.;
-149;studieren;to study;Ich studiere Medizin an der Universität.;I study medicine at the university.;
-150;die Freizeit, Sg.;free time;In meiner Freizeit lese ich gern.;I like to read in my free time.;
-151;die Familie, -n;family;Meine Familie besucht mich am Wochenende.;My family visits me on the weekend.;
-152;alle;all;Alle sind eingeladen.;Everyone is invited.;
-153;faulenzen;to laze around;Am Sonntag faulenze ich gerne.;I like to laze around on Sundays.;
-154;schlafen;to sleep;Ich möchte heute länger schlafen.;I want to sleep longer today.;
-155;essen;to eat;Ich esse gern Pizza.;I like to eat pizza.;
-156;lesen;to read;Ich lese ein Buch in der Bibliothek.;'I''m reading a book in the library.';
-157;sehen;to see;Ich sehe einen Film im Kino.;'I''m watching a movie in the cinema.';
-158;nehmen;to take;Kannst du das bitte nehmen?;Can you please take that?;
-159;fahren;to drive;Wir fahren in den Urlaub.;We are driving on vacation.;
-160;treffen;to meet;Ich treffe meine Freunde nach der Arbeit.;'I''m meeting my friends after work.';
-161;die Schokolade, Sg.;chocolate;Ich liebe Schokolade.;I love chocolate.;
-162;die Pizza, -s/Pizzen;pizza;Wir bestellen eine Pizza zum Abendessen.;'We''re ordering a pizza for dinner.';
-163;der Film, -e;movie;Wir schauen uns einen Film an.;'We''re watching a movie.';
-164;nach: nach Berlin;to: to Berlin;Wir fahren nach Berlin.;'We''re going to Berlin.';
-165;nach Hause;home;Ich gehe nach Hause.;'I''m going home.';
-166;Zeit haben;to have time;Hast du Zeit, heute Abend auszugehen?;Do you have time to go out tonight?;
-167;gern, gerne;like;Ich trinke gern Kaffee.;I like to drink coffee.;
-168;die Sehenswürdigkeit, -en;sightseeing attraction;Wir besichtigen die Sehenswürdigkeiten der Stadt.;'We''re visiting the city''s sightseeing attractions.';
-169;das Wochenende, -n;weekend;Am Wochenende gehe ich oft spazieren.;I often go for a walk on the weekend.;
-170;am Wochenende;on the weekend;Am Wochenende besuche ich meine Großeltern.;On the weekend, I visit my grandparents.;
-171;bleiben;to stay;Wir bleiben eine Woche in Paris.;We are staying in Paris for a week.;
-172;chillen;to chill;Am Samstagabend chille ich zu Hause.;I chill at home on Saturday evening.;
-173;der Tag, -e;day;Der Tag beginnt früh.;The day starts early.;
-174;wo;where;Wo bist du?;Where are you?;
-175;wohin;where to;Wohin gehst du?;Where are you going?;
-176;die Radtour, -en;bike ride;Wir machen eine Radtour im Park.;We are going for a bike ride in the park.;
-177;der Supermarkt, "-e;supermarket;Ich gehe zum Supermarkt, um einzukaufen.;'I''m going to the supermarket to shop.';
-178;die Lebensmittel, PI.;groceries;Ich kaufe Lebensmittel für die Woche.;'I''m buying groceries for the week.';
-179;besichtigen;to visit (a place);Wir besichtigen das Schloss.;We are visiting the castle.;
-180;besuchen;to visit (a person);Wir besuchen meine Großeltern am Wochenende.;We visit my grandparents on the weekend.;
-181;das Straßenfest, -e;street festival;Das Straßenfest findet am Samstag statt.;The street festival takes place on Saturday.;
-182;zu Mittag essen;to have lunch;Ich esse zu Mittag um 12 Uhr.;'I have lunch at 12 o''clock.';
-183;der Kaffee, Sg.;coffee;Ich trinke gern Kaffee am Morgen.;I like to drink coffee in the morning.;
-184;trinken;to drink;Was möchtest du trinken?;What would you like to drink?;
-185;kennen;to know;Ich kenne diesen Ort nicht.;'I don''t know this place.';
-186;zuerst;first;Zuerst gehen wir einkaufen und dann essen wir zu Mittag.;First, we go shopping, and then we have lunch.;
-187;dann;then;Ich gehe einkaufen, und dann treffe ich dich.;'I''m going shopping, and then I''ll meet you.';
-188;danach;afterward;Wir gehen ins Kino, und danach essen wir zu Abend.;'We''re going to the cinema, and afterward, we''ll have dinner.';
-189;früher;earlier;Früher war ich Lehrer, jetzt bin ich Schriftsteller.;'I used to be a teacher, now I''m a writer.';
-190;alles anders;everything is different;Nach dem Umzug war alles anders.;After the move, everything was different.;
-191;Fußball spielen;to play soccer;Wir gehen nach draußen, um Fußball zu spielen.;'We''re going outside to play soccer.';
-192;joggen;to jog;Ich jogge jeden Morgen im Park.;I jog in the park every morning.;
-193;ein Bild malen;to paint a picture;Ich male gerne Bilder in meiner Freizeit.;I like to paint pictures in my free time.;
-194;tanzen;to dance;Am Wochenende tanzen wir in der Diskothek.;We dance at the nightclub on the weekend.;
-195;im Internet surfen;to surf the internet;Ich surfe im Internet, um Informationen zu finden.;I surf the internet to find information.;
-196;grillen;to barbecue;Wir grillen Fleisch und Gemüse im Garten.;We barbecue meat and vegetables in the garden.;
-197;Musik hören;to listen to music;Ich höre gern Musik.;I like to listen to music.;
-198;schwimmen;to swim;Im Sommer schwimme ich im See.;I swim in the lake in the summer.;
-199;das Hobby, -s;hobby;Mein Hobby ist Fotografie.;My hobby is photography.;
-200;(nicht) gern, gerne;(not) like;Ich esse gern Pizza, aber ich mag keinen Fisch.;'I like pizza, but I don''t like fish.';
-201;spät;late;Es ist schon spät, wir sollten nach Hause gehen.;'It''s already late'; we should go home.
-202;Wie spät ist es?;What time is it?;Wie spät ist es, bitte?;What time is it, please?;
-203;halb;half;Es ist halb sechs.;'It''s half past five.';
-204;Viertel vor;quarter to;Es ist Viertel vor acht.;'It''s quarter to eight.';
-205;Viertel nach;quarter past;Es ist Viertel nach drei.;'It''s quarter past three.';
-206;um;at;Wir treffen uns um 15 Uhr.;'We''re meeting at 3 o''clock.';
-207;beginnen;to begin;Die Vorlesung beginnt um 9 Uhr.;'The lecture begins at 9 o''clock.';
-208;Um wie viel Uhr?;At what time?;Um wie viel Uhr beginnt der Film?;At what time does the movie start?;
-209;enden;to end;Das Konzert endet um 22 Uhr.;The concert ends at 10 p.m.;
-210;gehen;to go;Ich gehe in den Park.;'I''m going to the park.';
-211;von ... bis;from ... to;Die Veranstaltung dauert von Montag bis Freitag.;The event is from Monday to Friday.;
-212;der Zug, "-e;train;Der Zug fährt um 15 Uhr ab.;'The train departs at 3 o''clock.';
-213;der Radiowecker, -;radio alarm clock;Der Radiowecker klingelt um 7 Uhr morgens.;The radio alarm clock rings at 7 in the morning.;
-214;klingeln;to ring;Das Telefon klingelt, ich gehe ran.;'The phone is ringing, I''ll answer it.';
-215;das Flugzeug, -e;airplane;Das Flugzeug fliegt nach Paris.;The airplane is flying to Paris.;
-216;der Krimi, -s;mystery (genre);Ich lese gerne Krimis.;I like to read mysteries.;
-217;anrufen;to call;Ich werde dich später anrufen.;'I''ll call you later.';
-218;das Kino, -s;cinema;Wir gehen ins Kino, um einen Film zu sehen.;'We''re going to the cinema to watch a movie.';
-219;anfangen;to start;Der Film fängt um 19 Uhr an.;The movie starts at 7 p.m.;
-220;aufhören;to stop;Kannst du bitte aufhören, so laut zu sprechen?;Can you please stop speaking so loudly?;
-221;aufstehen;to get up;Ich stehe morgens um 6 Uhr auf.;I get up at 6 in the morning.;
-222;aufräumen;to tidy up;Lass uns das Zimmer aufräumen.;'Let''s tidy up the room.';
-223;einkaufen;to shop;Ich gehe einkaufen, um Lebensmittel zu kaufen.;'I''m going shopping to buy groceries.';
-224;mitnehmen;to take with;Vergiss nicht, deinen Regenschirm mitzunehmen.;'Don''t forget to take your umbrella with you.';
-225;die Zeitung, -en;newspaper;Ich lese die Zeitung, um informiert zu sein.;I read the newspaper to be informed.;
-226;fernsehen;to watch TV;Ich liebe es, Filme im Fernsehen anzusehen.;I love watching movies on TV.;
-227;ausgehen;to go out;Wir gehen am Wochenende aus.;We go out on the weekend.;
-228;wegfahren;to drive away;Sie fahren für eine Woche in den Urlaub weg.;They are going on vacation for a week.;
-229;mitkommen;to come along;Kommst du zum Konzert mit?;Are you coming along to the concert?;
-230;stattfinden;to take place;Die Veranstaltung findet im Park statt.;The event is taking place in the park.;
-231;ausfallen;to be canceled;Das Spiel fällt heute wegen Regen aus.;The game is canceled today due to rain.;
-232;einkaufen gehen;to go shopping;Ich gehe morgen einkaufen.;'I''m going shopping tomorrow.';
-233;spazieren gehen;to go for a walk;Wir gehen gerne spazieren im Park.;We like to go for a walk in the park.;
-234;jeden Tag;every day;Ich trinke jeden Tag eine Tasse Kaffee.;I drink a cup of coffee every day.;
-235;der Ausflug, "-e;outing;Wir planen einen Ausflug ins Grüne.;'We''re planning an outing to the countryside.';
-236;heute;today;Heute ist ein schöner Tag.;Today is a beautiful day.;
-237;die Woche, -n;week;Ich bin die ganze Woche beschäftigt.;'I''m busy the whole week.';
-238;der Montag, -e;Monday;Montag ist der erste Tag der Woche.;Monday is the first day of the week.;
-239;der Dienstag, -e;Tuesday;Dienstag ist mein Lieblingstag.;Tuesday is my favorite day.;
-240;der Mittwoch, -e;Wednesday;Am Mittwoch habe ich einen Arzttermin.;'I have a doctor''s appointment on Wednesday.';
-241;der Donnerstag, -e;Thursday;Donnerstag ist ein arbeitsreicher Tag.;Thursday is a busy day.;
-242;der Freitag, -e;Friday;Am Freitag treffen wir uns im Café.;We meet at the café on Friday.;
-243;der Samstag, -e;Saturday;Am Samstag haben wir eine Party.;'We''re having a party on Saturday.';
-244;der Sonntag, -e;Sunday;Sonntag ist ein Ruhetag.;Sunday is a day of rest.;
-245;die Hausaufgabe, -n;homework;Ich mache meine Hausaufgaben am Abend.;I do my homework in the evening.;
-246;das Fahrrad, "-er;bicycle;Ich fahre mit dem Fahrrad zur Arbeit.;I ride my bicycle to work.;
-247;reparieren;to repair;Ich muss meinen Computer reparieren.;I need to repair my computer.;
-248;am Morgen;in the morning;Am Morgen trinke ich Kaffee.;I drink coffee in the morning.;
-249;am Vormittag;in the late morning;Am Vormittag erledige ich meine Arbeit.;I do my work in the late morning.;
-250;am Mittag;at noon;Am Mittag esse ich zu Mittag.;I have lunch at noon.;
-251;am Nachmittag;in the afternoon;Am Nachmittag gehe ich spazieren.;I go for a walk in the afternoon.;
-252;am Abend;in the evening;Am Abend schaue ich gerne fern.;I like to watch TV in the evening.;
-253;in der Nacht;at night;In der Nacht schlafe ich.;I sleep at night.;
-254;die Fahrkarte, -n;ticket;Ich kaufe eine Fahrkarte für den Zug.;I buy a ticket for the train.;
-255;der Dienstagabend, -e;Tuesday evening;Am Dienstagabend haben wir Schach gespielt.;We played chess on Tuesday evening.;
-256;Schach spielen;to play chess;Ich spiele gerne Schach mit meinen Freunden.;I enjoy playing chess with my friends.;
-257;zusammen;together;Wir essen zusammen zu Abend.;We have dinner together.;
-258;vielleicht;maybe;Vielleicht gehe ich morgen ins Kino.;'Maybe I''ll go to the cinema tomorrow.';
-259;Lust haben;to feel like;Ich habe Lust auf Pizza.;I feel like having pizza.;
-260;Zeit haben;to have time;Hast du Zeit, am Samstag zu kommen?;Do you have time to come on Saturday?;
-261;später;later;Ich rufe dich später an.;'I''ll call you later.';
-262;leider;unfortunately;Leider kann ich nicht kommen.;'Unfortunately, I can''t come.';
-263;kochen;to cook;Ich koche gerne Abendessen.;I like to cook dinner.;
-264;Guten Appetit;enjoy your meal;Guten Appetit!;Enjoy your meal!;
-265;der Apfel, -Äpfel;apple;Ein Apfel am Tag hält den Arzt fern.;An apple a day keeps the doctor away.;
-266;die Banane, -n;banana;Ich esse eine Banane zum Frühstück.;I eat a banana for breakfast.;
-267;das Brot, -e;bread;Wir kaufen frisches Brot beim Bäcker.;We buy fresh bread from the bakery.;
-268;die Butter, Sg.;butter;Ich schmiere Butter auf mein Brot.;I spread butter on my bread.;
-269;das Hähnchen, -;chicken;Wir grillen Hähnchen im Garten.;We barbecue chicken in the garden.;
-270;die Kartoffel, -n;potato;Kartoffeln sind eine wichtige Beilage in vielen Gerichten.;Potatoes are an important side dish in many dishes.;
-271;der Käse, Sg.;cheese;Ich liebe Käse auf meiner Pizza.;I love cheese on my pizza.;
-272;die Milch, Sg.;milk;Morgens trinke ich immer Milch.;I always drink milk in the morning.;
-273;die Nudeln, PI.;pasta;Spaghetti sind eine Art von Nudeln.;Spaghetti are a type of pasta.;
-274;der Reis, Sg.;rice;Ich esse gerne Reis mit Gemüse.;I like to eat rice with vegetables.;
-275;der Salat, -e;salad;Ein gemischter Salat ist gesund.;A mixed salad is healthy.;
-276;der Tee, Sg.;tea;Ich trinke gerne grünen Tee.;I like to drink green tea.;
-277;der Fisch, -e;fish;Gebackener Fisch ist mein Lieblingsessen.;Baked fish is my favorite meal.;
-278;die Tomate, -n;tomato;Tomaten sind eine wichtige Zutat in vielen Gerichten.;Tomatoes are an important ingredient in many dishes.;
-279;das Wasser, Sg.;water;Trink bitte genug Wasser, um hydratisiert zu bleiben.;Please drink enough water to stay hydrated.;
-280;der Wein, -e;wine;Wir genießen ein Glas Wein zum Abendessen.;We enjoy a glass of wine with dinner.;
-281;die Wurst, "-e;sausage;Ich esse gerne Wurstbrote zum Frühstück.;I like to eat sausage sandwiches for breakfast.;
-282;essen;to eat;Wir essen Abendessen um 18 Uhr.;'We eat dinner at 6 o''clock.';
-283;trinken;to drink;Ich trinke Kaffee am Morgen.;I drink coffee in the morning.;
-284;täglich;daily;Ich mache täglich Sport.;I exercise daily.;
-285;oft;often;Ich treffe meine Freunde oft.;I often meet my friends.;
-286;manchmal;sometimes;Manchmal gehe ich alleine spazieren.;Sometimes I go for a walk alone.;
-287;selten;rarely;Ich esse selten Fast Food.;I rarely eat fast food.;
-288;nie;never;Ich trinke nie Alkohol.;I never drink alcohol.;
-289;das Ei, -er;egg;Ich brate ein Ei zum Frühstück.;I fry an egg for breakfast.;
-290;der Zucker, Sg.;sugar;Zucker macht den Kaffee süß.;Sugar makes the coffee sweet.;
-291;die Orange, -n;orange;Ich esse eine saftige Orange.;I eat a juicy orange.;
-292;die Spaghetti, PI.;spaghetti;Spaghetti sind lecker mit Tomatensauce.;Spaghetti are delicious with tomato sauce.;
-293;das Brötchen, -;roll;Ein frisches Brötchen zum Frühstück schmeckt gut.;A fresh roll for breakfast tastes good.;
-294;das Getränk, -e;beverage;Was ist dein Lieblingsgetränk?;What is your favorite beverage?;
-295;das Bier, -e;beer;In Deutschland trinken viele Menschen gerne Bier.;In Germany, many people like to drink beer.;
-296;der Apfelsaft, "-e;apple juice;Apfelsaft ist erfrischend an einem heißen Tag.;Apple juice is refreshing on a hot day.;
-297;bitte;please;Bitte hilf mir.;Please help me.;
-298;doch;yet;Ich bin müde, doch ich möchte noch arbeiten.;'I''m tired, yet I want to keep working.';
-299;vergessen;to forget;Ich habe meine Schlüssel zu Hause vergessen.;I forgot my keys at home.;
-300;holen;to fetch;Kannst du bitte Milch aus dem Laden holen?;Can you please fetch milk from the store?;
-301;warten;to wait;Wir müssen auf den Bus warten.;We need to wait for the bus.;
-302;der Hunger, Sg.;hunger;Ich habe Hunger.;'I''m hungry.';
-303;Ich habe Durst.;'I''m thirsty.';;;
-304;probieren;to try;Möchtest du etwas Neues probieren?;Do you want to try something new?;
-305;die Packung, -en;packaging;Die Packung enthält vier Schokoriegel.;The packaging contains four chocolate bars.;
-306;die Dose, -n;can;Die Dose ist voll mit Erbsen.;The can is full of peas.;
-307;das Glas, "-er;glass;Ich trinke Wasser aus einem Glas.;I drink water from a glass.;
-308;der Becher, -;cup;Der Becher ist voll mit Eiscreme.;The cup is full of ice cream.;
-309;die Tüte, -n;bag;Die Tüte enthält frisches Brot.;The bag contains fresh bread.;
-310;der Kasten, "-;box;Der Kasten ist schwer.;The box is heavy.;
-311;das Stück, Sg.;piece;Ein Stück Kuchen, bitte.;A piece of cake, please.;
-312;die Tafel Schokolade;chocolate bar;Ich esse gerne eine Tafel Schokolade.;I like to eat a chocolate bar.;
-313;die Scheibe, -n;slice;Ich möchte eine Scheibe Käse.;'I''d like a slice of cheese.';
-314;das Gramm, Sg.;gram;100 Gramm Mehl werden benötigt.;100 grams of flour are needed.;
-315;das Kilo/Kilogramm, Sg;kilogram;Ein Kilogramm sind 1000 Gramm.;One kilogram is 1000 grams.;
-316;das Pfund, Sg.;pound;Ein Pfund entspricht etwa 0,45 Kilogramm.;One pound is approximately 0.45 kilograms.;
-317;der Liter, Sg.;liter;Eine Flasche enthält 1,5 Liter Wasser.;A bottle contains 1.5 liters of water.;
-318;das Obst, Sg.;fruit;Obst ist gesund.;Fruit is healthy.;
-319;das Gemüse, Sg.;vegetables;Gemüse enthält viele Vitamine.;Vegetables contain many vitamins.;
-320;der Kunde, -n;customer;Der Kunde hat ein Problem mit seinem Kauf.;The customer has an issue with his purchase.;
-321;die Kundin, -nen;female customer;Die Kundin ist mit dem Service zufrieden.;The female customer is satisfied with the service.;
-322;der Preis, -e;price;Der Preis für das Produkt ist fair.;The price for the product is fair.;
-323;der Markt, "-e;market;Der Markt ist samstags geöffnet.;The market is open on Saturdays.;
-324;die Metzgerei, -en;butcher shop;In der Metzgerei kaufe ich Fleisch.;I buy meat at the butcher shop.;
-325;die Bäckerei, -en;bakery;In der Bäckerei gibt es frisches Brot.;The bakery has fresh bread.;
-326;Ich hätte gern ...;I would like ...;Ich hätte gern ein Brötchen mit Käse.;I would like a roll with cheese.;
-327;Haben Sie noch ...;Do you have ...;Haben Sie noch frisches Brot?;Do you have fresh bread?;
-328;passend;appropriate;Das Kleid ist passend für die Hochzeit.;The dress is appropriate for the wedding.;
-329;bekommen;to receive;Ich bekomme ein Geschenk zum Geburtstag.;I receive a gift for my birthday.;
-330;zurück;back;Gib mir bitte mein Buch zurück.;Please give me my book back.;
-331;möchten;would like;Ich möchte eine Tasse Kaffee, bitte.;I would like a cup of coffee, please.;
-332;mögen;to like;Ich mag Schokolade.;I like chocolate.;
-333;das Frühstück;breakfast;Ich esse Müsli zum Frühstück.;I eat cereal for breakfast.;
-334;das Mittagessen;lunch;Das Mittagessen ist um 12 Uhr.;'Lunch is at 12 o''clock.';
-335;das Abendessen;dinner;Wir essen um 19 Uhr zu Abend.;We have dinner at 7 p.m.;
-336;frühstücken;to have breakfast;Ich frühstücke jeden Morgen um 7 Uhr.;'I have breakfast every morning at 7 o''clock.';
-337;der Bankkaufmann, -männer;banker (male);Der Bankkaufmann berät Kunden in Finanzangelegenheiten.;The male banker advises customers on financial matters.;
-338;die Bankkauffrau, -en;banker (female);Die Bankkauffrau arbeitet in der Filiale.;The female banker works at the branch.;
-339;PI: Bankkaufleute;bankers;Bankkaufleute arbeiten im Finanzwesen.;Bankers work in the financial sector.;
-340;der/die Altenpfleger/in, -/-nen;geriatric nurse;Der Altenpfleger kümmert sich um ältere Patienten.;The geriatric nurse takes care of elderly patients.;
-341;der/die Kellner/in, -/-nen;waiter/waitress;Die Kellnerin nimmt die Bestellungen der Gäste auf.;'The waitress takes the guests'' orders.';
-342;der/die Kfz-Mechaniker/in, -/-nen;automotive mechanic;Der Kfz-Mechaniker repariert Autos.;The automotive mechanic repairs cars.;
-343;die Reinigungskraft, "-e;cleaning staff;Die Reinigungskraft sorgt für Sauberkeit im Büro.;The cleaning staff ensures cleanliness in the office.;
-344;der/die Taxifahrer/in, -/-nen;taxi driver;Der Taxifahrer bringt die Passagiere zum Flughafen.;The taxi driver takes passengers to the airport.;
-345;der/die Briefträger/in, -/-nen;mail carrier;Der Briefträger bringt die Post jeden Morgen.;The mail carrier delivers the mail every morning.;
-346;der Koch, -e;cook;Der Koch bereitet köstliche Gerichte zu.;The cook prepares delicious dishes.;
-347;die Köchin, -nen;female cook;Die Köchin arbeitet in einem Sternerestaurant.;The female cook works in a Michelin-starred restaurant.;
-348;die Baustelle, -n;construction site;Auf der Baustelle wird ein neues Gebäude errichtet.;A new building is being constructed at the construction site.;
-349;die Werkstatt, "-en;workshop;In der Werkstatt werden Reparaturen durchgeführt.;Repairs are carried out in the workshop.;
-350;die Bank, -en;bank;Ich gehe zur Bank, um Geld abzuheben.;I go to the bank to withdraw money.;
-351;das Restaurant, -s;restaurant;Wir essen heute Abend in einem italienischen Restaurant.;We are dining at an Italian restaurant tonight.;
-352;das Büro, -s;office;Im Büro arbeiten viele Menschen.;Many people work in the office.;
-353;der/die Krankenpfleger/in, -/-nen;nurse;Die Krankenpflegerin kümmert sich um die Patienten.;The nurse takes care of the patients.;
-354;die Krankenschwester, -n;nurse (female);Die Krankenschwester ist sehr freundlich.;The female nurse is very friendly.;
-355;der Schichtdienst, -e;shift work;Im Schichtdienst arbeitet man auch nachts.;In shift work, one also works at night.;
-356;das Krankenhaus, "-er;hospital;Das Krankenhaus hat eine Notaufnahme.;The hospital has an emergency room.;
-357;müssen;must;Ich muss heute Abend arbeiten.;I must work tonight.;
-358;können;can;Ich kann Deutsch sprechen.;I can speak German.;
-359;wollen;want;Ich will im Sommer in den Urlaub fahren.;I want to go on vacation in the summer.;
-360;das Geld, Sg.;money;Geld ist notwendig, um Dinge zu kaufen.;Money is necessary to buy things.;
-361;verdienen;to earn;Er verdient viel Geld in seinem Job.;He earns a lot of money in his job.;
-362;wechseln;to exchange;Ich muss Euro in Dollar wechseln.;I need to exchange euros for dollars.;
-363;beraten;to advise;Der Berater hat mir gute Ratschläge gegeben.;The advisor gave me good advice.;
-364;helfen;to help;Kannst du mir bitte helfen?;Can you please help me?;
-365;die Überweisung, -en;bank transfer;Die Überweisung wurde erfolgreich durchgeführt.;The bank transfer was successful.;
-366;kontrollieren;to check;Wir müssen die Dokumente kontrollieren.;We need to check the documents.;
-367;die Kasse, -n;checkout;An der Kasse können Sie bezahlen.;You can pay at the checkout.;
-368;das Formular, -e;form;Bitte füllen Sie das Formular aus.;Please fill out the form.;
-369;unterschreiben;to sign;Sie müssen das Dokument unterschreiben.;You need to sign the document.;
-370;der/die Sekretär/in, -e/-nen;secretary;Die Sekretärin organisiert den Terminkalender.;The secretary organizes the schedule.;
-371;die Arbeitszeit, -en;working hours;Meine Arbeitszeit beträgt 40 Stunden pro Woche.;My working hours are 40 hours per week.;
-372;anstrengend;tiring;Die Arbeit kann manchmal anstrengend sein.;Work can be tiring at times.;
-373;das Team, -s;team;Wir sind ein starkes Team.;We are a strong team.;
-374;allein, alleine;alone;Manchmal arbeite ich gerne alleine.;Sometimes I like to work alone.;
-375;reisen;to travel;Wir planen, um die Welt zu reisen.;We plan to travel around the world.;
-376;die Karriere, Sg.;career;Sie hat eine erfolgreiche Karriere in der Wirtschaft.;She has a successful career in business.;
-377;draußen;outside;Wir spielen gerne draußen im Garten.;We like to play outside in the garden.;
-378;drinnen;inside;Es ist warm drinnen im Haus.;'It''s warm inside the house.';
-379;der Geldautomat, -en;ATM (Automated Teller Machine);Am Geldautomat können Sie Bargeld abheben.;You can withdraw cash from the ATM.;
-380;die EC-Karte, -n;debit card;Die EC-Karte ermöglicht bargeldloses Bezahlen.;The debit card allows for cashless payments.;
-381;die Kontonummer, -n;account number;Bitte geben Sie Ihre Kontonummer ein.;Please enter your account number.;
-382;der Kontoauszug, "-e;bank statement;Der Kontoauszug zeigt alle Transaktionen.;The bank statement shows all transactions.;
-383;die IBAN;IBAN (International Bank Account Number);Die IBAN ist eine internationale Kontonummer.;The IBAN is an international bank account number.;
-384;die Gebühr, -en;fee;Es gibt eine Gebühr für den Parkplatz.;There is a fee for the parking lot.;
-385;überweisen;to transfer;Ich werde das Geld auf Ihr Konto überweisen.;I will transfer the money to your account.;
-386;die Bankverbindung, -en;bank details;Bitte teilen Sie mir Ihre Bankverbindung mit.;Please provide me with your bank details.;
-387;aus;out of;Der Briefträger geht aus dem Postamt.;The mail carrier is going out of the post office.;
-388;bei;at;Ich treffe mich bei der Bank.;'I''m meeting at the bank.';
-389;nach;after;Wir gehen nach dem Mittagessen zur Arbeit.;We go to work after lunch.;
-390;von;from;Das Geld kam von meiner Großmutter.;The money came from my grandmother.;
-391;zu;to;Ich gehe zu meiner Ärztin.;'I''m going to my doctor.';
-392;bedienen;to serve;Der Kellner wird uns im Restaurant bedienen.;The waiter will serve us in the restaurant.;
-393;die Mittagspause, -n;lunch break;Die Mittagspause dauert eine Stunde.;The lunch break lasts for one hour.;
-394;der Kollege, -n;colleague;Meine Kollegen sind nett und hilfsbereit.;My colleagues are nice and helpful.;
-395;die Kollegin, -nen;female colleague;Meine Kollegin ist sehr hilfsbereit.;My female colleague is very helpful.;
-396;der Termin, -e;appointment;Ich habe morgen einen wichtigen Termin.;I have an important appointment tomorrow.;
-397;der/die Chef/in, -s/-nen;boss;Der Chef ist mit meiner Arbeit zufrieden.;The boss is satisfied with my work.;
-398;der Kindergarten, -;kindergarten;Mein Kind geht in den Kindergarten.;My child goes to kindergarten.;
-399;die Haltestelle, -n;bus stop;Die Haltestelle ist direkt vor unserem Haus.;The bus stop is right in front of our house.;
-400;Gute Besserung!;Get well soon!;Du bist krank? Gute Besserung!;'You''re sick? Get well soon!';
-401;der Hausarzt, "-e;family doctor;Mein Hausarzt ist sehr kompetent.;My family doctor is very competent.;
-402;die Hausärztin, -nen;female family doctor;Die Hausärztin nimmt keine neuen Patienten an.;The female family doctor is not accepting new patients.;
-403;der Zahnarzt, "-e;dentist;Ich muss zum Zahnarzt, um meine Zähne überprüfen zu lassen.;I need to go to the dentist to have my teeth checked.;
-404;die Zahnärztin, -nen;female dentist;Die Zahnärztin ist freundlich und einfühlsam.;The female dentist is friendly and empathetic.;
-405;die Sprechzeiten, PI.;office hours;Die Sprechzeiten der Praxis sind von 8 bis 18 Uhr.;The office hours of the practice are from 8 AM to 6 PM.;
-406;nach Vereinbarung;by appointment;Die Behandlung erfolgt nach Vereinbarung.;The treatment is by appointment.;
-407;die Zahnschmerzen, PI.;toothaches;Zahnschmerzen können sehr unangenehm sein.;Toothaches can be very uncomfortable.;
-408;die Halsschmerzen, PI.;sore throat;Halsschmerzen sind ein häufiges Symptom bei Erkältungen.;Sore throats are a common symptom of colds.;
-409;die Bauchschmerzen, PI.;stomachaches;Bauchschmerzen können verschiedene Ursachen haben.;Stomachaches can have various causes.;
-410;die Rückenschmerzen, PI;backaches;Rückenschmerzen können durch falsche Haltung verursacht werden.;Backaches can be caused by incorrect posture.;
-411;die Praxis, Praxen;practice;Die Praxis des Arztes ist gut ausgestattet.;'The doctor''s practice is well-equipped.';
-412;am Apparat;on the phone;Am Apparat ist der Hausarzt.;The family doctor is on the phone.;
-413;am nächsten Montag;next Monday;Die Besprechung findet am nächsten Montag statt.;The meeting is scheduled for next Monday.;
-414;sagen;to say;Kannst du mir bitte sagen, wie spät es ist?;Can you please tell me what time it is?;
-415;der Kopf, "-e;head;Mein Kopf tut weh.;My head hurts.;
-416;das Auge, -n;eye;Die Augen sind die Fenster zur Seele.;The eyes are the windows to the soul.;
-417;die Nase, -n;nose;Meine Nase läuft, weil ich erkältet bin.;My nose is running because I have a cold.;
-418;der Mund, "-er;mouth;Der Zahnarzt untersucht meinen Mund.;The dentist is examining my mouth.;
-419;das Ohr, -en;ear;Mein Ohr schmerzt, und ich kann nicht gut hören.;'My ear hurts, and I can''t hear well.';
-420;der Hals, "-e;throat;Mein Hals ist kratzig und schmerzt.;My throat is scratchy and hurts.;
-421;das Bein, -e;leg;Ich habe mir das Bein verstaucht.;I sprained my leg.;
-422;der Fuß, "-e;foot;Mein Fuß ist eingeschlafen.;My foot fell asleep.;
-423;der Arm, -e;arm;Mein Arm ist nach dem Sport müde.;My arm is tired after exercising.;
-424;der Finger, -;finger;Ich habe mir in den Finger geschnitten.;I cut my finger.;
-425;der Rücken, -;back;Rückenschmerzen können von einer schlechten Haltung kommen.;Backaches can result from bad posture.;
-426;der Bauch, "-e;stomach;Mein Bauch fühlt sich aufgebläht an.;My stomach feels bloated.;
-427;Was fehlt Ihnen?;'What''s the matter?';Der Arzt fragt: "Was fehlt Ihnen?";'The doctor asks, "What''s the matter with you?"';
-428;erkältet sein;to have a cold;Ich bin erkältet und brauche Ruhe.;I have a cold and need rest.;
-429;der Schnupfen, Sg.;runny nose;Ein Schnupfen kann lästig sein.;A runny nose can be annoying.;
-430;der Husten, Sg.;cough;Der Husten hält mich nachts wach.;The cough keeps me awake at night.;
-431;wehtun;to hurt;Mein Kopf tut weh.;My head hurts.;
-432;das Fieber, Sg.;fever;Fieber ist ein Zeichen einer Infektion.;Fever is a sign of an infection.;
-433;aufmachen;to open;Können Sie bitte das Fenster aufmachen?;Can you please open the window?;
-434;die Erkältung, -en;cold;Eine Erkältung kann verschiedene Symptome verursachen.;A cold can cause various symptoms.;
-435;die Grippe, -n;flu;Die Grippe kann sehr schwerwiegend sein.;The flu can be very serious.;
-436;die Kontrolle, -n;check-up;Die Kontrolle beim Zahnarzt war gut.;The check-up at the dentist was good.;
-437;die Tablette, -n;tablet;Ich nehme eine Tablette gegen Schmerzen.;'I''m taking a tablet for pain.';
-438;sollen;should;Der Arzt sagt, ich sollte mehr Wasser trinken.;The doctor says I should drink more water.;
-439;die Gesundheit, Sg.;health;Gesundheit ist unser wertvollstes Gut.;Health is our most valuable asset.;
-440;die Krankenkasse, -n;health insurance;Die Krankenkasse übernimmt die Kosten der Behandlung.;Health insurance covers the cost of treatment.;
-441;regelmäßig;regularly;Es ist wichtig, regelmäßig Sport zu treiben.;'It''s important to exercise regularly.';
-442;die Zahnkontrolle, -n;dental check-up;Die Zahnkontrolle beim Zahnarzt ist wichtig.;Dental check-ups at the dentist are important.;
-443;das Bonusheft, -e;bonus booklet;Das Bonusheft dokumentiert Zahnarztbesuche.;The bonus booklet documents dental visits.;
-444;die Gesundheitskarte, -n;health card;Bitte bringen Sie Ihre Gesundheitskarte zum Arzttermin mit.;'Please bring your health card to the doctor''s appointment.';
-445;die Krankschreibung, -en;sick leave certificate;Der Arzt hat mir eine Krankschreibung für eine Woche ausgestellt.;The doctor issued me a sick leave certificate for one week.;
-446;der/die Arbeitgeber/in, -/-nen;employer;Mein Arbeitgeber ist sehr großzügig.;My employer is very generous.;
-447;das Medikament, -e;medication;Das Medikament hilft gegen die Schmerzen.;The medication helps with the pain.;
-448;geben;to give;Kannst du mir bitte Wasser geben?;Can you please give me some water?;
-449;das Rezept, -e;prescription;Der Arzt hat mir ein Rezept für die Medikamente gegeben.;The doctor gave me a prescription for the medication.;
-450;die Apotheke, -n;pharmacy;Ich gehe zur Apotheke, um das Medikament abzuholen.;'I''m going to the pharmacy to pick up the medication.';
-451;krank;sick;Ich fühle mich heute krank und kann nicht arbeiten.;'I feel sick today and can''t work.';
-452;sofort;immediately;Bitte rufen Sie den Notruf sofort an.;Please call the emergency number immediately.;
-453;Fieber messen;to measure the fever;Wir müssen das Fieber messen, um die Temperatur zu überprüfen.;We need to measure the fever to check the temperature.;
-454;die Entschuldigung, -en;apology;Ich schreibe eine Entschuldigung für die verpasste Schule.;'I''m writing an apology for the missed school.';
-455;Sehr geehrte Frau ... / Sehr geehrter Herr ...;Dear Mrs... / Dear Mr...;Sehr geehrte Frau Müller, ...;Dear Mrs. Müller, ...;
-456;Mit freundlichen Grüßen;Yours sincerely;Mit freundlichen Grüßen, Peter Schmidt;Yours sincerely, Peter Schmidt;
-457;der Unterricht, Sg.;lessons;Der Unterricht beginnt um 8 Uhr morgens.;'Lessons start at 8 o''clock in the morning.';
-458;untersuchen;to examine;Der Arzt wird Sie untersuchen, um die Ursache zu finden.;The doctor will examine you to find the cause.;
-459;operieren;to operate;Der Chirurg wird das Knie operieren.;The surgeon will operate on the knee.;
-460;es geht mir besser;'I''m feeling better';Danke für die Genesungswünsche, es geht mir besser.;'Thank you for the get-well wishes, I''m feeling better.';
-461;der Notruf, -e;emergency call;In einem Notfall sollten Sie den Notruf wählen.;In case of an emergency, you should dial the emergency number.;
-462;der Notfall, "-e;emergency;In einem medizinischen Notfall rufen Sie den Notarzt.;In a medical emergency, call the emergency doctor.;
-463;der Notarzt, "-e;emergency doctor;Der Notarzt ist schnell am Unfallort angekommen.;The emergency doctor arrived quickly at the accident scene.;
-464;der Unfall, "-e;accident;Der Unfall ereignete sich gestern auf der Autobahn.;The accident happened yesterday on the highway.;
-465;Was ist passiert?;What happened?;Was ist passiert? Kannst du mir erzählen, was passiert ist?;What happened? Can you tell me what happened?;
-466;verletzt sein;to be injured;Er ist bei dem Unfall verletzt worden.;He was injured in the accident.;
-467;dringend;urgent;Wir benötigen dringend medizinische Hilfe.;We urgently need medical assistance.;
-468;die Minute, -n;minute;Wir haben noch eine Minute Zeit, um den Zug zu erreichen.;We have one more minute to catch the train.;
-469;die Ecke, -n;corner;Die Apotheke befindet sich an der Ecke der Straße.;The pharmacy is located at the corner of the street.;
-470;das Feuer, Sg.;fire;Das Feuerwehrauto kommt, um das Feuer zu löschen.;The fire truck is coming to extinguish the fire.;
-471;die Feuerwehr, -en;fire department;Die Feuerwehr ist schnell am Brandort.;The fire department arrived quickly at the fire scene.;
-472;der Krankenwagen, -;ambulance;Der Krankenwagen bringt den Verletzten ins Krankenhaus.;The ambulance is taking the injured person to the hospital.;
-473;der Weg, -e;way;Können Sie mir den Weg zum Bahnhof zeigen?;Can you show me the way to the train station?;
-474;die Stadt, "-e;city;Die Stadt ist voller Sehenswürdigkeiten.;The city is full of sights.;
-475;der Bus, -se;bus;Der Bus fährt alle 30 Minuten.;The bus runs every 30 minutes.;
-476;die Straßenbahn, -en;tram;Die Straßenbahn hält an dieser Haltestelle.;The tram stops at this tram stop.;
-477;die U-Bahn, -en;subway;Die U-Bahn ist ein schnelles Verkehrsmittel in der Stadt.;The subway is a fast mode of transportation in the city.;
-478;die S-Bahn, -en;suburban train;Die S-Bahn verbindet die Stadt mit den Vororten.;The suburban train connects the city with the suburbs.;
-479;der Zug, "-e;train;Der Zug fährt pünktlich ab.;The train departs on time.;
-480;das Schiff, -e;ship;Wir nehmen das Schiff für eine Bootsfahrt auf dem See.;'We''re taking the ship for a boat trip on the lake.';
-481;das Motorrad, "-er;motorcycle;Das Motorrad ist ein schnelles Fortbewegungsmittel.;The motorcycle is a fast mode of transportation.;
-482;das Flugzeug, -e;airplane;Das Flugzeug hebt ab und fliegt in den Himmel.;The airplane takes off and flies into the sky.;
-483;der/die Fußgänger/in, -/-nen;pedestrian;Die Fußgänger müssen an der Ampel warten.;Pedestrians have to wait at the traffic light.;
-484;fahren;to drive;Ich fahre gerne mit dem Fahrrad zur Arbeit.;I like to ride my bike to work.;
-485;fliegen;to fly;Das Flugzeug wird in wenigen Stunden nach New York fliegen.;The airplane will fly to New York in a few hours.;
-486;zu Fuß gehen;to walk;Wir können zu Fuß zum Schwimmbad gehen.;We can walk to the swimming pool.;
-487;teuer;expensive;Das Taxi in dieser Stadt ist sehr teuer.;The taxi in this city is very expensive.;
-488;schnell;fast;Der Zug ist ein schnelles Verkehrsmittel.;The train is a fast mode of transportation.;
-489;praktisch;practical;Ein Fahrrad ist ein praktisches Fortbewegungsmittel in der Stadt.;A bicycle is a practical mode of transportation in the city.;
-490;morgens;in the morning;Morgens trinke ich immer eine Tasse Kaffee.;In the morning, I always have a cup of coffee.;
-491;das Schwimmbad, "-er;swimming pool;Im Schwimmbad können wir schwimmen und Spaß haben.;At the swimming pool, we can swim and have fun.;
-492;das Rathaus, "-er;town hall;Das Rathaus ist das Verwaltungsgebäude der Stadt.;The town hall is the administrative building of the city.;
-493;die Bibliothek, -en;library;Die Bibliothek hat eine große Auswahl an Büchern.;The library has a large selection of books.;
-494;der Hauptbahnhof, "-e;main train station;Der Hauptbahnhof ist ein wichtiger Verkehrsknotenpunkt.;The main train station is an important transportation hub.;
-495;weit;far;Das nächste Restaurant ist weit von hier.;The nearest restaurant is far from here.;
-496;die U-Bahn-Station, -en;subway station;Die U-Bahn-Station ist der beste Weg zur Arbeit.;The subway station is the best way to get to work.;
-497;die Linie, -n;line;Die U-Bahn-Linie 3 fährt zur Stadtmitte.;Subway line 3 goes to the city center.;
-498;die Richtung, -en;direction;In welcher Richtung fährt der Zug?;In which direction is the train going?;
-499;der Zoo, -s;zoo;Der Zoo ist ein beliebter Ort für Familienausflüge.;The zoo is a popular place for family outings.;
-500;die Station, -en;station;Die U-Bahn-Station ist hier.;The subway station is here.;
-501;umsteigen;to change;Wir müssen an der nächsten Station umsteigen.;We need to change at the next station.;
-502;der Flughafen, -;airport;Der Flughafen ist ein geschäftiger Ort.;The airport is a busy place.;
-503;die Stadtmitte, Sg.;city center;Die Stadtmitte ist das Herz der Stadt.;The city center is the heart of the city.;
-504;die Haltestelle, -n;bus stop;Die Haltestelle ist direkt vor dem Café.;The bus stop is right in front of the café.;
-505;die Monatskarte, -n;monthly ticket;Mit einer Monatskarte können Sie den gesamten Monat fahren.;With a monthly ticket, you can travel the entire month.;
-506;das Café, -s;café;Wir treffen uns im Café um 15 Uhr.;'We''ll meet at the café at 3 PM.';
-507;der Platz, "-e;square;Der Platz ist voller Menschen und Musik.;The square is full of people and music.;
-508;der Baum, "-e;tree;Der Baum spendet Schatten an heißen Tagen.;The tree provides shade on hot days.;
-509;der Spielplatz, "-e;playground;Die Kinder spielen auf dem Spielplatz.;The children are playing on the playground.;
-510;die Bank, "-e;bench;Setzen wir uns auf die Bank und ruhen uns aus.;'Let''s sit on the bench and rest.';
-511;der Hund, -e;dog;Der Hund läuft glücklich im Park.;The dog is running happily in the park.;
-512;in;in;Die Schlüssel sind in der Tasche.;The keys are in the bag.;
-513;an;at;Wir treffen uns an der Haltestelle.;'We''ll meet at the bus stop.';
-514;auf;on;Das Buch liegt auf dem Tisch.;The book is on the table.;
-515;unter;under;Die Katze versteckt sich unter dem Bett.;The cat is hiding under the bed.;
-516;über;over;Der Vogel fliegt über dem Haus.;The bird is flying over the house.;
-517;vor;in front of;Das Auto steht vor dem Haus.;The car is in front of the house.;
-518;hinter;behind;Das Geschenk ist hinter dem Sofa versteckt.;The gift is hidden behind the sofa.;
-519;neben;beside;Der Stuhl steht neben dem Tisch.;The chair is beside the table.;
-520;zwischen;between;Das Hotel liegt zwischen dem Strand und dem Wald.;The hotel is located between the beach and the forest.;
-521;die Ampel, -n;traffic light;An der Ampel müssen wir warten.;We have to wait at the traffic light.;
-522;parken;to park;Kann ich hier parken?;Can I park here?;
-523;der Parkplatz, "-e;parking lot;Der Parkplatz ist voll, wir müssen woanders parken.;The parking lot is full, we have to park somewhere else.;
-524;der Park, -s;park;Der Park ist ein schöner Ort für ein Picknick.;The park is a beautiful place for a picnic.;
-525;der Fluss, "-e;river;Der Fluss fließt ruhig durch die Landschaft.;The river flows peacefully through the landscape.;
-526;(nach) links;to the left;Biegen Sie an der Kreuzung nach links ab.;Turn left at the intersection.;
-527;(nach) rechts;to the right;Fahren Sie nach rechts auf die Hauptstraße.;Turn right onto the main road.;
-528;geradeaus;straight ahead;Fahren Sie geradeaus bis zur nächsten Kreuzung.;Drive straight ahead to the next intersection.;
-529;die Kreuzung, -en;intersection;Die Kreuzung ist gut beschildert.;The intersection is well signposted.;
-530;auf der linken Seite;on the left side;Das Café ist auf der linken Seite der Straße.;The café is on the left side of the street.;
-531;gegenüber;opposite;Das Geschäft liegt gegenüber dem Supermarkt.;The shop is located opposite the supermarket.;
-532;in der Nähe;nearby;Der Park ist in der Nähe des Zoos.;The park is nearby the zoo.;
-533;der Führerschein, -e;'driver''s license';Um ein Auto zu fahren, braucht man einen Führerschein.;'To drive a car, you need a driver''s license.';
-534;die Führerscheinprüfung, -en;'driver''s license test';Die Führerscheinprüfung besteht aus einer theoretischen und einer praktischen Prüfung.;'The driver''s license test consists of a theoretical and a practical exam.';
-535;anerkennen;to recognize;Die Behörden erkennen den ausländischen Führerschein an.;'The authorities recognize the foreign driver''s license.';
-536;dürfen;to be allowed to;Kinder dürfen nicht ohne Erwachsene ins Schwimmbad.;Children are not allowed into the swimming pool without adults.;
-537;Vorfahrt haben;to have the right of way;Das Fahrzeug auf der Hauptstraße hat Vorfahrt.;The vehicle on the main road has the right of way.;
-538;das Vorfahrtsschild, -er;yield sign;An einem Vorfahrtsschild müssen Sie anderen Fahrzeugen Vorfahrt gewähren.;At a yield sign, you must yield to other vehicles.;
-539;der Lkw, -s;truck;Der Lkw transportiert Waren von einem Ort zum anderen.;The truck transports goods from one place to another.;
-540;der Bürgersteig, -e;sidewalk;Die Menschen gehen auf dem Bürgersteig.;People walk on the sidewalk.;
-541;das Schild, -er;sign;Das Schild warnt vor Wildwechsel.;The sign warns of deer crossing.;
-542;anhalten;to stop;Bitte halten Sie an der roten Ampel an.;Please stop at the red traffic light.;
-543;abbiegen;to turn;Biegen Sie an der nächsten Kreuzung rechts ab.;Turn right at the next intersection.;
-544;hupen;to honk;Der Autofahrer hupt, um auf sich aufmerksam zu machen.;The driver honks the horn to get attention.;
-545;weiterfahren;to continue driving;Nach einer kurzen Pause werden wir weiterfahren.;After a short break, we will continue driving.;
-546;blinken;to signal;Bitte vergiss nicht zu blinken, wenn du abbiegst.;'Please don''t forget to signal when you turn.';
-547;Vorfahrt achten;to yield the right of way;An dieser Kreuzung musst du die Vorfahrt achten.;At this intersection, you need to yield the right of way.;
-548;früher;earlier;Früher bin ich immer mit dem Fahrrad zur Schule gefahren.;I used to ride my bike to school earlier.;
-549;heute;today;Heute ist ein sonniger Tag.;Today is a sunny day.;
-550;verheiratet;married;Sie sind seit fünf Jahren verheiratet.;They have been married for five years.;
-551;ledig;single;Er ist ledig und sucht nach einer Beziehung.;He is single and looking for a relationship.;
-552;geschieden;divorced;Meine Eltern sind seit letztem Jahr geschieden.;My parents got divorced last year.;
-553;die Großstadt, "-e;metropolis;Berlin ist eine lebendige Großstadt mit vielen Sehenswürdigkeiten.;Berlin is a vibrant metropolis with many sights.;
-554;die Kleinstadt, "-e;small town;In einer Kleinstadt ist das Leben oft ruhiger als in der Großstadt.;Life in a small town is often quieter than in a big city.;
-555;träumen;to dream;Ich träume von einem Urlaub am Strand.;I dream of a vacation at the beach.;
-556;reden;to talk;Lass uns über deine Pläne reden.;'Let''s talk about your plans.';
-557;mit Freunden reden;to talk with friends;Es ist wichtig, mit Freunden zu reden, wenn du Probleme hast.;'It''s important to talk with friends when you have problems.';
-558;Karten spielen;to play cards;Wir spielen gerne Karten an den Wochenenden.;We enjoy playing cards on weekends.;
-559;Sport machen;to do sports;Sport machen ist gut für die Gesundheit.;Doing sports is good for your health.;
-560;das Radio, -s;radio;Ich höre gerne das Radio, um auf dem Laufenden zu bleiben.;I like listening to the radio to stay informed.;
-561;Radio hören;to listen to the radio;Ich höre gerne Musik, wenn ich Radio höre.;I like listening to music when I listen to the radio.;
-562;unterwegs;on the way;Ich bin unterwegs zum Supermarkt.;'I''m on my way to the supermarket.';
-563;die Postkarte, -n;postcard;Ich schicke dir eine Postkarte aus dem Urlaub.;'I''m sending you a postcard from my vacation.';
-564;Liebe Claudia;Dear Claudia;Liebe Claudia, ich hoffe, es geht dir gut.;'Dear Claudia, I hope you''re doing well.';
-565;einschlafen;to fall asleep;Ich kann nachts nicht einschlafen.;'I can''t fall asleep at night.';
-566;müde;tired;Ich bin sehr müde nach der Arbeit.;'I''m very tired after work.';
-567;aufwachen;to wake up;Ich wache normalerweise um 7 Uhr morgens auf.;I usually wake up at 7 in the morning.;
-568;der Autoschlüssel, -;car key;Wo hast du den Autoschlüssel gelassen?;Where did you leave the car key?;
-569;finden;to find;Ich kann meine Brille nicht finden.;'I can''t find my glasses.';
-570;auf dem Land leben;to live in the countryside;Viele Menschen träumen davon, auf dem Land zu leben.;Many people dream of living in the countryside.;
-571;in der Stadt leben;to live in the city;In der Stadt zu leben, hat seine Vor- und Nachteile.;Living in the city has its pros and cons.;
-572;am Anfang;at the beginning;Am Anfang des Buches gibt es eine Einführung.;At the beginning of the book, there is an introduction.;
-573;zuerst;first;Zuerst gehe ich einkaufen und dann zur Arbeit.;First, I go shopping, and then to work.;
-574;zuletzt;last;Sie war die zuletzt ankommende Person auf der Party.;She was the last person to arrive at the party.;
-575;seit;since;Ich lerne Deutsch seit zwei Jahren.;'I''ve been learning German for two years.';
-576;seit wann ...?;since when ...?;Seit wann wohnst du in dieser Stadt?;Since when have you been living in this city?;
-577;wie lange ...?;how long ...?;Wie lange dauert der Flug von hier nach New York?;How long is the flight from here to New York?;
-578;arm;poor;Arme Menschen haben oft Schwierigkeiten, ihre Grundbedürfnisse zu erfüllen.;Poor people often have difficulties meeting their basic needs.;
-579;schwer;difficult;Das Mathe-Problem war schwer zu lösen.;The math problem was difficult to solve.;
-580;das Taxiunternehmen, -;taxi company;Das Taxiunternehmen bietet einen schnellen Service an.;The taxi company offers a fast service.;
-581;der/die Angestellte, -n/-n;employee;Die Angestellten des Unternehmens sind sehr engagiert.;The employees of the company are very dedicated.;
-582;wichtig;important;Es ist wichtig, die richtigen Entscheidungen zu treffen.;'It''s important to make the right decisions.';
-583;Liebe Grüße;best regards;Liebe Grüße, Maria;Best regards, Maria;
-584;das Amt, "-er;office;Das Amt ist montags bis freitags geöffnet.;The office is open from Monday to Friday.;
-585;die Behörde, -n;authority;Die Behörde ist für die Ausstellung von Dokumenten verantwortlich.;The authority is responsible for issuing documents.;
-586;die Bundesagentur für Arbeit;Federal Employment Agency;Die Bundesagentur für Arbeit hilft bei der Jobsuche.;The Federal Employment Agency helps with job search.;
-587;die Familienkasse;family allowance office;Die Familienkasse zahlt Kindergeld an berechtigte Familien aus.;The family allowance office pays child benefit to eligible families.;
-588;das Standesamt, "-er;registry office;Im Standesamt können Paare heiraten.;Couples can get married at the registry office.;
-589;die Kfz-Zulassungsstelle, -n;vehicle registration office;Die Kfz-Zulassungsstelle ist zuständig für die Anmeldung von Autos.;The vehicle registration office is responsible for car registration.;
-590;der Warteraum, "-e;waiting room;Im Warteraum können Sie bequem auf Ihren Termin warten.;You can wait comfortably for your appointment in the waiting room.;
-591;heiraten;to marry;Sie werden nächsten Monat heiraten.;They will get married next month.;
-592;anmelden;to register;Bitte melden Sie sich im Büro an.;Please register at the office.;
-593;abmelden;to deregister;Wenn Sie umziehen, müssen Sie sich bei der Stadt abmelden.;If you move, you need to deregister with the city.;
-594;beantragen;to apply for;Sie können online einen Reisepass beantragen.;You can apply for a passport online.;
-595;das Kindergeld, Sg.;child benefit;Das Kindergeld wird monatlich ausgezahlt.;Child benefit is paid monthly.;
-596;die Berufsberatung, -en;career counseling;Die Berufsberatung hilft bei der Berufswahl.;Career counseling helps with choosing a profession.;
-597;das Bürgeramt, "-er;'citizen''s office';Sie müssen zum Bürgeramt gehen, um Ihren Wohnsitz anzumelden.;'You need to go to the citizen''s office to register your residence.';
-598;das Ausländeramt, "-er;'foreigners'' office';Das Ausländeramt kümmert sich um Visa-Angelegenheiten.;'The foreigners'' office handles visa matters.';
-599;das Visum, Visa;visa;Um nach Deutschland zu reisen, benötigen Sie ein Visum.;To travel to Germany, you need a visa.;
-600;verlängern;to extend;Können Sie mein Visum verlängern?;Can you extend my visa?;
-601;die Meldestelle, -n;registration office;Die Meldestelle ist für Wohnsitzanmeldungen zuständig.;The registration office is responsible for residence registrations.;
-602;die Gemeinde, -n;municipality;Die Gemeinde organisiert lokale Veranstaltungen.;The municipality organizes local events.;
-603;das Geburtsdatum, -daten;date of birth;Bitte geben Sie Ihr Geburtsdatum an.;Please provide your date of birth.;
-604;der Geburtsort, -e;place of birth;Mein Geburtsort ist Berlin.;My place of birth is Berlin.;
-605;der Familienstand, Sg.;marital status;Mein Familienstand ist ledig.;My marital status is single.;
-606;männlich;male;Mein Geschlecht ist männlich.;My gender is male.;
-607;weiblich;female;Ihr Geschlecht ist weiblich.;Her gender is female.;
-608;berufstätig;employed;Sind Sie berufstätig oder arbeitslos?;Are you employed or unemployed?;
-609;die Staatsangehörigkeit, -en;nationality;Meine Staatsangehörigkeit ist Deutsch.;My nationality is German.;
-610;geboren sein;to be born;Ich bin in München geboren.;I was born in Munich.;
-611;das Datum, Daten;date;Bitte notieren Sie das Datum des Treffens.;Please note the date of the meeting.;
-612;der Einzug, Sg.;move-in;Der Einzug in die neue Wohnung war aufregend.;The move-in into the new apartment was exciting.;
-613;die Hauptwohnung, Sg.;main residence;Meine Hauptwohnung ist in Hamburg.;My main residence is in Hamburg.;
-614;der/die Vermieter/in, -/-nen;landlord/landlady;Der Vermieter hat die Miete erhöht.;The landlord raised the rent.;
-615;mieten;to rent;Wir möchten eine Wohnung mieten.;We want to rent an apartment.;
-616;umziehen;to move;Wir werden nächsten Monat umziehen.;We will move next month.;
-617;der Antrag, "-e;application;Bitte füllen Sie den Antrag aus.;Please fill out the application.;
-618;einen Antrag stellen;to submit an application;Sie können online einen Antrag stellen.;You can submit an application online.;
-619;die Eigentumswohnung, -en;condominium;Die Eigentumswohnung gehört mir.;The condominium is owned by me.;
-620;gehören;to belong;Das Haus gehört meiner Familie.;The house belongs to my family.;
-621;ein Formular ausfüllen;to fill out a form;Bitte füllen Sie dieses Formular aus und geben Sie es ab.;Please fill out this form and submit it.;
-622;verstehen;to understand;Können Sie mich bitte wiederholen? Ich habe nicht verstanden.;'Can you please repeat? I didn''t understand.';
-623;der/die Sachbearbeiter/in, -/-nen;case worker;Der Sachbearbeiter wird Ihnen bei Ihrem Anliegen helfen.;The case worker will assist you with your request.;
-624;der Tipp, -s;tip;Vielen Dank für den hilfreichen Tipp!;Thank you for the helpful tip!;
-625;die Informationsbroschüre, -n;information brochure;Die Informationsbroschüre enthält wichtige Details.;The information brochure contains important details.;
-626;danken;to thank;Ich möchte Ihnen herzlich für Ihre Hilfe danken.;I want to thank you warmly for your help.;
-627;nett;nice;Sie ist eine sehr nette Person.;She is a very nice person.;
-628;der Antrag, "-e;application;Bitte füllen Sie den Antrag aus und reichen Sie ihn ein.;Please fill out the application and submit it.;
-629;einen Antrag stellen;to submit an application;Sie müssen einen Antrag stellen, um Unterstützung zu erhalten.;You need to submit an application to receive assistance.;
-630;Verzeihung;excuse me;Verzeihung, können Sie mir den Weg zum Bahnhof erklären?;Excuse me, can you explain the way to the train station?;
-631;die Kursgebühr, -en;course fee;Die Kursgebühr muss bis zum Kursbeginn bezahlt werden.;The course fee must be paid by the start of the course.;
-632;die Wartenummer, -n;queue number;Bitte warten Sie, bis Ihre Wartenummer aufgerufen wird.;Please wait until your queue number is called.;
-633;der Eingang, "-e;entrance;Der Eingang zum Gebäude befindet sich auf der linken Seite.;The entrance to the building is on the left side.;
-634;erklären;to explain;Können Sie mir das bitte genauer erklären?;Can you please explain this to me in more detail?;
-635;Herzlichen Dank!;Thank you very much!;Herzlichen Dank für Ihre Hilfe.;Thank you very much for your help!;
-636;die Geburtsurkunde, -n;birth certificate;Die Geburtsurkunde ist ein wichtiges Dokument.;The birth certificate is an important document.;
-637;der Pass, "-e;passport;Bitte legen Sie Ihren Pass und Ihr Visum vor.;Please present your passport and visa.;
-638;der Mietvertrag, "-e;rental agreement;Der Mietvertrag regelt die Bedingungen für die Wohnung.;The rental agreement outlines the conditions for the apartment.;
-639;die Gehaltsabrechnung, -en;payroll statement;Die Gehaltsabrechnung zeigt Ihre monatlichen Einnahmen und Abzüge.;The payroll statement displays your monthly earnings and deductions.;
-640;der Kindergeldantrag, "-e;child benefit application;Sie müssen einen Kindergeldantrag stellen, um Kindergeld zu erhalten.;You need to submit a child benefit application to receive child benefit.;
-641;der Arztbesuch, -e;'doctor''s visit';Der Arztbesuch war heute Morgen.;The doctor;
-642;das Kaufhaus, "-er;department store;Ich gehe ins Kaufhaus, um Kleidung zu kaufen.;'I''m going to the department store to buy clothes.';
-643;der Anzug, "-e;suit;Der Anzug passt gut zu diesem Anlass.;The suit is a good fit for this occasion.;
-644;das Hemd, -en;shirt;Dieses Hemd ist sehr schick.;This shirt is very stylish.;
-645;die Hose, -n;pants;Die Hose ist zu eng. Ich brauche eine größere Größe.;The pants are too tight. I need a larger size.;
-646;das Kleid, -er;dress;Das Kleid sieht wunderschön aus.;The dress looks beautiful.;
-647;der Mantel, "-;coat;Der Mantel hält warm im Winter.;The coat keeps you warm in winter.;
-648;der Pullover, -;sweater;Dieser Pullover ist bequem und warm.;This sweater is comfortable and warm.;
-649;der Rock, "-e;skirt;Der Rock ist heute dein Lieblingsstück.;The skirt is your favorite piece today.;
-650;der Schuh, -e;shoe;Die Schuhe sind bequem für lange Spaziergänge.;The shoes are comfortable for long walks.;
-651;die Jeans, -;jeans;Jeans sind vielseitig und bequem.;Jeans are versatile and comfortable.;
-652;das T-Shirt, -s;t-shirt;Das T-Shirt hat ein cooles Design.;The t-shirt has a cool design.;
-653;das Sweatshirt, -s;sweatshirt;Das Sweatshirt ist perfekt für kühle Tage.;The sweatshirt is perfect for cool days.;
-654;die Bluse, -n;blouse;Die Bluse passt gut zur Jeans.;The blouse goes well with jeans.;
-655;die Socke, -n;sock;Die Socken halten die Füße warm.;The socks keep the feet warm.;
-656;die Unterwäsche, Sg.;underwear;Gute Unterwäsche sollte bequem sein.;Good underwear should be comfortable.;
-657;gefallen;to like;Mir gefällt dieses Kleid sehr.;I really like this dress.;
-658;die Kleidung, Sg.;clothing;Meine Kleidung ist modisch und bequem.;My clothing is fashionable and comfortable.;
-659;schick;stylish;Dein Outfit sieht heute sehr schick aus.;Your outfit looks very stylish today.;
-660;altmodisch;old-fashioned;Der Vintage-Stil ist manchmal altmodisch, aber trendy.;Vintage style is sometimes old-fashioned but trendy.;
-661;gar nicht;not at all;Mir gefällt diese Farbe gar nicht.;'I don''t like this color at all.';
-662;überhaupt (nicht);not at all;Ich verstehe das überhaupt nicht.;'I don''t understand that at all.';
-663;komisch;strange;Das ist wirklich komisch.;That is really strange.;
-664;ausehen;to look;Du siehst heute großartig aus.;You look great today.;
-665;passen;to fit;Dieses Hemd passt perfekt.;This shirt fits perfectly.;
-666;anprobieren;to try on;Ich werde dieses Kleid anprobieren.;I will try on this dress.;
-667;die Umkleidekabine, -n;fitting room;Die Umkleidekabine ist gleich hier drüben.;The fitting room is right over there.;
-668;der Secondhandladen, -;secondhand store;Ich kaufe gerne in Secondhandläden ein.;I like to shop at secondhand stores.;
-669;der Flohmarkt, "-e;flea market;Am Wochenende gehe ich gerne auf den Flohmarkt.;I enjoy going to the flea market on weekends.;
-670;die Boutique, -n;boutique;In dieser Boutique gibt es exklusive Mode.;This boutique offers exclusive fashion.;
-671;günstig;affordable;Dieses Kleid ist sehr günstig.;This dress is very affordable.;
-672;teuer;expensive;Der Schmuck in diesem Geschäft ist sehr teuer.;The jewelry in this store is very expensive.;
-673;angenehm;pleasant;Das Einkaufen hier ist immer angenehm.;Shopping here is always pleasant.;
-674;stressig;stressful;Der Einkaufsbummel am Black Friday kann sehr stressig sein.;Black Friday shopping can be very stressful.;
-675;kompliziert;complicated;Die Bedienungsanleitung ist sehr kompliziert.;The user manual is very complicated.;
-676;cool;cool;Deine Schuhe sehen wirklich cool aus.;Your shoes look really cool.;
-677;anziehen;to put on;Ich werde dieses Kleid für die Party anziehen.;I will put on this dress for the party.;
-678;welcher, -s, -e;which;Welches Hemd möchtest du kaufen?;Which shirt would you like to buy?;
-679;das Computerspiel, -e;computer game;Computerspiele können unterhaltsam sein.;Computer games can be entertaining.;
-680;der Schmuck, Sg.;jewelry;Schmuck kann ein Outfit ergänzen.;Jewelry can complement an outfit.;
-681;die Toilette, -n;toilet;Die Toilette befindet sich im Erdgeschoss.;The toilet is located on the ground floor.;
-682;der Ausgang, "-e;exit;Der Ausgang ist auf der rechten Seite.;The exit is on the right side.;
-683;die Größe, -n;size;Welche Größe tragen Sie bei Hosen?;What size do you wear for pants?;
-684;eine Hose in Größe M;a pair of pants in size M;Ich brauche eine Hose in Größe M.;I need a pair of pants in size M.;
-685;nachsehen;to check;Können Sie bitte nachsehen, ob diese Bluse in Ihrer Größe verfügbar ist?;Can you please check if this blouse is available in your size?;
-686;die Abteilung, -en;department;Die Damenbekleidung ist in der zweiten Abteilung.;'Women''s clothing is in the second department.';
-687;hinten, dort hinten;in the back, back there;Die Umkleidekabinen sind hinten, dort hinten.;The fitting rooms are in the back, back there.;
-688;vorne, da vorne;in the front, up front;Die Kassen befinden sich vorne, da vorne.;The cash registers are in the front, up front.;
-689;direkt neben;right next to;Das Café ist direkt neben der Boutique.;The cafe is right next to the boutique.;
-690;die Rolltreppe, -n;escalator;Nehmen Sie die Rolltreppe in die oberen Stockwerke.;Take the escalator to the upper floors.;
-691;das Mädchen, -;girl;Das Mädchen trägt ein schönes Kleid.;The girl is wearing a beautiful dress.;
-692;der gleiche Preis;the same price;Beide Artikel haben den gleichen Preis.;Both items have the same price.;
-693;Tut mir leid.;'I''m sorry';Tut mir leid, dass ich zu spät bin.;'I''m sorry I''m late.';
-694;der Vorteil, -e;advantage;Ein Vorteil des neuen Jobs ist das höhere Gehalt.;An advantage of the new job is the higher salary.;
-695;der Nachteil, -e;disadvantage;Ein Nachteil von Online-Shopping ist, dass man die Produkte nicht vorher anfassen kann.;'A disadvantage of online shopping is that you can''t touch the products beforehand.';
-696;die Reise, -n;trip;Unsere Reise nach Italien war wunderbar.;Our trip to Italy was wonderful.;
-697;der Berg, -e;mountain;Der Berg ist mit Schnee bedeckt.;The mountain is covered in snow.;
-698;der Bauernhof, "-e;farm;Der Bauernhof hat viele Tiere und Felder.;The farm has many animals and fields.;
-699;der Wald, "-er;forest;Der Wald ist ein beliebter Ort für Wanderungen.;The forest is a popular spot for hiking.;
-700;die Wiese, -n;meadow;Die Wiese ist im Frühling voller Blumen.;The meadow is full of flowers in spring.;
-701;das Meer, -e;sea;Das Meer ist blau und ruhig.;The sea is blue and calm.;
-702;der See, -n;lake;Der See ist ideal zum Schwimmen.;The lake is perfect for swimming.;
-703;der Strand, "-e;beach;Der Strand ist mit feinem Sand bedeckt.;The beach is covered in fine sand.;
-704;wandern;to hike;Wir lieben es, in den Bergen zu wandern.;We love to hike in the mountains.;
-705;auf dem Land;in the countryside;Unser Haus steht auf dem Land.;Our house is in the countryside.;
-706;die Ankunft;arrival;Die Ankunft des Zuges ist pünktlich.;The arrival of the train is on time.;
-707;die Reservierung, -en;reservation;Haben Sie eine Reservierung für das Hotel?;Do you have a reservation for the hotel?;
-708;die Erste/Zweite Klasse;first/second class;Wir haben Tickets für die Erste Klasse.;We have tickets for first class.;
-709;abfahren;to depart;Der Zug wird um 15:30 Uhr abfahren.;The train will depart at 3:30 PM.;
-710;ankommen;to arrive;Der Flug aus New York wird in einer Stunde ankommen.;The flight from New York will arrive in an hour.;
-711;das Gleis, -e;track;Unser Zug fährt vom Gleis 3 ab.;Our train departs from track 3.;
-712;die Verspätung, -en;delay;Es tut uns leid, aber der Zug hat eine Verspätung von 30 Minuten.;'We''re sorry, but the train has a delay of 30 minutes.';
-713;die Landschaft, -en;landscape;Die Landschaft in dieser Region ist fantastisch.;The landscape in this region is fantastic.;
-714;fantastisch;fantastic;Das Konzert gestern Abend war fantastisch.;The concert last night was fantastic.;
-715;die Brücke, -n;bridge;Die alte Brücke verbindet die beiden Ufer des Flusses.;The old bridge connects the two riverbanks.;
-716;ungefähr;approximately;Die Fahrt dauert ungefähr zwei Stunden.;The journey takes approximately two hours.;
-717;der Kilometer, -;kilometer;Wir müssen noch 10 Kilometer bis zur Stadt fahren.;We still have to drive 10 kilometers to the city.;
-718;übernachten;to stay overnight;Wir werden heute Nacht in diesem Hotel übernachten.;We will stay overnight at this hotel tonight.;
-719;zurückkommen;to come back;Wann wirst du aus deinem Urlaub zurückkommen?;When will you come back from your vacation?;
-720;durch;through;Wir fahren durch den Tunnel.;'We''re driving through the tunnel.';
-721;um;around;Die Stadt ist umgeben von wunderschöner Natur.;The city is surrounded by beautiful nature.;
-722;das Wetter, Sg.;weather;Das Wetter heute ist sonnig und warm.;The weather today is sunny and warm.;
-723;die Sonne, Sg.;sun;Die Sonne scheint hell am Himmel.;The sun is shining brightly in the sky.;
-724;heiß;hot;Es ist heute sehr heiß.;'It''s very hot today.';
-725;sonnig;sunny;Das Wetter ist sonnig und klar.;The weather is sunny and clear.;
-726;der Regen, Sg.;rain;Der Regen hat den Boden durchnässt.;The rain has soaked the ground.;
-727;regnen;to rain;Es wird morgen den ganzen Tag regnen.;It will rain all day tomorrow.;
-728;nass;wet;Nach dem Regen sind die Straßen nass.;The streets are wet after the rain.;
-729;der Wind, -e;wind;Der Wind weht stark heute.;The wind is blowing strongly today.;
-730;windig;windy;Es ist sehr windig draußen.;'It''s very windy outside.';
-731;die Wolke, -n;cloud;Die Wolken am Himmel sind grau.;The clouds in the sky are gray.;
-732;bewölkt;cloudy;Der Himmel ist heute bewölkt.;The sky is cloudy today.;
-733;der Schnee, Sg.;snow;Der Schnee bedeckt die Landschaft im Winter.;Snow covers the landscape in winter.;
-734;schneien;to snow;Es wird morgen voraussichtlich schneien.;'It''s expected to snow tomorrow.';
-735;der Norden, Sg.;north;Der Norden des Landes ist oft kälter als der Süden.;The north of the country is often colder than the south.;
-736;der Osten, Sg.;east;Der Osten Deutschlands hat eine reiche Geschichte.;The east of Germany has a rich history.;
-737;der Süden, Sg.;south;Der Süden ist für sein warmes Klima bekannt.;The south is known for its warm climate.;
-738;der Westen, Sg.;west;Der Westen des Landes hat viele schöne Strände.;The west of the country has many beautiful beaches.;
-739;20° (Grad) Celsius;20 degrees Celsius;Das Thermometer zeigt 20 Grad Celsius an.;The thermometer reads 20 degrees Celsius.;
-740;genauso ... wie;just as ... as;Der Berg ist genauso hoch wie der andere.;The mountain is just as high as the other one.;
-741;die Jahreszeit, -en;season;Der Frühling ist meine Lieblingsjahreszeit.;Spring is my favorite season.;
-742;der Frühling;spring;Der Frühling bringt warmes Wetter und blühende Blumen.;Spring brings warm weather and blooming flowers.;
-743;der Sommer;summer;Im Sommer gehen wir gerne an den Strand.;We like to go to the beach in the summer.;
-744;der Herbst;autumn;Im Herbst fallen die Blätter von den Bäumen.;In autumn, the leaves fall from the trees.;
-745;der Winter;winter;Der Winter ist die kälteste Jahreszeit.;Winter is the coldest season.;
-746;der Monat, -e;month;Mein Geburtstag ist im Monat November.;My birthday is in the month of November.;
-747;der Januar;January;Der Januar ist der erste Monat des Jahres.;January is the first month of the year.;
-748;der Februar;February;Der Februar hat oft kaltes Wetter.;February often has cold weather.;
-749;der März;March;Im März beginnt der Frühling.;Spring begins in March.;
-750;der April;April;Im April blühen die Blumen.;The flowers bloom in April.;
-751;der Mai;May;Der Mai ist ein beliebter Monat für Hochzeiten.;May is a popular month for weddings.;
-752;der Juni;June;Im Juni sind die Tage am längsten.;June has the longest days.;
-753;der Juli;July;Im Juli feiern wir unseren Jahrestag.;We celebrate our anniversary in July.;
-754;der August;August;Im August machen viele Menschen Urlaub.;Many people go on vacation in August.;
-755;der September;September;Der September ist oft noch warm und sonnig.;September is often still warm and sunny.;
-756;der Oktober;October;Im Oktober sind die Blätter bunt.;In October, the leaves are colorful.;
-757;der November;November;Der November kann regnerisch sein.;November can be rainy.;
-758;der Dezember;December;Im Dezember feiern wir Weihnachten.;We celebrate Christmas in December.;
-759;das Tier, -e;animal;Die Kinder lieben Tiere, besonders Hunde und Katzen.;Children love animals, especially dogs and cats.;
-760;der Campingplatz, "-e;campsite;Wir werden auf einem Campingplatz in den Bergen zelten.;We will camp on a campsite in the mountains.;
-761;die Stadtrundfahrt, -en;city tour;Die Stadtrundfahrt führte uns zu den wichtigsten Sehenswürdigkeiten.;The city tour took us to the major attractions.;
-762;preiswert;affordable;Das Restaurant in der Nähe ist preiswert und hat gutes Essen.;The nearby restaurant is affordable and serves good food.;
-763;das Hotel, -s;hotel;Wir haben ein komfortables Hotel für unseren Urlaub gebucht.;We have booked a comfortable hotel for our vacation.;
-764;der Kinderwagen,-;stroller;Der Kinderwagen ist praktisch für Eltern mit Babys.;The stroller is convenient for parents with babies.;
-765;die Mülltonne,-n;garbage bin;Bitte werfen Sie Ihren Müll in die Mülltonne.;Please dispose of your trash in the garbage bin.;
-766;der Hof,-e;courtyard;Die Kinder spielen im Hof des Wohnhauses.;The children play in the courtyard of the apartment building.;
-767;die Klingel,-n;doorbell;Drücken Sie die Klingel, wenn Sie klingeln möchten.;Press the doorbell if you want to ring.;
-768;die Treppe,-n;stairs;Die Treppe führt ins Obergeschoss.;The stairs lead to the upper floor.;
-769;das Licht,Sg.;light;Bitte schalten Sie das Licht aus, wenn Sie den Raum verlassen.;Please turn off the light when you leave the room.;
-770;der Aufzug,-e;elevator;Der Aufzug bringt uns in die oberen Stockwerke des Gebäudes.;The elevator takes us to the upper floors of the building.;
-771;das Treppenhaus,-er;staircase;Das Treppenhaus ist gut beleuchtet.;The staircase is well lit.;
-772;der Nachbar,-n;neighbor (male);Unsere Nachbarn sind freundlich und hilfsbereit.;Our neighbors are friendly and helpful.;
-773;die Nachbarin,-nen;neighbor (female);Die Nachbarin hat einen schönen Garten.;The neighbor (female) has a beautiful garden.;
-774;stören;to disturb;Es tut mir leid, wenn ich störe.;'I''m sorry if I disturb.';
-775;die Bitte,-n;request;Könnte ich eine kleine Bitte haben?;May I make a small request?;
-776;gerade;straight;Gehen Sie die Straße geradeaus, dann links.;Go straight down the street, then turn left.;
-777;Gern geschehen!;'You''re welcome!';Vielen Dank für deine Hilfe. - Gern geschehen!;'Thank you for your help. - You''re welcome!';
-778;das Paket,-e;package;Das Paket wird morgen geliefert.;The package will be delivered tomorrow.;
-779;ein Paket abgeben;to drop off a package;Ich muss heute ein Paket bei der Post abgeben.;I need to drop off a package at the post office today.;
-780;das Päckchen,-;small package;Das Päckchen enthält ein Geschenk für dich.;The small package contains a gift for you.;
-781;das Salz,Sg.;salt;Kannst du bitte das Salz passieren?;Can you please pass the salt?;
-782;die Tasse,-n;cup;Ich trinke meinen Kaffee aus dieser Tasse.;I drink my coffee from this cup.;
-783;Blumen gießen;to water flowers;Vergiss nicht, die Blumen im Garten zu gießen.;'Don''t forget to water the flowers in the garden.';
-784;das Hoffest,-e;courtyard party;Das Hoffest findet am Samstag statt.;The courtyard party is on Saturday.;
-785;feiern;to celebrate;Wir feiern heute Abend meinen Geburtstag.;'We''re celebrating my birthday tonight.';
-786;der Grill,-s;grill;Wir machen heute Abend einen Grillabend im Garten.;'We''re having a barbecue in the garden tonight.';
-787;das Essen,Sg.;food;Das Essen in diesem Restaurant ist ausgezeichnet.;The food in this restaurant is excellent.;
-788;schmecken;to taste;Wie schmeckt das Essen? - Es schmeckt köstlich!;How does the food taste? - It tastes delicious!;
-789;Glück haben;to be lucky;Wir hatten Glück und haben die Lotterie gewonnen.;We were lucky and won the lottery.;
-790;wunderbar;wonderful;Das Konzert gestern Abend war wunderbar.;The concert last night was wonderful.;
-791;funktionieren;to function;Das Radio funktioniert nicht mehr. Es muss repariert werden.;'The radio doesn''t work anymore. It needs to be repaired.';
-792;Das Licht geht nicht.;The light is not working.;Das Licht geht nicht in meinem Zimmer.;;
-793;die Heizung,-en;heating;Die Heizung ist im Winter sehr wichtig.;Heating is very important in winter.;
-794;der Müll,Sg.;garbage;Bitte trennen Sie Ihren Müll.;Please separate your garbage.;
-795;die Tonne,-n;bin;Wir stellen die Mülltonnen am Straßenrand.;We place the bins by the roadside.;
-796;die Müllabfuhr,Sg.;garbage collection;Die Müllabfuhr kommt jeden Dienstag.;Garbage collection is on every Tuesday.;
-797;stellen;to place;Kannst du die Teller auf den Tisch stellen?;Can you place the plates on the table?;
-798;schmutzig;dirty;Die schmutzigen Schuhe bitte vor der Tür ausziehen.;Please take off your dirty shoes at the door.;
-799;riechen;to smell;Hier riecht es nach frischem Brot.;It smells like fresh bread in here.;
-800;ärgerlich;annoying;Es ist ärgerlich, wenn der Computer abstürzt.;'It''s annoying when the computer crashes.';
-801;bestellen;to order;Ich möchte eine Pizza bestellen, bitte.;I would like to order a pizza, please.;
-802;gefährlich;dangerous;Das ist eine gefährliche Kurve auf der Straße.;'That''s a dangerous curve on the road.';
-803;der Keller,-;basement;Im Keller lagern wir unsere Vorräte.;We store our supplies in the basement.;
-804;Fahrräder abstellen;to park bicycles;Wir können die Fahrräder vor dem Haus abstellen.;We can park the bicycles in front of the house.;
-805;denn;because;Ich gehe nicht zur Arbeit, denn ich bin krank.;'I''m not going to work because I''m sick.';
-806;aber;but;Ich wollte ins Kino gehen, aber es regnet.;'I wanted to go to the cinema, but it''s raining.';
-807;der Absender,-;sender;Der Absender des Pakets ist meine Tante.;The sender of the package is my aunt.;
-808;der/die Empfänger/in,-/-nen;recipient;Der Empfänger des Briefs ist mein Nachbar.;The recipient of the letter is my neighbor.;
-809;der Gruß,-e;greeting;Bitte sende deinen Gruß an deine Eltern.;Please send your greeting to your parents.;
-810;die Unterschrift,-en;signature;Die Unterschrift auf dem Vertrag ist erforderlich.;The signature on the contract is required.;
+1;wie;how;Wie geht es Ihnen?;How are you?;[sound:1.mp3]
+2;heißen;to be called;Wie heißen Sie?;'What''s your name?';[sound:2.mp3]
+3;Guten Tag;Good day;Guten Tag!;Good day!;[sound:3.mp3]
+4;und;and;Ich möchte Brot und Käse.;I want bread and cheese.;[sound:4.mp3]
+5;woher;where from;Woher kommen Sie?;Where are you from?;[sound:5.mp3]
+6;kommen;to come;Ich komme aus Deutschland.;I come from Germany.;[sound:6.mp3]
+7;Woher kommen Sie?;Where are you from?;;;[sound:7.mp3]
+8;Ich komme aus ...;I come from ...;;;[sound:8.mp3]
+9;Guten Morgen;Good morning;Guten Morgen!;Good morning!;[sound:9.mp3]
+10;der Name;name;Wie ist Ihr Name?;What is your name?;[sound:10.mp3]
+11;neu;new;Ich bin neu hier.;I am new here.;[sound:11.mp3]
+12;das Haus;house;Mein Haus ist groß.;My house is big.;[sound:12.mp3]
+13;Ich bin neu hier im Haus;I am new here in the house.;;;[sound:13.mp3]
+14;Entschuldigung;excuse me;Entschuldigung, können Sie das wiederholen?;Excuse me, can you repeat that?;[sound:14.mp3]
+15;wohnen;to live;Ich wohne in Berlin.;I live in Berlin.;[sound:15.mp3]
+16;schon lang(e);a long time;Ich lebe schon lange hier.;I have been living here for a long time.;[sound:16.mp3]
+17;hier;here;Ich bin hier.;I am here.;[sound:17.mp3]
+18;Hallo;Hello;Hallo, wie geht es dir?;Hello, how are you?;[sound:18.mp3]
+19;wer;who;Wer ist das?;Who is that?;[sound:19.mp3]
+20;Wie bitte?;Pardon?;Wie bitte? Ich habe dich nicht verstanden.;'Pardon? I didn''t understand you.';[sound:20.mp3]
+21;schreiben;to write;Kannst du mir das aufschreiben?;Can you write that down for me?;[sound:21.mp3]
+22;Wie schreibt man das?;How is that written?;;;[sound:22.mp3]
+23;buchstabieren;to spell;Können Sie das für mich buchstabieren?;Can you spell that for me?;[sound:23.mp3]
+24;der Familienname;surname;Mein Familienname ist Müller.;My surname is Müller.;[sound:24.mp3]
+25;der Vorname;first name;Sein Vorname ist Peter.;His first name is Peter.;[sound:25.mp3]
+26;das Land;country;Deutschland ist ein schönes Land.;Germany is a beautiful country.;[sound:26.mp3]
+27;Frau ...;Mrs. ...;Frau Müller, wie geht es Ihnen?;Mrs. Müller, how are you?;[sound:27.mp3]
+28;Herr ...;Mr. ...;Herr Schmidt, das ist mein Chef.;'Mr. Schmidt, that''s my boss.';[sound:28.mp3]
+29;Wie geht es Ihnen?;How are you?;;;[sound:29.mp3]
+30;danke;thank you;Danke für deine Hilfe.;Thank you for your help.;[sound:30.mp3]
+31;gut;good;Mir geht es gut.;I am good.;[sound:31.mp3]
+32;auch;also;Ich möchte auch Kaffee.;I would like coffee too.;[sound:32.mp3]
+33;Auf Wiedersehen;Goodbye;Auf Wiedersehen, bis bald!;Goodbye, see you soon!;[sound:33.mp3]
+34;Bis bald!;See you soon!;;;[sound:34.mp3]
+35;Es geht so.;'It''s okay.';Wie geht es dir? - Es geht so.;'How are you? - It''s okay.';[sound:35.mp3]
+36;Tschüss;Goodbye;Tschüss, bis morgen!;Goodbye, see you tomorrow!;[sound:36.mp3]
+37;Bis morgen.;See you tomorrow.;;;[sound:37.mp3]
+38;was;what;Was machst du?;What are you doing?;[sound:38.mp3]
+39;machen;to do;Ich möchte heute Abend nichts machen.;'I don''t want to do anything tonight.';[sound:39.mp3]
+40;Was machst du?;What are you doing?;;;[sound:40.mp3]
+41;lernen;to learn;Ich lerne Deutsch.;I am learning German.;[sound:41.mp3]
+42;Deutsch;German;Ich lerne Deutsch.;I am learning German.;[sound:42.mp3]
+43;wo;where;Wo ist das Restaurant?;Where is the restaurant?;[sound:43.mp3]
+44;die Zahl;number;Die Zahl 7 ist eine Glückszahl.;The number 7 is a lucky number.;[sound:44.mp3]
+45;die Nummer;number;Meine Nummer ist 555-1234.;My number is 555-1234.;[sound:45.mp3]
+46;Meine Nummer ist ...;My number is ...;;;[sound:46.mp3]
+47;ja;yes;Bist du bereit? - Ja.;Are you ready? - Yes.;[sound:47.mp3]
+48;nein;no;Möchtest du Tee? - Nein, danke.;Would you like some tea? - No, thank you.;[sound:48.mp3]
+49;Ja, genau.;Yes, exactly.;;;[sound:49.mp3]
+50;nicht;not;Das ist nicht mein Buch.;This is not my book.;[sound:50.mp3]
+51;der Beruf;occupation;Was sind Sie von Beruf?;What is your occupation?;[sound:51.mp3]
+52;der/die Ingenieur/in;engineer;Er ist Ingenieur.;He is an engineer.;[sound:52.mp3]
+53;der/die Verkäufer/in;salesperson;Sie ist Verkäuferin.;She is a salesperson.;[sound:53.mp3]
+54;der/die Arzt/Ärztin;doctor;Der Arzt ist im Krankenhaus.;The doctor is at the hospital.;[sound:54.mp3]
+55;der/die Lehrer/in;teacher;Der Lehrer unterrichtet Deutsch.;The teacher teaches German.;[sound:55.mp3]
+56;die Heimat;homeland;Meine Heimat ist Deutschland.;My homeland is Germany.;[sound:56.mp3]
+57;wo liegt...?;where is...?;Wo liegt Berlin?;Where is Berlin?;[sound:57.mp3]
+58;in;in;Ich wohne in einem Haus.;I live in a house.;[sound:58.mp3]
+59;die Nationalität, -en;nationality;Welche Nationalität hast du?;What is your nationality?;[sound:59.mp3]
+60;die Sprache, -n;language;Deutsch ist eine schöne Sprache.;German is a beautiful language.;[sound:60.mp3]
+61;die Muttersprache, -n;mother tongue;Meine Muttersprache ist Spanisch.;My mother tongue is Spanish.;[sound:61.mp3]
+62;sprechen, er spricht;to speak;Ich spreche Englisch.;I speak English.;[sound:62.mp3]
+63;ein bisschen;a little;Ich verstehe ein bisschen Deutsch.;I understand a little German.;[sound:63.mp3]
+64;arbeiten;to work;Ich arbeite von Montag bis Freitag.;I work from Monday to Friday.;[sound:64.mp3]
+65;lernen;to learn;Ich lerne Deutsch in der Schule.;I learn German in school.;[sound:65.mp3]
+66;lieben;to love;Ich liebe meine Familie.;I love my family.;[sound:66.mp3]
+67;leben;to live;Ich lebe in einer kleinen Stadt.;I live in a small town.;[sound:67.mp3]
+68;suchen;to search;Ich suche mein Handy.;I am looking for my phone.;[sound:68.mp3]
+69;die Arbeit;work;Meine Arbeit macht Spaß.;I enjoy my work.;[sound:69.mp3]
+70;der Stift, -e;pen;Kannst du mir einen Stift leihen?;Can you lend me a pen?;[sound:70.mp3]
+71;der Kugelschreiber, -;ballpoint pen;Ich habe keinen Kugelschreiber.;'I don''t have a ballpoint pen.';[sound:71.mp3]
+72;der Kuli, -s;pen (slang);Hast du einen Kuli?;Do you have a pen?;[sound:72.mp3]
+73;der Laptop, -s;laptop;Mein Laptop ist schnell.;My laptop is fast.;[sound:73.mp3]
+74;das Tablet, -s;tablet;Ich lese Bücher auf meinem Tablet.;I read books on my tablet.;[sound:74.mp3]
+75;der Schlüssel, -;key;Hast du den Schlüssel verloren?;Did you lose the key?;[sound:75.mp3]
+76;der Tisch, -e;table;Wir essen am Tisch.;We eat at the table.;[sound:76.mp3]
+77;"der Stuhl, ""-e";chair;Bitte nehmen Sie Platz auf dem Stuhl.;Please take a seat on the chair.;[sound:77.mp3]
+78;"das Buch, ""-er";book;Ich lese gerne Bücher.;I enjoy reading books.;[sound:78.mp3]
+79;das Heft, -e;notebook;Ich schreibe Notizen in mein Heft.;I write notes in my notebook.;[sound:79.mp3]
+80;das Handy, -s;mobile phone;Mein Handy klingelt.;My mobile phone is ringing.;[sound:80.mp3]
+81;das Fenster, -;window;Mach das Fenster zu, es zieht.;'Close the window, there''s a draft.';[sound:81.mp3]
+82;die Lampe, -n;lamp;Die Lampe ist kaputt.;The lamp is broken.;[sound:82.mp3]
+83;die Brille, -n;glasses;Ich trage eine Brille.;I wear glasses.;[sound:83.mp3]
+84;die CD, -s;CD;Ich höre gerne Musik auf CD.;I enjoy listening to music on CD.;[sound:84.mp3]
+85;die Flasche, -n;bottle;Gib mir die Flasche Wasser.;Give me the bottle of water.;[sound:85.mp3]
+86;die Tür, -en;door;Die Tür ist geschlossen.;The door is closed.;[sound:86.mp3]
+87;die Uhr, -en;clock;Die Uhr zeigt 3 Uhr an.;'The clock shows 3 o''clock.';[sound:87.mp3]
+88;die Tafel, -n;blackboard;Der Lehrer schreibt an die Tafel.;The teacher writes on the blackboard.;[sound:88.mp3]
+89;die Tasche, -n;bag;Ich habe meine Tasche vergessen.;I forgot my bag.;[sound:89.mp3]
+90;kosten;to cost;Wie viel kostet das?;How much does this cost?;[sound:90.mp3]
+91;der Euro, -s;euro;Das kostet 10 Euro.;That costs 10 euros.;[sound:91.mp3]
+92;richtig;correct;Das ist die richtige Antwort.;That is the correct answer.;[sound:92.mp3]
+93;kaputt;broken;Mein Handy ist kaputt.;My phone is broken.;[sound:93.mp3]
+94;interessant;interesting;Das Buch ist sehr interessant.;The book is very interesting.;[sound:94.mp3]
+95;die Vorwahl, -en;area code;Die Vorwahl für Berlin ist 030.;The area code for Berlin is 030.;[sound:95.mp3]
+96;die Telefonnummer, -n;phone number;Wie ist deine Telefonnummer?;What is your phone number?;[sound:96.mp3]
+97;die Adresse, -n;address;Bitte geben Sie mir Ihre Adresse.;Please give me your address.;[sound:97.mp3]
+98;die Straße, -n;street;Ich wohne in der Hauptstraße.;I live on Main Street.;[sound:98.mp3]
+99;die Postleitzahl, -en;postcode;Was ist deine Postleitzahl?;What is your postcode?;[sound:99.mp3]
+100;die E-Mail-Adresse, -n;email address;Kannst du mir deine E-Mail-Adresse geben?;Can you give me your email address?;[sound:100.mp3]
+101;die Kita, -s;kindergarten;Unsere Tochter geht in die Kita.;Our daughter goes to kindergarten.;[sound:101.mp3]
+102;"der Platz, ""-e";place;Ist hier noch ein freier Platz?;Is there a free place here?;[sound:102.mp3]
+103;frei;free;Der Tisch ist noch frei.;The table is still free.;[sound:103.mp3]
+104;schicken;to send;Ich werde dir die Datei schicken.;I will send you the file.;[sound:104.mp3]
+105;das Anmeldeformular, -e;registration form;Bitte füllen Sie das Anmeldeformular aus.;Please fill out the registration form.;[sound:105.mp3]
+106;Vielen Dank;Thank you very much;Vielen Dank für Ihre Hilfe.;Thank you very much for your help.;[sound:106.mp3]
+107;auf Wiederhören;Goodbye (on the phone);Auf Wiederhören!;Goodbye!;[sound:107.mp3]
+108;ganz schön;quite;Das war ganz schön schwierig.;That was quite difficult.;[sound:108.mp3]
+109;schlecht;bad;Das Essen war wirklich schlecht.;The food was really bad.;[sound:109.mp3]
+110;langweilig;boring;Der Film war langweilig.;The movie was boring.;[sound:110.mp3]
+111;furchtbar;terrible;Das Wetter ist heute furchtbar.;The weather is terrible today.;[sound:111.mp3]
+112;das Erdgeschoss, -e;ground floor;Unsere Wohnung ist im Erdgeschoss.;Our apartment is on the ground floor.;[sound:112.mp3]
+113;der Stock, PL: Stockwerke;floor;Die Büros sind im dritten Stock.;The offices are on the third floor.;[sound:113.mp3]
+114;im ersten/zweiten/dritten Stock;on the first/second/third floor;Meine Wohnung ist im ersten Stock.;My apartment is on the first floor.;[sound:114.mp3]
+115;das Dachgeschoss, -e;attic;Das Dachgeschoss ist ein schöner Raum.;The attic is a beautiful space.;[sound:115.mp3]
+116;oben;up;Die Schlafzimmer sind oben.;The bedrooms are up.;[sound:116.mp3]
+117;unten;down;Die Küche ist unten.;The kitchen is downstairs.;[sound:117.mp3]
+118;links;left;Das Museum ist auf der linken Seite.;The museum is on the left side.;[sound:118.mp3]
+119;rechts;right;Das Restaurant ist auf der rechten Seite.;The restaurant is on the right side.;[sound:119.mp3]
+120;das Geschäft, -e;shop;Ich gehe ins Geschäft, um einzukaufen.;'I''m going to the shop to shop.';[sound:120.mp3]
+121;es gibt;there is/are;Es gibt viele Bücher in der Bibliothek.;There are many books in the library.;[sound:121.mp3]
+122;der Quadratmeter, (qm), -;square meter;Die Wohnung ist 100 Quadratmeter groß.;The apartment is 100 square meters.;[sound:122.mp3]
+123;der Balkon, -s/-e;balcony;Der Balkon hat einen schönen Ausblick.;The balcony has a beautiful view.;[sound:123.mp3]
+124;der Garten;garden;Wir haben einen großen Garten.;We have a big garden.;[sound:124.mp3]
+125;in der Nähe;nearby;Der Supermarkt ist in der Nähe.;The supermarket is nearby.;[sound:125.mp3]
+126;die Zentralheizung, -en;central heating;Unsere Wohnung hat Zentralheizung.;Our apartment has central heating.;[sound:126.mp3]
+127;bezahlen;to pay;Ich werde die Rechnung bezahlen.;I will pay the bill.;[sound:127.mp3]
+128;die Miete, -n;rent;Die Miete ist monatlich zu zahlen.;The rent is to be paid monthly.;[sound:128.mp3]
+129;die Nebenkosten, PI;utility costs;Die Nebenkosten sind im Mietpreis enthalten.;The utility costs are included in the rent.;[sound:129.mp3]
+130;kalt;cold;Es ist heute sehr kalt.;It is very cold today.;[sound:130.mp3]
+131;warm;warm;Das Wasser in der Dusche ist warm.;The water in the shower is warm.;[sound:131.mp3]
+132;hell;bright;Das Zimmer ist hell und geräumig.;The room is bright and spacious.;[sound:132.mp3]
+133;dunkel;dark;Der Keller ist dunkel.;The basement is dark.;[sound:133.mp3]
+134;laut;loud;Die Musik ist zu laut.;The music is too loud.;[sound:134.mp3]
+135;ruhig;quiet;Es ist hier sehr ruhig.;'It''s very quiet here.';[sound:135.mp3]
+136;günstig;affordable;Die Preise sind günstig.;The prices are affordable.;[sound:136.mp3]
+137;der Vater;father;Mein Vater ist Arzt.;My father is a doctor.;[sound:137.mp3]
+138;die Mutter;mother;Meine Mutter ist Lehrerin.;My mother is a teacher.;[sound:138.mp3]
+139;die Eltern, PI;parents;Meine Eltern kommen zu Besuch.;My parents are coming to visit.;[sound:139.mp3]
+140;der Bruder;brother;Mein Bruder spielt Fußball.;My brother plays soccer.;[sound:140.mp3]
+141;die Schwester, -n;sister;Meine Schwester studiert Medizin.;My sister is studying medicine.;[sound:141.mp3]
+142;die Geschwister, PI;siblings;Meine Geschwister und ich sind sehr eng.;My siblings and I are very close.;[sound:142.mp3]
+143;der Onkel, -;uncle;Mein Onkel wohnt in Berlin.;My uncle lives in Berlin.;[sound:143.mp3]
+144;die Tante,-n;aunt;Meine Tante ist sehr nett.;My aunt is very nice.;[sound:144.mp3]
+145;"der Sohn, ""-e";son;Unser Sohn ist fünf Jahre alt.;Our son is five years old.;[sound:145.mp3]
+146;die Tochter;daughter;Ihre Tochter ist sehr talentiert.;Your daughter is very talented.;[sound:146.mp3]
+147;das Foto, -s;photo;Ich mache ein Foto von dir.;'I''m taking a photo of you.';[sound:147.mp3]
+148;zu Hause;at home;Ich bin zu Hause.;I am at home.;[sound:148.mp3]
+149;studieren;to study;Ich studiere Medizin an der Universität.;I study medicine at the university.;[sound:149.mp3]
+150;die Freizeit, Sg.;free time;In meiner Freizeit lese ich gern.;I like to read in my free time.;[sound:150.mp3]
+151;die Familie, -n;family;Meine Familie besucht mich am Wochenende.;My family visits me on the weekend.;[sound:151.mp3]
+152;alle;all;Alle sind eingeladen.;Everyone is invited.;[sound:152.mp3]
+153;faulenzen;to laze around;Am Sonntag faulenze ich gerne.;I like to laze around on Sundays.;[sound:153.mp3]
+154;schlafen;to sleep;Ich möchte heute länger schlafen.;I want to sleep longer today.;[sound:154.mp3]
+155;essen;to eat;Ich esse gern Pizza.;I like to eat pizza.;[sound:155.mp3]
+156;lesen;to read;Ich lese ein Buch in der Bibliothek.;'I''m reading a book in the library.';[sound:156.mp3]
+157;sehen;to see;Ich sehe einen Film im Kino.;'I''m watching a movie in the cinema.';[sound:157.mp3]
+158;nehmen;to take;Kannst du das bitte nehmen?;Can you please take that?;[sound:158.mp3]
+159;fahren;to drive;Wir fahren in den Urlaub.;We are driving on vacation.;[sound:159.mp3]
+160;treffen;to meet;Ich treffe meine Freunde nach der Arbeit.;'I''m meeting my friends after work.';[sound:160.mp3]
+161;die Schokolade, Sg.;chocolate;Ich liebe Schokolade.;I love chocolate.;[sound:161.mp3]
+162;die Pizza, -s/Pizzen;pizza;Wir bestellen eine Pizza zum Abendessen.;'We''re ordering a pizza for dinner.';[sound:162.mp3]
+163;der Film, -e;movie;Wir schauen uns einen Film an.;'We''re watching a movie.';[sound:163.mp3]
+164;nach: nach Berlin;to: to Berlin;Wir fahren nach Berlin.;'We''re going to Berlin.';[sound:164.mp3]
+165;nach Hause;home;Ich gehe nach Hause.;'I''m going home.';[sound:165.mp3]
+166;Zeit haben;to have time;Hast du Zeit, heute Abend auszugehen?;Do you have time to go out tonight?;[sound:166.mp3]
+167;gern, gerne;like;Ich trinke gern Kaffee.;I like to drink coffee.;[sound:167.mp3]
+168;die Sehenswürdigkeit, -en;sightseeing attraction;Wir besichtigen die Sehenswürdigkeiten der Stadt.;'We''re visiting the city''s sightseeing attractions.';[sound:168.mp3]
+169;das Wochenende, -n;weekend;Am Wochenende gehe ich oft spazieren.;I often go for a walk on the weekend.;[sound:169.mp3]
+170;am Wochenende;on the weekend;Am Wochenende besuche ich meine Großeltern.;On the weekend, I visit my grandparents.;[sound:170.mp3]
+171;bleiben;to stay;Wir bleiben eine Woche in Paris.;We are staying in Paris for a week.;[sound:171.mp3]
+172;chillen;to chill;Am Samstagabend chille ich zu Hause.;I chill at home on Saturday evening.;[sound:172.mp3]
+173;der Tag, -e;day;Der Tag beginnt früh.;The day starts early.;[sound:173.mp3]
+174;wo;where;Wo bist du?;Where are you?;[sound:174.mp3]
+175;wohin;where to;Wohin gehst du?;Where are you going?;[sound:175.mp3]
+176;die Radtour, -en;bike ride;Wir machen eine Radtour im Park.;We are going for a bike ride in the park.;[sound:176.mp3]
+177;"der Supermarkt, ""-e";supermarket;Ich gehe zum Supermarkt, um einzukaufen.;'I''m going to the supermarket to shop.';[sound:177.mp3]
+178;die Lebensmittel, PI.;groceries;Ich kaufe Lebensmittel für die Woche.;'I''m buying groceries for the week.';[sound:178.mp3]
+179;besichtigen;to visit (a place);Wir besichtigen das Schloss.;We are visiting the castle.;[sound:179.mp3]
+180;besuchen;to visit (a person);Wir besuchen meine Großeltern am Wochenende.;We visit my grandparents on the weekend.;[sound:180.mp3]
+181;das Straßenfest, -e;street festival;Das Straßenfest findet am Samstag statt.;The street festival takes place on Saturday.;[sound:181.mp3]
+182;zu Mittag essen;to have lunch;Ich esse zu Mittag um 12 Uhr.;'I have lunch at 12 o''clock.';[sound:182.mp3]
+183;der Kaffee, Sg.;coffee;Ich trinke gern Kaffee am Morgen.;I like to drink coffee in the morning.;[sound:183.mp3]
+184;trinken;to drink;Was möchtest du trinken?;What would you like to drink?;[sound:184.mp3]
+185;kennen;to know;Ich kenne diesen Ort nicht.;'I don''t know this place.';[sound:185.mp3]
+186;zuerst;first;Zuerst gehen wir einkaufen und dann essen wir zu Mittag.;First, we go shopping, and then we have lunch.;[sound:186.mp3]
+187;dann;then;Ich gehe einkaufen, und dann treffe ich dich.;'I''m going shopping, and then I''ll meet you.';[sound:187.mp3]
+188;danach;afterward;Wir gehen ins Kino, und danach essen wir zu Abend.;'We''re going to the cinema, and afterward, we''ll have dinner.';[sound:188.mp3]
+189;früher;earlier;Früher war ich Lehrer, jetzt bin ich Schriftsteller.;'I used to be a teacher, now I''m a writer.';[sound:189.mp3]
+190;alles anders;everything is different;Nach dem Umzug war alles anders.;After the move, everything was different.;[sound:190.mp3]
+191;Fußball spielen;to play soccer;Wir gehen nach draußen, um Fußball zu spielen.;'We''re going outside to play soccer.';[sound:191.mp3]
+192;joggen;to jog;Ich jogge jeden Morgen im Park.;I jog in the park every morning.;[sound:192.mp3]
+193;ein Bild malen;to paint a picture;Ich male gerne Bilder in meiner Freizeit.;I like to paint pictures in my free time.;[sound:193.mp3]
+194;tanzen;to dance;Am Wochenende tanzen wir in der Diskothek.;We dance at the nightclub on the weekend.;[sound:194.mp3]
+195;im Internet surfen;to surf the internet;Ich surfe im Internet, um Informationen zu finden.;I surf the internet to find information.;[sound:195.mp3]
+196;grillen;to barbecue;Wir grillen Fleisch und Gemüse im Garten.;We barbecue meat and vegetables in the garden.;[sound:196.mp3]
+197;Musik hören;to listen to music;Ich höre gern Musik.;I like to listen to music.;[sound:197.mp3]
+198;schwimmen;to swim;Im Sommer schwimme ich im See.;I swim in the lake in the summer.;[sound:198.mp3]
+199;das Hobby, -s;hobby;Mein Hobby ist Fotografie.;My hobby is photography.;[sound:199.mp3]
+200;(nicht) gern, gerne;(not) like;Ich esse gern Pizza, aber ich mag keinen Fisch.;'I like pizza, but I don''t like fish.';[sound:200.mp3]
+201;spät;late;Es ist schon spät, wir sollten nach Hause gehen.;'It''s already late';[sound:201.mp3]
+202;Wie spät ist es?;What time is it?;Wie spät ist es, bitte?;What time is it, please?;[sound:202.mp3]
+203;halb;half;Es ist halb sechs.;'It''s half past five.';[sound:203.mp3]
+204;Viertel vor;quarter to;Es ist Viertel vor acht.;'It''s quarter to eight.';[sound:204.mp3]
+205;Viertel nach;quarter past;Es ist Viertel nach drei.;'It''s quarter past three.';[sound:205.mp3]
+206;um;at;Wir treffen uns um 15 Uhr.;'We''re meeting at 3 o''clock.';[sound:206.mp3]
+207;beginnen;to begin;Die Vorlesung beginnt um 9 Uhr.;'The lecture begins at 9 o''clock.';[sound:207.mp3]
+208;Um wie viel Uhr?;At what time?;Um wie viel Uhr beginnt der Film?;At what time does the movie start?;[sound:208.mp3]
+209;enden;to end;Das Konzert endet um 22 Uhr.;The concert ends at 10 p.m.;[sound:209.mp3]
+210;gehen;to go;Ich gehe in den Park.;'I''m going to the park.';[sound:210.mp3]
+211;von ... bis;from ... to;Die Veranstaltung dauert von Montag bis Freitag.;The event is from Monday to Friday.;[sound:211.mp3]
+212;"der Zug, ""-e";train;Der Zug fährt um 15 Uhr ab.;'The train departs at 3 o''clock.';[sound:212.mp3]
+213;der Radiowecker, -;radio alarm clock;Der Radiowecker klingelt um 7 Uhr morgens.;The radio alarm clock rings at 7 in the morning.;[sound:213.mp3]
+214;klingeln;to ring;Das Telefon klingelt, ich gehe ran.;'The phone is ringing, I''ll answer it.';[sound:214.mp3]
+215;das Flugzeug, -e;airplane;Das Flugzeug fliegt nach Paris.;The airplane is flying to Paris.;[sound:215.mp3]
+216;der Krimi, -s;mystery (genre);Ich lese gerne Krimis.;I like to read mysteries.;[sound:216.mp3]
+217;anrufen;to call;Ich werde dich später anrufen.;'I''ll call you later.';[sound:217.mp3]
+218;das Kino, -s;cinema;Wir gehen ins Kino, um einen Film zu sehen.;'We''re going to the cinema to watch a movie.';[sound:218.mp3]
+219;anfangen;to start;Der Film fängt um 19 Uhr an.;The movie starts at 7 p.m.;[sound:219.mp3]
+220;aufhören;to stop;Kannst du bitte aufhören, so laut zu sprechen?;Can you please stop speaking so loudly?;[sound:220.mp3]
+221;aufstehen;to get up;Ich stehe morgens um 6 Uhr auf.;I get up at 6 in the morning.;[sound:221.mp3]
+222;aufräumen;to tidy up;Lass uns das Zimmer aufräumen.;'Let''s tidy up the room.';[sound:222.mp3]
+223;einkaufen;to shop;Ich gehe einkaufen, um Lebensmittel zu kaufen.;'I''m going shopping to buy groceries.';[sound:223.mp3]
+224;mitnehmen;to take with;Vergiss nicht, deinen Regenschirm mitzunehmen.;'Don''t forget to take your umbrella with you.';[sound:224.mp3]
+225;die Zeitung, -en;newspaper;Ich lese die Zeitung, um informiert zu sein.;I read the newspaper to be informed.;[sound:225.mp3]
+226;fernsehen;to watch TV;Ich liebe es, Filme im Fernsehen anzusehen.;I love watching movies on TV.;[sound:226.mp3]
+227;ausgehen;to go out;Wir gehen am Wochenende aus.;We go out on the weekend.;[sound:227.mp3]
+228;wegfahren;to drive away;Sie fahren für eine Woche in den Urlaub weg.;They are going on vacation for a week.;[sound:228.mp3]
+229;mitkommen;to come along;Kommst du zum Konzert mit?;Are you coming along to the concert?;[sound:229.mp3]
+230;stattfinden;to take place;Die Veranstaltung findet im Park statt.;The event is taking place in the park.;[sound:230.mp3]
+231;ausfallen;to be canceled;Das Spiel fällt heute wegen Regen aus.;The game is canceled today due to rain.;[sound:231.mp3]
+232;einkaufen gehen;to go shopping;Ich gehe morgen einkaufen.;'I''m going shopping tomorrow.';[sound:232.mp3]
+233;spazieren gehen;to go for a walk;Wir gehen gerne spazieren im Park.;We like to go for a walk in the park.;[sound:233.mp3]
+234;jeden Tag;every day;Ich trinke jeden Tag eine Tasse Kaffee.;I drink a cup of coffee every day.;[sound:234.mp3]
+235;"der Ausflug, ""-e";outing;Wir planen einen Ausflug ins Grüne.;'We''re planning an outing to the countryside.';[sound:235.mp3]
+236;heute;today;Heute ist ein schöner Tag.;Today is a beautiful day.;[sound:236.mp3]
+237;die Woche, -n;week;Ich bin die ganze Woche beschäftigt.;'I''m busy the whole week.';[sound:237.mp3]
+238;der Montag, -e;Monday;Montag ist der erste Tag der Woche.;Monday is the first day of the week.;[sound:238.mp3]
+239;der Dienstag, -e;Tuesday;Dienstag ist mein Lieblingstag.;Tuesday is my favorite day.;[sound:239.mp3]
+240;der Mittwoch, -e;Wednesday;Am Mittwoch habe ich einen Arzttermin.;'I have a doctor''s appointment on Wednesday.';[sound:240.mp3]
+241;der Donnerstag, -e;Thursday;Donnerstag ist ein arbeitsreicher Tag.;Thursday is a busy day.;[sound:241.mp3]
+242;der Freitag, -e;Friday;Am Freitag treffen wir uns im Café.;We meet at the café on Friday.;[sound:242.mp3]
+243;der Samstag, -e;Saturday;Am Samstag haben wir eine Party.;'We''re having a party on Saturday.';[sound:243.mp3]
+244;der Sonntag, -e;Sunday;Sonntag ist ein Ruhetag.;Sunday is a day of rest.;[sound:244.mp3]
+245;die Hausaufgabe, -n;homework;Ich mache meine Hausaufgaben am Abend.;I do my homework in the evening.;[sound:245.mp3]
+246;"das Fahrrad, ""-er";bicycle;Ich fahre mit dem Fahrrad zur Arbeit.;I ride my bicycle to work.;[sound:246.mp3]
+247;reparieren;to repair;Ich muss meinen Computer reparieren.;I need to repair my computer.;[sound:247.mp3]
+248;am Morgen;in the morning;Am Morgen trinke ich Kaffee.;I drink coffee in the morning.;[sound:248.mp3]
+249;am Vormittag;in the late morning;Am Vormittag erledige ich meine Arbeit.;I do my work in the late morning.;[sound:249.mp3]
+250;am Mittag;at noon;Am Mittag esse ich zu Mittag.;I have lunch at noon.;[sound:250.mp3]
+251;am Nachmittag;in the afternoon;Am Nachmittag gehe ich spazieren.;I go for a walk in the afternoon.;[sound:251.mp3]
+252;am Abend;in the evening;Am Abend schaue ich gerne fern.;I like to watch TV in the evening.;[sound:252.mp3]
+253;in der Nacht;at night;In der Nacht schlafe ich.;I sleep at night.;[sound:253.mp3]
+254;die Fahrkarte, -n;ticket;Ich kaufe eine Fahrkarte für den Zug.;I buy a ticket for the train.;[sound:254.mp3]
+255;der Dienstagabend, -e;Tuesday evening;Am Dienstagabend haben wir Schach gespielt.;We played chess on Tuesday evening.;[sound:255.mp3]
+256;Schach spielen;to play chess;Ich spiele gerne Schach mit meinen Freunden.;I enjoy playing chess with my friends.;[sound:256.mp3]
+257;zusammen;together;Wir essen zusammen zu Abend.;We have dinner together.;[sound:257.mp3]
+258;vielleicht;maybe;Vielleicht gehe ich morgen ins Kino.;'Maybe I''ll go to the cinema tomorrow.';[sound:258.mp3]
+259;Lust haben;to feel like;Ich habe Lust auf Pizza.;I feel like having pizza.;[sound:259.mp3]
+260;Zeit haben;to have time;Hast du Zeit, am Samstag zu kommen?;Do you have time to come on Saturday?;[sound:260.mp3]
+261;später;later;Ich rufe dich später an.;'I''ll call you later.';[sound:261.mp3]
+262;leider;unfortunately;Leider kann ich nicht kommen.;'Unfortunately, I can''t come.';[sound:262.mp3]
+263;kochen;to cook;Ich koche gerne Abendessen.;I like to cook dinner.;[sound:263.mp3]
+264;Guten Appetit;enjoy your meal;Guten Appetit!;Enjoy your meal!;[sound:264.mp3]
+265;der Apfel, -Äpfel;apple;Ein Apfel am Tag hält den Arzt fern.;An apple a day keeps the doctor away.;[sound:265.mp3]
+266;die Banane, -n;banana;Ich esse eine Banane zum Frühstück.;I eat a banana for breakfast.;[sound:266.mp3]
+267;das Brot, -e;bread;Wir kaufen frisches Brot beim Bäcker.;We buy fresh bread from the bakery.;[sound:267.mp3]
+268;die Butter, Sg.;butter;Ich schmiere Butter auf mein Brot.;I spread butter on my bread.;[sound:268.mp3]
+269;das Hähnchen, -;chicken;Wir grillen Hähnchen im Garten.;We barbecue chicken in the garden.;[sound:269.mp3]
+270;die Kartoffel, -n;potato;Kartoffeln sind eine wichtige Beilage in vielen Gerichten.;Potatoes are an important side dish in many dishes.;[sound:270.mp3]
+271;der Käse, Sg.;cheese;Ich liebe Käse auf meiner Pizza.;I love cheese on my pizza.;[sound:271.mp3]
+272;die Milch, Sg.;milk;Morgens trinke ich immer Milch.;I always drink milk in the morning.;[sound:272.mp3]
+273;die Nudeln, PI.;pasta;Spaghetti sind eine Art von Nudeln.;Spaghetti are a type of pasta.;[sound:273.mp3]
+274;der Reis, Sg.;rice;Ich esse gerne Reis mit Gemüse.;I like to eat rice with vegetables.;[sound:274.mp3]
+275;der Salat, -e;salad;Ein gemischter Salat ist gesund.;A mixed salad is healthy.;[sound:275.mp3]
+276;der Tee, Sg.;tea;Ich trinke gerne grünen Tee.;I like to drink green tea.;[sound:276.mp3]
+277;der Fisch, -e;fish;Gebackener Fisch ist mein Lieblingsessen.;Baked fish is my favorite meal.;[sound:277.mp3]
+278;die Tomate, -n;tomato;Tomaten sind eine wichtige Zutat in vielen Gerichten.;Tomatoes are an important ingredient in many dishes.;[sound:278.mp3]
+279;das Wasser, Sg.;water;Trink bitte genug Wasser, um hydratisiert zu bleiben.;Please drink enough water to stay hydrated.;[sound:279.mp3]
+280;der Wein, -e;wine;Wir genießen ein Glas Wein zum Abendessen.;We enjoy a glass of wine with dinner.;[sound:280.mp3]
+281;"die Wurst, ""-e";sausage;Ich esse gerne Wurstbrote zum Frühstück.;I like to eat sausage sandwiches for breakfast.;[sound:281.mp3]
+282;essen;to eat;Wir essen Abendessen um 18 Uhr.;'We eat dinner at 6 o''clock.';[sound:282.mp3]
+283;trinken;to drink;Ich trinke Kaffee am Morgen.;I drink coffee in the morning.;[sound:283.mp3]
+284;täglich;daily;Ich mache täglich Sport.;I exercise daily.;[sound:284.mp3]
+285;oft;often;Ich treffe meine Freunde oft.;I often meet my friends.;[sound:285.mp3]
+286;manchmal;sometimes;Manchmal gehe ich alleine spazieren.;Sometimes I go for a walk alone.;[sound:286.mp3]
+287;selten;rarely;Ich esse selten Fast Food.;I rarely eat fast food.;[sound:287.mp3]
+288;nie;never;Ich trinke nie Alkohol.;I never drink alcohol.;[sound:288.mp3]
+289;das Ei, -er;egg;Ich brate ein Ei zum Frühstück.;I fry an egg for breakfast.;[sound:289.mp3]
+290;der Zucker, Sg.;sugar;Zucker macht den Kaffee süß.;Sugar makes the coffee sweet.;[sound:290.mp3]
+291;die Orange, -n;orange;Ich esse eine saftige Orange.;I eat a juicy orange.;[sound:291.mp3]
+292;die Spaghetti, PI.;spaghetti;Spaghetti sind lecker mit Tomatensauce.;Spaghetti are delicious with tomato sauce.;[sound:292.mp3]
+293;das Brötchen, -;roll;Ein frisches Brötchen zum Frühstück schmeckt gut.;A fresh roll for breakfast tastes good.;[sound:293.mp3]
+294;das Getränk, -e;beverage;Was ist dein Lieblingsgetränk?;What is your favorite beverage?;[sound:294.mp3]
+295;das Bier, -e;beer;In Deutschland trinken viele Menschen gerne Bier.;In Germany, many people like to drink beer.;[sound:295.mp3]
+296;"der Apfelsaft, ""-e";apple juice;Apfelsaft ist erfrischend an einem heißen Tag.;Apple juice is refreshing on a hot day.;[sound:296.mp3]
+297;bitte;please;Bitte hilf mir.;Please help me.;[sound:297.mp3]
+298;doch;yet;Ich bin müde, doch ich möchte noch arbeiten.;'I''m tired, yet I want to keep working.';[sound:298.mp3]
+299;vergessen;to forget;Ich habe meine Schlüssel zu Hause vergessen.;I forgot my keys at home.;[sound:299.mp3]
+300;holen;to fetch;Kannst du bitte Milch aus dem Laden holen?;Can you please fetch milk from the store?;[sound:300.mp3]
+301;warten;to wait;Wir müssen auf den Bus warten.;We need to wait for the bus.;[sound:301.mp3]
+302;der Hunger, Sg.;hunger;Ich habe Hunger.;'I''m hungry.';[sound:302.mp3]
+303;Ich habe Durst.;'I''m thirsty.';;;[sound:303.mp3]
+304;probieren;to try;Möchtest du etwas Neues probieren?;Do you want to try something new?;[sound:304.mp3]
+305;die Packung, -en;packaging;Die Packung enthält vier Schokoriegel.;The packaging contains four chocolate bars.;[sound:305.mp3]
+306;die Dose, -n;can;Die Dose ist voll mit Erbsen.;The can is full of peas.;[sound:306.mp3]
+307;"das Glas, ""-er";glass;Ich trinke Wasser aus einem Glas.;I drink water from a glass.;[sound:307.mp3]
+308;der Becher, -;cup;Der Becher ist voll mit Eiscreme.;The cup is full of ice cream.;[sound:308.mp3]
+309;die Tüte, -n;bag;Die Tüte enthält frisches Brot.;The bag contains fresh bread.;[sound:309.mp3]
+310;"der Kasten, ""-";box;Der Kasten ist schwer.;The box is heavy.;[sound:310.mp3]
+311;das Stück, Sg.;piece;Ein Stück Kuchen, bitte.;A piece of cake, please.;[sound:311.mp3]
+312;die Tafel Schokolade;chocolate bar;Ich esse gerne eine Tafel Schokolade.;I like to eat a chocolate bar.;[sound:312.mp3]
+313;die Scheibe, -n;slice;Ich möchte eine Scheibe Käse.;'I''d like a slice of cheese.';[sound:313.mp3]
+314;das Gramm, Sg.;gram;100 Gramm Mehl werden benötigt.;100 grams of flour are needed.;[sound:314.mp3]
+315;das Kilo/Kilogramm, Sg;kilogram;Ein Kilogramm sind 1000 Gramm.;One kilogram is 1000 grams.;[sound:315.mp3]
+316;das Pfund, Sg.;pound;Ein Pfund entspricht etwa 0,45 Kilogramm.;One pound is approximately 0.45 kilograms.;[sound:316.mp3]
+317;der Liter, Sg.;liter;Eine Flasche enthält 1,5 Liter Wasser.;A bottle contains 1.5 liters of water.;[sound:317.mp3]
+318;das Obst, Sg.;fruit;Obst ist gesund.;Fruit is healthy.;[sound:318.mp3]
+319;das Gemüse, Sg.;vegetables;Gemüse enthält viele Vitamine.;Vegetables contain many vitamins.;[sound:319.mp3]
+320;der Kunde, -n;customer;Der Kunde hat ein Problem mit seinem Kauf.;The customer has an issue with his purchase.;[sound:320.mp3]
+321;die Kundin, -nen;female customer;Die Kundin ist mit dem Service zufrieden.;The female customer is satisfied with the service.;[sound:321.mp3]
+322;der Preis, -e;price;Der Preis für das Produkt ist fair.;The price for the product is fair.;[sound:322.mp3]
+323;"der Markt, ""-e";market;Der Markt ist samstags geöffnet.;The market is open on Saturdays.;[sound:323.mp3]
+324;die Metzgerei, -en;butcher shop;In der Metzgerei kaufe ich Fleisch.;I buy meat at the butcher shop.;[sound:324.mp3]
+325;die Bäckerei, -en;bakery;In der Bäckerei gibt es frisches Brot.;The bakery has fresh bread.;[sound:325.mp3]
+326;Ich hätte gern ...;I would like ...;Ich hätte gern ein Brötchen mit Käse.;I would like a roll with cheese.;[sound:326.mp3]
+327;Haben Sie noch ...;Do you have ...;Haben Sie noch frisches Brot?;Do you have fresh bread?;[sound:327.mp3]
+328;passend;appropriate;Das Kleid ist passend für die Hochzeit.;The dress is appropriate for the wedding.;[sound:328.mp3]
+329;bekommen;to receive;Ich bekomme ein Geschenk zum Geburtstag.;I receive a gift for my birthday.;[sound:329.mp3]
+330;zurück;back;Gib mir bitte mein Buch zurück.;Please give me my book back.;[sound:330.mp3]
+331;möchten;would like;Ich möchte eine Tasse Kaffee, bitte.;I would like a cup of coffee, please.;[sound:331.mp3]
+332;mögen;to like;Ich mag Schokolade.;I like chocolate.;[sound:332.mp3]
+333;das Frühstück;breakfast;Ich esse Müsli zum Frühstück.;I eat cereal for breakfast.;[sound:333.mp3]
+334;das Mittagessen;lunch;Das Mittagessen ist um 12 Uhr.;'Lunch is at 12 o''clock.';[sound:334.mp3]
+335;das Abendessen;dinner;Wir essen um 19 Uhr zu Abend.;We have dinner at 7 p.m.;[sound:335.mp3]
+336;frühstücken;to have breakfast;Ich frühstücke jeden Morgen um 7 Uhr.;'I have breakfast every morning at 7 o''clock.';[sound:336.mp3]
+337;der Bankkaufmann, -männer;banker (male);Der Bankkaufmann berät Kunden in Finanzangelegenheiten.;The male banker advises customers on financial matters.;[sound:337.mp3]
+338;die Bankkauffrau, -en;banker (female);Die Bankkauffrau arbeitet in der Filiale.;The female banker works at the branch.;[sound:338.mp3]
+339;PI: Bankkaufleute;bankers;Bankkaufleute arbeiten im Finanzwesen.;Bankers work in the financial sector.;[sound:339.mp3]
+340;der/die Altenpfleger/in, -/-nen;geriatric nurse;Der Altenpfleger kümmert sich um ältere Patienten.;The geriatric nurse takes care of elderly patients.;[sound:340.mp3]
+341;der/die Kellner/in, -/-nen;waiter/waitress;Die Kellnerin nimmt die Bestellungen der Gäste auf.;'The waitress takes the guests'' orders.';[sound:341.mp3]
+342;der/die Kfz-Mechaniker/in, -/-nen;automotive mechanic;Der Kfz-Mechaniker repariert Autos.;The automotive mechanic repairs cars.;[sound:342.mp3]
+343;"die Reinigungskraft, ""-e";cleaning staff;Die Reinigungskraft sorgt für Sauberkeit im Büro.;The cleaning staff ensures cleanliness in the office.;[sound:343.mp3]
+344;der/die Taxifahrer/in, -/-nen;taxi driver;Der Taxifahrer bringt die Passagiere zum Flughafen.;The taxi driver takes passengers to the airport.;[sound:344.mp3]
+345;der/die Briefträger/in, -/-nen;mail carrier;Der Briefträger bringt die Post jeden Morgen.;The mail carrier delivers the mail every morning.;[sound:345.mp3]
+346;der Koch, -e;cook;Der Koch bereitet köstliche Gerichte zu.;The cook prepares delicious dishes.;[sound:346.mp3]
+347;die Köchin, -nen;female cook;Die Köchin arbeitet in einem Sternerestaurant.;The female cook works in a Michelin-starred restaurant.;[sound:347.mp3]
+348;die Baustelle, -n;construction site;Auf der Baustelle wird ein neues Gebäude errichtet.;A new building is being constructed at the construction site.;[sound:348.mp3]
+349;"die Werkstatt, ""-en";workshop;In der Werkstatt werden Reparaturen durchgeführt.;Repairs are carried out in the workshop.;[sound:349.mp3]
+350;die Bank, -en;bank;Ich gehe zur Bank, um Geld abzuheben.;I go to the bank to withdraw money.;[sound:350.mp3]
+351;das Restaurant, -s;restaurant;Wir essen heute Abend in einem italienischen Restaurant.;We are dining at an Italian restaurant tonight.;[sound:351.mp3]
+352;das Büro, -s;office;Im Büro arbeiten viele Menschen.;Many people work in the office.;[sound:352.mp3]
+353;der/die Krankenpfleger/in, -/-nen;nurse;Die Krankenpflegerin kümmert sich um die Patienten.;The nurse takes care of the patients.;[sound:353.mp3]
+354;die Krankenschwester, -n;nurse (female);Die Krankenschwester ist sehr freundlich.;The female nurse is very friendly.;[sound:354.mp3]
+355;der Schichtdienst, -e;shift work;Im Schichtdienst arbeitet man auch nachts.;In shift work, one also works at night.;[sound:355.mp3]
+356;"das Krankenhaus, ""-er";hospital;Das Krankenhaus hat eine Notaufnahme.;The hospital has an emergency room.;[sound:356.mp3]
+357;müssen;must;Ich muss heute Abend arbeiten.;I must work tonight.;[sound:357.mp3]
+358;können;can;Ich kann Deutsch sprechen.;I can speak German.;[sound:358.mp3]
+359;wollen;want;Ich will im Sommer in den Urlaub fahren.;I want to go on vacation in the summer.;[sound:359.mp3]
+360;das Geld, Sg.;money;Geld ist notwendig, um Dinge zu kaufen.;Money is necessary to buy things.;[sound:360.mp3]
+361;verdienen;to earn;Er verdient viel Geld in seinem Job.;He earns a lot of money in his job.;[sound:361.mp3]
+362;wechseln;to exchange;Ich muss Euro in Dollar wechseln.;I need to exchange euros for dollars.;[sound:362.mp3]
+363;beraten;to advise;Der Berater hat mir gute Ratschläge gegeben.;The advisor gave me good advice.;[sound:363.mp3]
+364;helfen;to help;Kannst du mir bitte helfen?;Can you please help me?;[sound:364.mp3]
+365;die Überweisung, -en;bank transfer;Die Überweisung wurde erfolgreich durchgeführt.;The bank transfer was successful.;[sound:365.mp3]
+366;kontrollieren;to check;Wir müssen die Dokumente kontrollieren.;We need to check the documents.;[sound:366.mp3]
+367;die Kasse, -n;checkout;An der Kasse können Sie bezahlen.;You can pay at the checkout.;[sound:367.mp3]
+368;das Formular, -e;form;Bitte füllen Sie das Formular aus.;Please fill out the form.;[sound:368.mp3]
+369;unterschreiben;to sign;Sie müssen das Dokument unterschreiben.;You need to sign the document.;[sound:369.mp3]
+370;der/die Sekretär/in, -e/-nen;secretary;Die Sekretärin organisiert den Terminkalender.;The secretary organizes the schedule.;[sound:370.mp3]
+371;die Arbeitszeit, -en;working hours;Meine Arbeitszeit beträgt 40 Stunden pro Woche.;My working hours are 40 hours per week.;[sound:371.mp3]
+372;anstrengend;tiring;Die Arbeit kann manchmal anstrengend sein.;Work can be tiring at times.;[sound:372.mp3]
+373;das Team, -s;team;Wir sind ein starkes Team.;We are a strong team.;[sound:373.mp3]
+374;allein, alleine;alone;Manchmal arbeite ich gerne alleine.;Sometimes I like to work alone.;[sound:374.mp3]
+375;reisen;to travel;Wir planen, um die Welt zu reisen.;We plan to travel around the world.;[sound:375.mp3]
+376;die Karriere, Sg.;career;Sie hat eine erfolgreiche Karriere in der Wirtschaft.;She has a successful career in business.;[sound:376.mp3]
+377;draußen;outside;Wir spielen gerne draußen im Garten.;We like to play outside in the garden.;[sound:377.mp3]
+378;drinnen;inside;Es ist warm drinnen im Haus.;'It''s warm inside the house.';[sound:378.mp3]
+379;der Geldautomat, -en;ATM (Automated Teller Machine);Am Geldautomat können Sie Bargeld abheben.;You can withdraw cash from the ATM.;[sound:379.mp3]
+380;die EC-Karte, -n;debit card;Die EC-Karte ermöglicht bargeldloses Bezahlen.;The debit card allows for cashless payments.;[sound:380.mp3]
+381;die Kontonummer, -n;account number;Bitte geben Sie Ihre Kontonummer ein.;Please enter your account number.;[sound:381.mp3]
+382;"der Kontoauszug, ""-e";bank statement;Der Kontoauszug zeigt alle Transaktionen.;The bank statement shows all transactions.;[sound:382.mp3]
+383;die IBAN;IBAN (International Bank Account Number);Die IBAN ist eine internationale Kontonummer.;The IBAN is an international bank account number.;[sound:383.mp3]
+384;die Gebühr, -en;fee;Es gibt eine Gebühr für den Parkplatz.;There is a fee for the parking lot.;[sound:384.mp3]
+385;überweisen;to transfer;Ich werde das Geld auf Ihr Konto überweisen.;I will transfer the money to your account.;[sound:385.mp3]
+386;die Bankverbindung, -en;bank details;Bitte teilen Sie mir Ihre Bankverbindung mit.;Please provide me with your bank details.;[sound:386.mp3]
+387;aus;out of;Der Briefträger geht aus dem Postamt.;The mail carrier is going out of the post office.;[sound:387.mp3]
+388;bei;at;Ich treffe mich bei der Bank.;'I''m meeting at the bank.';[sound:388.mp3]
+389;nach;after;Wir gehen nach dem Mittagessen zur Arbeit.;We go to work after lunch.;[sound:389.mp3]
+390;von;from;Das Geld kam von meiner Großmutter.;The money came from my grandmother.;[sound:390.mp3]
+391;zu;to;Ich gehe zu meiner Ärztin.;'I''m going to my doctor.';[sound:391.mp3]
+392;bedienen;to serve;Der Kellner wird uns im Restaurant bedienen.;The waiter will serve us in the restaurant.;[sound:392.mp3]
+393;die Mittagspause, -n;lunch break;Die Mittagspause dauert eine Stunde.;The lunch break lasts for one hour.;[sound:393.mp3]
+394;der Kollege, -n;colleague;Meine Kollegen sind nett und hilfsbereit.;My colleagues are nice and helpful.;[sound:394.mp3]
+395;die Kollegin, -nen;female colleague;Meine Kollegin ist sehr hilfsbereit.;My female colleague is very helpful.;[sound:395.mp3]
+396;der Termin, -e;appointment;Ich habe morgen einen wichtigen Termin.;I have an important appointment tomorrow.;[sound:396.mp3]
+397;der/die Chef/in, -s/-nen;boss;Der Chef ist mit meiner Arbeit zufrieden.;The boss is satisfied with my work.;[sound:397.mp3]
+398;der Kindergarten, -;kindergarten;Mein Kind geht in den Kindergarten.;My child goes to kindergarten.;[sound:398.mp3]
+399;die Haltestelle, -n;bus stop;Die Haltestelle ist direkt vor unserem Haus.;The bus stop is right in front of our house.;[sound:399.mp3]
+400;Gute Besserung!;Get well soon!;Du bist krank? Gute Besserung!;'You''re sick? Get well soon!';[sound:400.mp3]
+401;"der Hausarzt, ""-e";family doctor;Mein Hausarzt ist sehr kompetent.;My family doctor is very competent.;[sound:401.mp3]
+402;die Hausärztin, -nen;female family doctor;Die Hausärztin nimmt keine neuen Patienten an.;The female family doctor is not accepting new patients.;[sound:402.mp3]
+403;"der Zahnarzt, ""-e";dentist;Ich muss zum Zahnarzt, um meine Zähne überprüfen zu lassen.;I need to go to the dentist to have my teeth checked.;[sound:403.mp3]
+404;die Zahnärztin, -nen;female dentist;Die Zahnärztin ist freundlich und einfühlsam.;The female dentist is friendly and empathetic.;[sound:404.mp3]
+405;die Sprechzeiten, PI.;office hours;Die Sprechzeiten der Praxis sind von 8 bis 18 Uhr.;The office hours of the practice are from 8 AM to 6 PM.;[sound:405.mp3]
+406;nach Vereinbarung;by appointment;Die Behandlung erfolgt nach Vereinbarung.;The treatment is by appointment.;[sound:406.mp3]
+407;die Zahnschmerzen, PI.;toothaches;Zahnschmerzen können sehr unangenehm sein.;Toothaches can be very uncomfortable.;[sound:407.mp3]
+408;die Halsschmerzen, PI.;sore throat;Halsschmerzen sind ein häufiges Symptom bei Erkältungen.;Sore throats are a common symptom of colds.;[sound:408.mp3]
+409;die Bauchschmerzen, PI.;stomachaches;Bauchschmerzen können verschiedene Ursachen haben.;Stomachaches can have various causes.;[sound:409.mp3]
+410;die Rückenschmerzen, PI;backaches;Rückenschmerzen können durch falsche Haltung verursacht werden.;Backaches can be caused by incorrect posture.;[sound:410.mp3]
+411;die Praxis, Praxen;practice;Die Praxis des Arztes ist gut ausgestattet.;'The doctor''s practice is well-equipped.';[sound:411.mp3]
+412;am Apparat;on the phone;Am Apparat ist der Hausarzt.;The family doctor is on the phone.;[sound:412.mp3]
+413;am nächsten Montag;next Monday;Die Besprechung findet am nächsten Montag statt.;The meeting is scheduled for next Monday.;[sound:413.mp3]
+414;sagen;to say;Kannst du mir bitte sagen, wie spät es ist?;Can you please tell me what time it is?;[sound:414.mp3]
+415;"der Kopf, ""-e";head;Mein Kopf tut weh.;My head hurts.;[sound:415.mp3]
+416;das Auge, -n;eye;Die Augen sind die Fenster zur Seele.;The eyes are the windows to the soul.;[sound:416.mp3]
+417;die Nase, -n;nose;Meine Nase läuft, weil ich erkältet bin.;My nose is running because I have a cold.;[sound:417.mp3]
+418;"der Mund, ""-er";mouth;Der Zahnarzt untersucht meinen Mund.;The dentist is examining my mouth.;[sound:418.mp3]
+419;das Ohr, -en;ear;Mein Ohr schmerzt, und ich kann nicht gut hören.;'My ear hurts, and I can''t hear well.';[sound:419.mp3]
+420;"der Hals, ""-e";throat;Mein Hals ist kratzig und schmerzt.;My throat is scratchy and hurts.;[sound:420.mp3]
+421;das Bein, -e;leg;Ich habe mir das Bein verstaucht.;I sprained my leg.;[sound:421.mp3]
+422;"der Fuß, ""-e";foot;Mein Fuß ist eingeschlafen.;My foot fell asleep.;[sound:422.mp3]
+423;der Arm, -e;arm;Mein Arm ist nach dem Sport müde.;My arm is tired after exercising.;[sound:423.mp3]
+424;der Finger, -;finger;Ich habe mir in den Finger geschnitten.;I cut my finger.;[sound:424.mp3]
+425;der Rücken, -;back;Rückenschmerzen können von einer schlechten Haltung kommen.;Backaches can result from bad posture.;[sound:425.mp3]
+426;"der Bauch, ""-e";stomach;Mein Bauch fühlt sich aufgebläht an.;My stomach feels bloated.;[sound:426.mp3]
+427;Was fehlt Ihnen?;'What''s the matter?';"Der Arzt fragt: ""Was fehlt Ihnen?""";"'The doctor asks, ""What''s the matter with you?""'";[sound:427.mp3]
+428;erkältet sein;to have a cold;Ich bin erkältet und brauche Ruhe.;I have a cold and need rest.;[sound:428.mp3]
+429;der Schnupfen, Sg.;runny nose;Ein Schnupfen kann lästig sein.;A runny nose can be annoying.;[sound:429.mp3]
+430;der Husten, Sg.;cough;Der Husten hält mich nachts wach.;The cough keeps me awake at night.;[sound:430.mp3]
+431;wehtun;to hurt;Mein Kopf tut weh.;My head hurts.;[sound:431.mp3]
+432;das Fieber, Sg.;fever;Fieber ist ein Zeichen einer Infektion.;Fever is a sign of an infection.;[sound:432.mp3]
+433;aufmachen;to open;Können Sie bitte das Fenster aufmachen?;Can you please open the window?;[sound:433.mp3]
+434;die Erkältung, -en;cold;Eine Erkältung kann verschiedene Symptome verursachen.;A cold can cause various symptoms.;[sound:434.mp3]
+435;die Grippe, -n;flu;Die Grippe kann sehr schwerwiegend sein.;The flu can be very serious.;[sound:435.mp3]
+436;die Kontrolle, -n;check-up;Die Kontrolle beim Zahnarzt war gut.;The check-up at the dentist was good.;[sound:436.mp3]
+437;die Tablette, -n;tablet;Ich nehme eine Tablette gegen Schmerzen.;'I''m taking a tablet for pain.';[sound:437.mp3]
+438;sollen;should;Der Arzt sagt, ich sollte mehr Wasser trinken.;The doctor says I should drink more water.;[sound:438.mp3]
+439;die Gesundheit, Sg.;health;Gesundheit ist unser wertvollstes Gut.;Health is our most valuable asset.;[sound:439.mp3]
+440;die Krankenkasse, -n;health insurance;Die Krankenkasse übernimmt die Kosten der Behandlung.;Health insurance covers the cost of treatment.;[sound:440.mp3]
+441;regelmäßig;regularly;Es ist wichtig, regelmäßig Sport zu treiben.;'It''s important to exercise regularly.';[sound:441.mp3]
+442;die Zahnkontrolle, -n;dental check-up;Die Zahnkontrolle beim Zahnarzt ist wichtig.;Dental check-ups at the dentist are important.;[sound:442.mp3]
+443;das Bonusheft, -e;bonus booklet;Das Bonusheft dokumentiert Zahnarztbesuche.;The bonus booklet documents dental visits.;[sound:443.mp3]
+444;die Gesundheitskarte, -n;health card;Bitte bringen Sie Ihre Gesundheitskarte zum Arzttermin mit.;'Please bring your health card to the doctor''s appointment.';[sound:444.mp3]
+445;die Krankschreibung, -en;sick leave certificate;Der Arzt hat mir eine Krankschreibung für eine Woche ausgestellt.;The doctor issued me a sick leave certificate for one week.;[sound:445.mp3]
+446;der/die Arbeitgeber/in, -/-nen;employer;Mein Arbeitgeber ist sehr großzügig.;My employer is very generous.;[sound:446.mp3]
+447;das Medikament, -e;medication;Das Medikament hilft gegen die Schmerzen.;The medication helps with the pain.;[sound:447.mp3]
+448;geben;to give;Kannst du mir bitte Wasser geben?;Can you please give me some water?;[sound:448.mp3]
+449;das Rezept, -e;prescription;Der Arzt hat mir ein Rezept für die Medikamente gegeben.;The doctor gave me a prescription for the medication.;[sound:449.mp3]
+450;die Apotheke, -n;pharmacy;Ich gehe zur Apotheke, um das Medikament abzuholen.;'I''m going to the pharmacy to pick up the medication.';[sound:450.mp3]
+451;krank;sick;Ich fühle mich heute krank und kann nicht arbeiten.;'I feel sick today and can''t work.';[sound:451.mp3]
+452;sofort;immediately;Bitte rufen Sie den Notruf sofort an.;Please call the emergency number immediately.;[sound:452.mp3]
+453;Fieber messen;to measure the fever;Wir müssen das Fieber messen, um die Temperatur zu überprüfen.;We need to measure the fever to check the temperature.;[sound:453.mp3]
+454;die Entschuldigung, -en;apology;Ich schreibe eine Entschuldigung für die verpasste Schule.;'I''m writing an apology for the missed school.';[sound:454.mp3]
+455;Sehr geehrte Frau ... / Sehr geehrter Herr ...;Dear Mrs... / Dear Mr...;Sehr geehrte Frau Müller, ...;Dear Mrs. Müller, ...;[sound:455.mp3]
+456;Mit freundlichen Grüßen;Yours sincerely;Mit freundlichen Grüßen, Peter Schmidt;Yours sincerely, Peter Schmidt;[sound:456.mp3]
+457;der Unterricht, Sg.;lessons;Der Unterricht beginnt um 8 Uhr morgens.;'Lessons start at 8 o''clock in the morning.';[sound:457.mp3]
+458;untersuchen;to examine;Der Arzt wird Sie untersuchen, um die Ursache zu finden.;The doctor will examine you to find the cause.;[sound:458.mp3]
+459;operieren;to operate;Der Chirurg wird das Knie operieren.;The surgeon will operate on the knee.;[sound:459.mp3]
+460;es geht mir besser;'I''m feeling better';Danke für die Genesungswünsche, es geht mir besser.;'Thank you for the get-well wishes, I''m feeling better.';[sound:460.mp3]
+461;der Notruf, -e;emergency call;In einem Notfall sollten Sie den Notruf wählen.;In case of an emergency, you should dial the emergency number.;[sound:461.mp3]
+462;"der Notfall, ""-e";emergency;In einem medizinischen Notfall rufen Sie den Notarzt.;In a medical emergency, call the emergency doctor.;[sound:462.mp3]
+463;"der Notarzt, ""-e";emergency doctor;Der Notarzt ist schnell am Unfallort angekommen.;The emergency doctor arrived quickly at the accident scene.;[sound:463.mp3]
+464;"der Unfall, ""-e";accident;Der Unfall ereignete sich gestern auf der Autobahn.;The accident happened yesterday on the highway.;[sound:464.mp3]
+465;Was ist passiert?;What happened?;Was ist passiert? Kannst du mir erzählen, was passiert ist?;What happened? Can you tell me what happened?;[sound:465.mp3]
+466;verletzt sein;to be injured;Er ist bei dem Unfall verletzt worden.;He was injured in the accident.;[sound:466.mp3]
+467;dringend;urgent;Wir benötigen dringend medizinische Hilfe.;We urgently need medical assistance.;[sound:467.mp3]
+468;die Minute, -n;minute;Wir haben noch eine Minute Zeit, um den Zug zu erreichen.;We have one more minute to catch the train.;[sound:468.mp3]
+469;die Ecke, -n;corner;Die Apotheke befindet sich an der Ecke der Straße.;The pharmacy is located at the corner of the street.;[sound:469.mp3]
+470;das Feuer, Sg.;fire;Das Feuerwehrauto kommt, um das Feuer zu löschen.;The fire truck is coming to extinguish the fire.;[sound:470.mp3]
+471;die Feuerwehr, -en;fire department;Die Feuerwehr ist schnell am Brandort.;The fire department arrived quickly at the fire scene.;[sound:471.mp3]
+472;der Krankenwagen, -;ambulance;Der Krankenwagen bringt den Verletzten ins Krankenhaus.;The ambulance is taking the injured person to the hospital.;[sound:472.mp3]
+473;der Weg, -e;way;Können Sie mir den Weg zum Bahnhof zeigen?;Can you show me the way to the train station?;[sound:473.mp3]
+474;"die Stadt, ""-e";city;Die Stadt ist voller Sehenswürdigkeiten.;The city is full of sights.;[sound:474.mp3]
+475;der Bus, -se;bus;Der Bus fährt alle 30 Minuten.;The bus runs every 30 minutes.;[sound:475.mp3]
+476;die Straßenbahn, -en;tram;Die Straßenbahn hält an dieser Haltestelle.;The tram stops at this tram stop.;[sound:476.mp3]
+477;die U-Bahn, -en;subway;Die U-Bahn ist ein schnelles Verkehrsmittel in der Stadt.;The subway is a fast mode of transportation in the city.;[sound:477.mp3]
+478;die S-Bahn, -en;suburban train;Die S-Bahn verbindet die Stadt mit den Vororten.;The suburban train connects the city with the suburbs.;[sound:478.mp3]
+479;"der Zug, ""-e";train;Der Zug fährt pünktlich ab.;The train departs on time.;[sound:479.mp3]
+480;das Schiff, -e;ship;Wir nehmen das Schiff für eine Bootsfahrt auf dem See.;'We''re taking the ship for a boat trip on the lake.';[sound:480.mp3]
+481;"das Motorrad, ""-er";motorcycle;Das Motorrad ist ein schnelles Fortbewegungsmittel.;The motorcycle is a fast mode of transportation.;[sound:481.mp3]
+482;das Flugzeug, -e;airplane;Das Flugzeug hebt ab und fliegt in den Himmel.;The airplane takes off and flies into the sky.;[sound:482.mp3]
+483;der/die Fußgänger/in, -/-nen;pedestrian;Die Fußgänger müssen an der Ampel warten.;Pedestrians have to wait at the traffic light.;[sound:483.mp3]
+484;fahren;to drive;Ich fahre gerne mit dem Fahrrad zur Arbeit.;I like to ride my bike to work.;[sound:484.mp3]
+485;fliegen;to fly;Das Flugzeug wird in wenigen Stunden nach New York fliegen.;The airplane will fly to New York in a few hours.;[sound:485.mp3]
+486;zu Fuß gehen;to walk;Wir können zu Fuß zum Schwimmbad gehen.;We can walk to the swimming pool.;[sound:486.mp3]
+487;teuer;expensive;Das Taxi in dieser Stadt ist sehr teuer.;The taxi in this city is very expensive.;[sound:487.mp3]
+488;schnell;fast;Der Zug ist ein schnelles Verkehrsmittel.;The train is a fast mode of transportation.;[sound:488.mp3]
+489;praktisch;practical;Ein Fahrrad ist ein praktisches Fortbewegungsmittel in der Stadt.;A bicycle is a practical mode of transportation in the city.;[sound:489.mp3]
+490;morgens;in the morning;Morgens trinke ich immer eine Tasse Kaffee.;In the morning, I always have a cup of coffee.;[sound:490.mp3]
+491;"das Schwimmbad, ""-er";swimming pool;Im Schwimmbad können wir schwimmen und Spaß haben.;At the swimming pool, we can swim and have fun.;[sound:491.mp3]
+492;"das Rathaus, ""-er";town hall;Das Rathaus ist das Verwaltungsgebäude der Stadt.;The town hall is the administrative building of the city.;[sound:492.mp3]
+493;die Bibliothek, -en;library;Die Bibliothek hat eine große Auswahl an Büchern.;The library has a large selection of books.;[sound:493.mp3]
+494;"der Hauptbahnhof, ""-e";main train station;Der Hauptbahnhof ist ein wichtiger Verkehrsknotenpunkt.;The main train station is an important transportation hub.;[sound:494.mp3]
+495;weit;far;Das nächste Restaurant ist weit von hier.;The nearest restaurant is far from here.;[sound:495.mp3]
+496;die U-Bahn-Station, -en;subway station;Die U-Bahn-Station ist der beste Weg zur Arbeit.;The subway station is the best way to get to work.;[sound:496.mp3]
+497;die Linie, -n;line;Die U-Bahn-Linie 3 fährt zur Stadtmitte.;Subway line 3 goes to the city center.;[sound:497.mp3]
+498;die Richtung, -en;direction;In welcher Richtung fährt der Zug?;In which direction is the train going?;[sound:498.mp3]
+499;der Zoo, -s;zoo;Der Zoo ist ein beliebter Ort für Familienausflüge.;The zoo is a popular place for family outings.;[sound:499.mp3]
+500;die Station, -en;station;Die U-Bahn-Station ist hier.;The subway station is here.;[sound:500.mp3]
+501;umsteigen;to change;Wir müssen an der nächsten Station umsteigen.;We need to change at the next station.;[sound:501.mp3]
+502;der Flughafen, -;airport;Der Flughafen ist ein geschäftiger Ort.;The airport is a busy place.;[sound:502.mp3]
+503;die Stadtmitte, Sg.;city center;Die Stadtmitte ist das Herz der Stadt.;The city center is the heart of the city.;[sound:503.mp3]
+504;die Haltestelle, -n;bus stop;Die Haltestelle ist direkt vor dem Café.;The bus stop is right in front of the café.;[sound:504.mp3]
+505;die Monatskarte, -n;monthly ticket;Mit einer Monatskarte können Sie den gesamten Monat fahren.;With a monthly ticket, you can travel the entire month.;[sound:505.mp3]
+506;das Café, -s;café;Wir treffen uns im Café um 15 Uhr.;'We''ll meet at the café at 3 PM.';[sound:506.mp3]
+507;"der Platz, ""-e";square;Der Platz ist voller Menschen und Musik.;The square is full of people and music.;[sound:507.mp3]
+508;"der Baum, ""-e";tree;Der Baum spendet Schatten an heißen Tagen.;The tree provides shade on hot days.;[sound:508.mp3]
+509;"der Spielplatz, ""-e";playground;Die Kinder spielen auf dem Spielplatz.;The children are playing on the playground.;[sound:509.mp3]
+510;"die Bank, ""-e";bench;Setzen wir uns auf die Bank und ruhen uns aus.;'Let''s sit on the bench and rest.';[sound:510.mp3]
+511;der Hund, -e;dog;Der Hund läuft glücklich im Park.;The dog is running happily in the park.;[sound:511.mp3]
+512;in;in;Die Schlüssel sind in der Tasche.;The keys are in the bag.;[sound:512.mp3]
+513;an;at;Wir treffen uns an der Haltestelle.;'We''ll meet at the bus stop.';[sound:513.mp3]
+514;auf;on;Das Buch liegt auf dem Tisch.;The book is on the table.;[sound:514.mp3]
+515;unter;under;Die Katze versteckt sich unter dem Bett.;The cat is hiding under the bed.;[sound:515.mp3]
+516;über;over;Der Vogel fliegt über dem Haus.;The bird is flying over the house.;[sound:516.mp3]
+517;vor;in front of;Das Auto steht vor dem Haus.;The car is in front of the house.;[sound:517.mp3]
+518;hinter;behind;Das Geschenk ist hinter dem Sofa versteckt.;The gift is hidden behind the sofa.;[sound:518.mp3]
+519;neben;beside;Der Stuhl steht neben dem Tisch.;The chair is beside the table.;[sound:519.mp3]
+520;zwischen;between;Das Hotel liegt zwischen dem Strand und dem Wald.;The hotel is located between the beach and the forest.;[sound:520.mp3]
+521;die Ampel, -n;traffic light;An der Ampel müssen wir warten.;We have to wait at the traffic light.;[sound:521.mp3]
+522;parken;to park;Kann ich hier parken?;Can I park here?;[sound:522.mp3]
+523;"der Parkplatz, ""-e";parking lot;Der Parkplatz ist voll, wir müssen woanders parken.;The parking lot is full, we have to park somewhere else.;[sound:523.mp3]
+524;der Park, -s;park;Der Park ist ein schöner Ort für ein Picknick.;The park is a beautiful place for a picnic.;[sound:524.mp3]
+525;"der Fluss, ""-e";river;Der Fluss fließt ruhig durch die Landschaft.;The river flows peacefully through the landscape.;[sound:525.mp3]
+526;(nach) links;to the left;Biegen Sie an der Kreuzung nach links ab.;Turn left at the intersection.;[sound:526.mp3]
+527;(nach) rechts;to the right;Fahren Sie nach rechts auf die Hauptstraße.;Turn right onto the main road.;[sound:527.mp3]
+528;geradeaus;straight ahead;Fahren Sie geradeaus bis zur nächsten Kreuzung.;Drive straight ahead to the next intersection.;[sound:528.mp3]
+529;die Kreuzung, -en;intersection;Die Kreuzung ist gut beschildert.;The intersection is well signposted.;[sound:529.mp3]
+530;auf der linken Seite;on the left side;Das Café ist auf der linken Seite der Straße.;The café is on the left side of the street.;[sound:530.mp3]
+531;gegenüber;opposite;Das Geschäft liegt gegenüber dem Supermarkt.;The shop is located opposite the supermarket.;[sound:531.mp3]
+532;in der Nähe;nearby;Der Park ist in der Nähe des Zoos.;The park is nearby the zoo.;[sound:532.mp3]
+533;der Führerschein, -e;'driver''s license';Um ein Auto zu fahren, braucht man einen Führerschein.;'To drive a car, you need a driver''s license.';[sound:533.mp3]
+534;die Führerscheinprüfung, -en;'driver''s license test';Die Führerscheinprüfung besteht aus einer theoretischen und einer praktischen Prüfung.;'The driver''s license test consists of a theoretical and a practical exam.';[sound:534.mp3]
+535;anerkennen;to recognize;Die Behörden erkennen den ausländischen Führerschein an.;'The authorities recognize the foreign driver''s license.';[sound:535.mp3]
+536;dürfen;to be allowed to;Kinder dürfen nicht ohne Erwachsene ins Schwimmbad.;Children are not allowed into the swimming pool without adults.;[sound:536.mp3]
+537;Vorfahrt haben;to have the right of way;Das Fahrzeug auf der Hauptstraße hat Vorfahrt.;The vehicle on the main road has the right of way.;[sound:537.mp3]
+538;das Vorfahrtsschild, -er;yield sign;An einem Vorfahrtsschild müssen Sie anderen Fahrzeugen Vorfahrt gewähren.;At a yield sign, you must yield to other vehicles.;[sound:538.mp3]
+539;der Lkw, -s;truck;Der Lkw transportiert Waren von einem Ort zum anderen.;The truck transports goods from one place to another.;[sound:539.mp3]
+540;der Bürgersteig, -e;sidewalk;Die Menschen gehen auf dem Bürgersteig.;People walk on the sidewalk.;[sound:540.mp3]
+541;das Schild, -er;sign;Das Schild warnt vor Wildwechsel.;The sign warns of deer crossing.;[sound:541.mp3]
+542;anhalten;to stop;Bitte halten Sie an der roten Ampel an.;Please stop at the red traffic light.;[sound:542.mp3]
+543;abbiegen;to turn;Biegen Sie an der nächsten Kreuzung rechts ab.;Turn right at the next intersection.;[sound:543.mp3]
+544;hupen;to honk;Der Autofahrer hupt, um auf sich aufmerksam zu machen.;The driver honks the horn to get attention.;[sound:544.mp3]
+545;weiterfahren;to continue driving;Nach einer kurzen Pause werden wir weiterfahren.;After a short break, we will continue driving.;[sound:545.mp3]
+546;blinken;to signal;Bitte vergiss nicht zu blinken, wenn du abbiegst.;'Please don''t forget to signal when you turn.';[sound:546.mp3]
+547;Vorfahrt achten;to yield the right of way;An dieser Kreuzung musst du die Vorfahrt achten.;At this intersection, you need to yield the right of way.;[sound:547.mp3]
+548;früher;earlier;Früher bin ich immer mit dem Fahrrad zur Schule gefahren.;I used to ride my bike to school earlier.;[sound:548.mp3]
+549;heute;today;Heute ist ein sonniger Tag.;Today is a sunny day.;[sound:549.mp3]
+550;verheiratet;married;Sie sind seit fünf Jahren verheiratet.;They have been married for five years.;[sound:550.mp3]
+551;ledig;single;Er ist ledig und sucht nach einer Beziehung.;He is single and looking for a relationship.;[sound:551.mp3]
+552;geschieden;divorced;Meine Eltern sind seit letztem Jahr geschieden.;My parents got divorced last year.;[sound:552.mp3]
+553;"die Großstadt, ""-e";metropolis;Berlin ist eine lebendige Großstadt mit vielen Sehenswürdigkeiten.;Berlin is a vibrant metropolis with many sights.;[sound:553.mp3]
+554;"die Kleinstadt, ""-e";small town;In einer Kleinstadt ist das Leben oft ruhiger als in der Großstadt.;Life in a small town is often quieter than in a big city.;[sound:554.mp3]
+555;träumen;to dream;Ich träume von einem Urlaub am Strand.;I dream of a vacation at the beach.;[sound:555.mp3]
+556;reden;to talk;Lass uns über deine Pläne reden.;'Let''s talk about your plans.';[sound:556.mp3]
+557;mit Freunden reden;to talk with friends;Es ist wichtig, mit Freunden zu reden, wenn du Probleme hast.;'It''s important to talk with friends when you have problems.';[sound:557.mp3]
+558;Karten spielen;to play cards;Wir spielen gerne Karten an den Wochenenden.;We enjoy playing cards on weekends.;[sound:558.mp3]
+559;Sport machen;to do sports;Sport machen ist gut für die Gesundheit.;Doing sports is good for your health.;[sound:559.mp3]
+560;das Radio, -s;radio;Ich höre gerne das Radio, um auf dem Laufenden zu bleiben.;I like listening to the radio to stay informed.;[sound:560.mp3]
+561;Radio hören;to listen to the radio;Ich höre gerne Musik, wenn ich Radio höre.;I like listening to music when I listen to the radio.;[sound:561.mp3]
+562;unterwegs;on the way;Ich bin unterwegs zum Supermarkt.;'I''m on my way to the supermarket.';[sound:562.mp3]
+563;die Postkarte, -n;postcard;Ich schicke dir eine Postkarte aus dem Urlaub.;'I''m sending you a postcard from my vacation.';[sound:563.mp3]
+564;Liebe Claudia;Dear Claudia;Liebe Claudia, ich hoffe, es geht dir gut.;'Dear Claudia, I hope you''re doing well.';[sound:564.mp3]
+565;einschlafen;to fall asleep;Ich kann nachts nicht einschlafen.;'I can''t fall asleep at night.';[sound:565.mp3]
+566;müde;tired;Ich bin sehr müde nach der Arbeit.;'I''m very tired after work.';[sound:566.mp3]
+567;aufwachen;to wake up;Ich wache normalerweise um 7 Uhr morgens auf.;I usually wake up at 7 in the morning.;[sound:567.mp3]
+568;der Autoschlüssel, -;car key;Wo hast du den Autoschlüssel gelassen?;Where did you leave the car key?;[sound:568.mp3]
+569;finden;to find;Ich kann meine Brille nicht finden.;'I can''t find my glasses.';[sound:569.mp3]
+570;auf dem Land leben;to live in the countryside;Viele Menschen träumen davon, auf dem Land zu leben.;Many people dream of living in the countryside.;[sound:570.mp3]
+571;in der Stadt leben;to live in the city;In der Stadt zu leben, hat seine Vor- und Nachteile.;Living in the city has its pros and cons.;[sound:571.mp3]
+572;am Anfang;at the beginning;Am Anfang des Buches gibt es eine Einführung.;At the beginning of the book, there is an introduction.;[sound:572.mp3]
+573;zuerst;first;Zuerst gehe ich einkaufen und dann zur Arbeit.;First, I go shopping, and then to work.;[sound:573.mp3]
+574;zuletzt;last;Sie war die zuletzt ankommende Person auf der Party.;She was the last person to arrive at the party.;[sound:574.mp3]
+575;seit;since;Ich lerne Deutsch seit zwei Jahren.;'I''ve been learning German for two years.';[sound:575.mp3]
+576;seit wann ...?;since when ...?;Seit wann wohnst du in dieser Stadt?;Since when have you been living in this city?;[sound:576.mp3]
+577;wie lange ...?;how long ...?;Wie lange dauert der Flug von hier nach New York?;How long is the flight from here to New York?;[sound:577.mp3]
+578;arm;poor;Arme Menschen haben oft Schwierigkeiten, ihre Grundbedürfnisse zu erfüllen.;Poor people often have difficulties meeting their basic needs.;[sound:578.mp3]
+579;schwer;difficult;Das Mathe-Problem war schwer zu lösen.;The math problem was difficult to solve.;[sound:579.mp3]
+580;das Taxiunternehmen, -;taxi company;Das Taxiunternehmen bietet einen schnellen Service an.;The taxi company offers a fast service.;[sound:580.mp3]
+581;der/die Angestellte, -n/-n;employee;Die Angestellten des Unternehmens sind sehr engagiert.;The employees of the company are very dedicated.;[sound:581.mp3]
+582;wichtig;important;Es ist wichtig, die richtigen Entscheidungen zu treffen.;'It''s important to make the right decisions.';[sound:582.mp3]
+583;Liebe Grüße;best regards;Liebe Grüße, Maria;Best regards, Maria;[sound:583.mp3]
+584;"das Amt, ""-er";office;Das Amt ist montags bis freitags geöffnet.;The office is open from Monday to Friday.;[sound:584.mp3]
+585;die Behörde, -n;authority;Die Behörde ist für die Ausstellung von Dokumenten verantwortlich.;The authority is responsible for issuing documents.;[sound:585.mp3]
+586;die Bundesagentur für Arbeit;Federal Employment Agency;Die Bundesagentur für Arbeit hilft bei der Jobsuche.;The Federal Employment Agency helps with job search.;[sound:586.mp3]
+587;die Familienkasse;family allowance office;Die Familienkasse zahlt Kindergeld an berechtigte Familien aus.;The family allowance office pays child benefit to eligible families.;[sound:587.mp3]
+588;"das Standesamt, ""-er";registry office;Im Standesamt können Paare heiraten.;Couples can get married at the registry office.;[sound:588.mp3]
+589;die Kfz-Zulassungsstelle, -n;vehicle registration office;Die Kfz-Zulassungsstelle ist zuständig für die Anmeldung von Autos.;The vehicle registration office is responsible for car registration.;[sound:589.mp3]
+590;"der Warteraum, ""-e";waiting room;Im Warteraum können Sie bequem auf Ihren Termin warten.;You can wait comfortably for your appointment in the waiting room.;[sound:590.mp3]
+591;heiraten;to marry;Sie werden nächsten Monat heiraten.;They will get married next month.;[sound:591.mp3]
+592;anmelden;to register;Bitte melden Sie sich im Büro an.;Please register at the office.;[sound:592.mp3]
+593;abmelden;to deregister;Wenn Sie umziehen, müssen Sie sich bei der Stadt abmelden.;If you move, you need to deregister with the city.;[sound:593.mp3]
+594;beantragen;to apply for;Sie können online einen Reisepass beantragen.;You can apply for a passport online.;[sound:594.mp3]
+595;das Kindergeld, Sg.;child benefit;Das Kindergeld wird monatlich ausgezahlt.;Child benefit is paid monthly.;[sound:595.mp3]
+596;die Berufsberatung, -en;career counseling;Die Berufsberatung hilft bei der Berufswahl.;Career counseling helps with choosing a profession.;[sound:596.mp3]
+597;"das Bürgeramt, ""-er";'citizen''s office';Sie müssen zum Bürgeramt gehen, um Ihren Wohnsitz anzumelden.;'You need to go to the citizen''s office to register your residence.';[sound:597.mp3]
+598;"das Ausländeramt, ""-er";'foreigners'' office';Das Ausländeramt kümmert sich um Visa-Angelegenheiten.;'The foreigners'' office handles visa matters.';[sound:598.mp3]
+599;das Visum, Visa;visa;Um nach Deutschland zu reisen, benötigen Sie ein Visum.;To travel to Germany, you need a visa.;[sound:599.mp3]
+600;verlängern;to extend;Können Sie mein Visum verlängern?;Can you extend my visa?;[sound:600.mp3]
+601;die Meldestelle, -n;registration office;Die Meldestelle ist für Wohnsitzanmeldungen zuständig.;The registration office is responsible for residence registrations.;[sound:601.mp3]
+602;die Gemeinde, -n;municipality;Die Gemeinde organisiert lokale Veranstaltungen.;The municipality organizes local events.;[sound:602.mp3]
+603;das Geburtsdatum, -daten;date of birth;Bitte geben Sie Ihr Geburtsdatum an.;Please provide your date of birth.;[sound:603.mp3]
+604;der Geburtsort, -e;place of birth;Mein Geburtsort ist Berlin.;My place of birth is Berlin.;[sound:604.mp3]
+605;der Familienstand, Sg.;marital status;Mein Familienstand ist ledig.;My marital status is single.;[sound:605.mp3]
+606;männlich;male;Mein Geschlecht ist männlich.;My gender is male.;[sound:606.mp3]
+607;weiblich;female;Ihr Geschlecht ist weiblich.;Her gender is female.;[sound:607.mp3]
+608;berufstätig;employed;Sind Sie berufstätig oder arbeitslos?;Are you employed or unemployed?;[sound:608.mp3]
+609;die Staatsangehörigkeit, -en;nationality;Meine Staatsangehörigkeit ist Deutsch.;My nationality is German.;[sound:609.mp3]
+610;geboren sein;to be born;Ich bin in München geboren.;I was born in Munich.;[sound:610.mp3]
+611;das Datum, Daten;date;Bitte notieren Sie das Datum des Treffens.;Please note the date of the meeting.;[sound:611.mp3]
+612;der Einzug, Sg.;move-in;Der Einzug in die neue Wohnung war aufregend.;The move-in into the new apartment was exciting.;[sound:612.mp3]
+613;die Hauptwohnung, Sg.;main residence;Meine Hauptwohnung ist in Hamburg.;My main residence is in Hamburg.;[sound:613.mp3]
+614;der/die Vermieter/in, -/-nen;landlord/landlady;Der Vermieter hat die Miete erhöht.;The landlord raised the rent.;[sound:614.mp3]
+615;mieten;to rent;Wir möchten eine Wohnung mieten.;We want to rent an apartment.;[sound:615.mp3]
+616;umziehen;to move;Wir werden nächsten Monat umziehen.;We will move next month.;[sound:616.mp3]
+617;"der Antrag, ""-e";application;Bitte füllen Sie den Antrag aus.;Please fill out the application.;[sound:617.mp3]
+618;einen Antrag stellen;to submit an application;Sie können online einen Antrag stellen.;You can submit an application online.;[sound:618.mp3]
+619;die Eigentumswohnung, -en;condominium;Die Eigentumswohnung gehört mir.;The condominium is owned by me.;[sound:619.mp3]
+620;gehören;to belong;Das Haus gehört meiner Familie.;The house belongs to my family.;[sound:620.mp3]
+621;ein Formular ausfüllen;to fill out a form;Bitte füllen Sie dieses Formular aus und geben Sie es ab.;Please fill out this form and submit it.;[sound:621.mp3]
+622;verstehen;to understand;Können Sie mich bitte wiederholen? Ich habe nicht verstanden.;'Can you please repeat? I didn''t understand.';[sound:622.mp3]
+623;der/die Sachbearbeiter/in, -/-nen;case worker;Der Sachbearbeiter wird Ihnen bei Ihrem Anliegen helfen.;The case worker will assist you with your request.;[sound:623.mp3]
+624;der Tipp, -s;tip;Vielen Dank für den hilfreichen Tipp!;Thank you for the helpful tip!;[sound:624.mp3]
+625;die Informationsbroschüre, -n;information brochure;Die Informationsbroschüre enthält wichtige Details.;The information brochure contains important details.;[sound:625.mp3]
+626;danken;to thank;Ich möchte Ihnen herzlich für Ihre Hilfe danken.;I want to thank you warmly for your help.;[sound:626.mp3]
+627;nett;nice;Sie ist eine sehr nette Person.;She is a very nice person.;[sound:627.mp3]
+628;"der Antrag, ""-e";application;Bitte füllen Sie den Antrag aus und reichen Sie ihn ein.;Please fill out the application and submit it.;[sound:628.mp3]
+629;einen Antrag stellen;to submit an application;Sie müssen einen Antrag stellen, um Unterstützung zu erhalten.;You need to submit an application to receive assistance.;[sound:629.mp3]
+630;Verzeihung;excuse me;Verzeihung, können Sie mir den Weg zum Bahnhof erklären?;Excuse me, can you explain the way to the train station?;[sound:630.mp3]
+631;die Kursgebühr, -en;course fee;Die Kursgebühr muss bis zum Kursbeginn bezahlt werden.;The course fee must be paid by the start of the course.;[sound:631.mp3]
+632;die Wartenummer, -n;queue number;Bitte warten Sie, bis Ihre Wartenummer aufgerufen wird.;Please wait until your queue number is called.;[sound:632.mp3]
+633;"der Eingang, ""-e";entrance;Der Eingang zum Gebäude befindet sich auf der linken Seite.;The entrance to the building is on the left side.;[sound:633.mp3]
+634;erklären;to explain;Können Sie mir das bitte genauer erklären?;Can you please explain this to me in more detail?;[sound:634.mp3]
+635;Herzlichen Dank!;Thank you very much!;Herzlichen Dank für Ihre Hilfe.;Thank you very much for your help!;[sound:635.mp3]
+636;die Geburtsurkunde, -n;birth certificate;Die Geburtsurkunde ist ein wichtiges Dokument.;The birth certificate is an important document.;[sound:636.mp3]
+637;"der Pass, ""-e";passport;Bitte legen Sie Ihren Pass und Ihr Visum vor.;Please present your passport and visa.;[sound:637.mp3]
+638;"der Mietvertrag, ""-e";rental agreement;Der Mietvertrag regelt die Bedingungen für die Wohnung.;The rental agreement outlines the conditions for the apartment.;[sound:638.mp3]
+639;die Gehaltsabrechnung, -en;payroll statement;Die Gehaltsabrechnung zeigt Ihre monatlichen Einnahmen und Abzüge.;The payroll statement displays your monthly earnings and deductions.;[sound:639.mp3]
+640;"der Kindergeldantrag, ""-e";child benefit application;Sie müssen einen Kindergeldantrag stellen, um Kindergeld zu erhalten.;You need to submit a child benefit application to receive child benefit.;[sound:640.mp3]
+641;der Arztbesuch, -e;'doctor''s visit';Der Arztbesuch war heute Morgen.;The doctor;[sound:641.mp3]
+642;"das Kaufhaus, ""-er";department store;Ich gehe ins Kaufhaus, um Kleidung zu kaufen.;'I''m going to the department store to buy clothes.';[sound:642.mp3]
+643;"der Anzug, ""-e";suit;Der Anzug passt gut zu diesem Anlass.;The suit is a good fit for this occasion.;[sound:643.mp3]
+644;das Hemd, -en;shirt;Dieses Hemd ist sehr schick.;This shirt is very stylish.;[sound:644.mp3]
+645;die Hose, -n;pants;Die Hose ist zu eng. Ich brauche eine größere Größe.;The pants are too tight. I need a larger size.;[sound:645.mp3]
+646;das Kleid, -er;dress;Das Kleid sieht wunderschön aus.;The dress looks beautiful.;[sound:646.mp3]
+647;"der Mantel, ""-";coat;Der Mantel hält warm im Winter.;The coat keeps you warm in winter.;[sound:647.mp3]
+648;der Pullover, -;sweater;Dieser Pullover ist bequem und warm.;This sweater is comfortable and warm.;[sound:648.mp3]
+649;"der Rock, ""-e";skirt;Der Rock ist heute dein Lieblingsstück.;The skirt is your favorite piece today.;[sound:649.mp3]
+650;der Schuh, -e;shoe;Die Schuhe sind bequem für lange Spaziergänge.;The shoes are comfortable for long walks.;[sound:650.mp3]
+651;die Jeans, -;jeans;Jeans sind vielseitig und bequem.;Jeans are versatile and comfortable.;[sound:651.mp3]
+652;das T-Shirt, -s;t-shirt;Das T-Shirt hat ein cooles Design.;The t-shirt has a cool design.;[sound:652.mp3]
+653;das Sweatshirt, -s;sweatshirt;Das Sweatshirt ist perfekt für kühle Tage.;The sweatshirt is perfect for cool days.;[sound:653.mp3]
+654;die Bluse, -n;blouse;Die Bluse passt gut zur Jeans.;The blouse goes well with jeans.;[sound:654.mp3]
+655;die Socke, -n;sock;Die Socken halten die Füße warm.;The socks keep the feet warm.;[sound:655.mp3]
+656;die Unterwäsche, Sg.;underwear;Gute Unterwäsche sollte bequem sein.;Good underwear should be comfortable.;[sound:656.mp3]
+657;gefallen;to like;Mir gefällt dieses Kleid sehr.;I really like this dress.;[sound:657.mp3]
+658;die Kleidung, Sg.;clothing;Meine Kleidung ist modisch und bequem.;My clothing is fashionable and comfortable.;[sound:658.mp3]
+659;schick;stylish;Dein Outfit sieht heute sehr schick aus.;Your outfit looks very stylish today.;[sound:659.mp3]
+660;altmodisch;old-fashioned;Der Vintage-Stil ist manchmal altmodisch, aber trendy.;Vintage style is sometimes old-fashioned but trendy.;[sound:660.mp3]
+661;gar nicht;not at all;Mir gefällt diese Farbe gar nicht.;'I don''t like this color at all.';[sound:661.mp3]
+662;überhaupt (nicht);not at all;Ich verstehe das überhaupt nicht.;'I don''t understand that at all.';[sound:662.mp3]
+663;komisch;strange;Das ist wirklich komisch.;That is really strange.;[sound:663.mp3]
+664;ausehen;to look;Du siehst heute großartig aus.;You look great today.;[sound:664.mp3]
+665;passen;to fit;Dieses Hemd passt perfekt.;This shirt fits perfectly.;[sound:665.mp3]
+666;anprobieren;to try on;Ich werde dieses Kleid anprobieren.;I will try on this dress.;[sound:666.mp3]
+667;die Umkleidekabine, -n;fitting room;Die Umkleidekabine ist gleich hier drüben.;The fitting room is right over there.;[sound:667.mp3]
+668;der Secondhandladen, -;secondhand store;Ich kaufe gerne in Secondhandläden ein.;I like to shop at secondhand stores.;[sound:668.mp3]
+669;"der Flohmarkt, ""-e";flea market;Am Wochenende gehe ich gerne auf den Flohmarkt.;I enjoy going to the flea market on weekends.;[sound:669.mp3]
+670;die Boutique, -n;boutique;In dieser Boutique gibt es exklusive Mode.;This boutique offers exclusive fashion.;[sound:670.mp3]
+671;günstig;affordable;Dieses Kleid ist sehr günstig.;This dress is very affordable.;[sound:671.mp3]
+672;teuer;expensive;Der Schmuck in diesem Geschäft ist sehr teuer.;The jewelry in this store is very expensive.;[sound:672.mp3]
+673;angenehm;pleasant;Das Einkaufen hier ist immer angenehm.;Shopping here is always pleasant.;[sound:673.mp3]
+674;stressig;stressful;Der Einkaufsbummel am Black Friday kann sehr stressig sein.;Black Friday shopping can be very stressful.;[sound:674.mp3]
+675;kompliziert;complicated;Die Bedienungsanleitung ist sehr kompliziert.;The user manual is very complicated.;[sound:675.mp3]
+676;cool;cool;Deine Schuhe sehen wirklich cool aus.;Your shoes look really cool.;[sound:676.mp3]
+677;anziehen;to put on;Ich werde dieses Kleid für die Party anziehen.;I will put on this dress for the party.;[sound:677.mp3]
+678;welcher, -s, -e;which;Welches Hemd möchtest du kaufen?;Which shirt would you like to buy?;[sound:678.mp3]
+679;das Computerspiel, -e;computer game;Computerspiele können unterhaltsam sein.;Computer games can be entertaining.;[sound:679.mp3]
+680;der Schmuck, Sg.;jewelry;Schmuck kann ein Outfit ergänzen.;Jewelry can complement an outfit.;[sound:680.mp3]
+681;die Toilette, -n;toilet;Die Toilette befindet sich im Erdgeschoss.;The toilet is located on the ground floor.;[sound:681.mp3]
+682;"der Ausgang, ""-e";exit;Der Ausgang ist auf der rechten Seite.;The exit is on the right side.;[sound:682.mp3]
+683;die Größe, -n;size;Welche Größe tragen Sie bei Hosen?;What size do you wear for pants?;[sound:683.mp3]
+684;eine Hose in Größe M;a pair of pants in size M;Ich brauche eine Hose in Größe M.;I need a pair of pants in size M.;[sound:684.mp3]
+685;nachsehen;to check;Können Sie bitte nachsehen, ob diese Bluse in Ihrer Größe verfügbar ist?;Can you please check if this blouse is available in your size?;[sound:685.mp3]
+686;die Abteilung, -en;department;Die Damenbekleidung ist in der zweiten Abteilung.;'Women''s clothing is in the second department.';[sound:686.mp3]
+687;hinten, dort hinten;in the back, back there;Die Umkleidekabinen sind hinten, dort hinten.;The fitting rooms are in the back, back there.;[sound:687.mp3]
+688;vorne, da vorne;in the front, up front;Die Kassen befinden sich vorne, da vorne.;The cash registers are in the front, up front.;[sound:688.mp3]
+689;direkt neben;right next to;Das Café ist direkt neben der Boutique.;The cafe is right next to the boutique.;[sound:689.mp3]
+690;die Rolltreppe, -n;escalator;Nehmen Sie die Rolltreppe in die oberen Stockwerke.;Take the escalator to the upper floors.;[sound:690.mp3]
+691;das Mädchen, -;girl;Das Mädchen trägt ein schönes Kleid.;The girl is wearing a beautiful dress.;[sound:691.mp3]
+692;der gleiche Preis;the same price;Beide Artikel haben den gleichen Preis.;Both items have the same price.;[sound:692.mp3]
+693;Tut mir leid.;'I''m sorry';Tut mir leid, dass ich zu spät bin.;'I''m sorry I''m late.';[sound:693.mp3]
+694;der Vorteil, -e;advantage;Ein Vorteil des neuen Jobs ist das höhere Gehalt.;An advantage of the new job is the higher salary.;[sound:694.mp3]
+695;der Nachteil, -e;disadvantage;Ein Nachteil von Online-Shopping ist, dass man die Produkte nicht vorher anfassen kann.;'A disadvantage of online shopping is that you can''t touch the products beforehand.';[sound:695.mp3]
+696;die Reise, -n;trip;Unsere Reise nach Italien war wunderbar.;Our trip to Italy was wonderful.;[sound:696.mp3]
+697;der Berg, -e;mountain;Der Berg ist mit Schnee bedeckt.;The mountain is covered in snow.;[sound:697.mp3]
+698;"der Bauernhof, ""-e";farm;Der Bauernhof hat viele Tiere und Felder.;The farm has many animals and fields.;[sound:698.mp3]
+699;"der Wald, ""-er";forest;Der Wald ist ein beliebter Ort für Wanderungen.;The forest is a popular spot for hiking.;[sound:699.mp3]
+700;die Wiese, -n;meadow;Die Wiese ist im Frühling voller Blumen.;The meadow is full of flowers in spring.;[sound:700.mp3]
+701;das Meer, -e;sea;Das Meer ist blau und ruhig.;The sea is blue and calm.;[sound:701.mp3]
+702;der See, -n;lake;Der See ist ideal zum Schwimmen.;The lake is perfect for swimming.;[sound:702.mp3]
+703;"der Strand, ""-e";beach;Der Strand ist mit feinem Sand bedeckt.;The beach is covered in fine sand.;[sound:703.mp3]
+704;wandern;to hike;Wir lieben es, in den Bergen zu wandern.;We love to hike in the mountains.;[sound:704.mp3]
+705;auf dem Land;in the countryside;Unser Haus steht auf dem Land.;Our house is in the countryside.;[sound:705.mp3]
+706;die Ankunft;arrival;Die Ankunft des Zuges ist pünktlich.;The arrival of the train is on time.;[sound:706.mp3]
+707;die Reservierung, -en;reservation;Haben Sie eine Reservierung für das Hotel?;Do you have a reservation for the hotel?;[sound:707.mp3]
+708;die Erste/Zweite Klasse;first/second class;Wir haben Tickets für die Erste Klasse.;We have tickets for first class.;[sound:708.mp3]
+709;abfahren;to depart;Der Zug wird um 15:30 Uhr abfahren.;The train will depart at 3:30 PM.;[sound:709.mp3]
+710;ankommen;to arrive;Der Flug aus New York wird in einer Stunde ankommen.;The flight from New York will arrive in an hour.;[sound:710.mp3]
+711;das Gleis, -e;track;Unser Zug fährt vom Gleis 3 ab.;Our train departs from track 3.;[sound:711.mp3]
+712;die Verspätung, -en;delay;Es tut uns leid, aber der Zug hat eine Verspätung von 30 Minuten.;'We''re sorry, but the train has a delay of 30 minutes.';[sound:712.mp3]
+713;die Landschaft, -en;landscape;Die Landschaft in dieser Region ist fantastisch.;The landscape in this region is fantastic.;[sound:713.mp3]
+714;fantastisch;fantastic;Das Konzert gestern Abend war fantastisch.;The concert last night was fantastic.;[sound:714.mp3]
+715;die Brücke, -n;bridge;Die alte Brücke verbindet die beiden Ufer des Flusses.;The old bridge connects the two riverbanks.;[sound:715.mp3]
+716;ungefähr;approximately;Die Fahrt dauert ungefähr zwei Stunden.;The journey takes approximately two hours.;[sound:716.mp3]
+717;der Kilometer, -;kilometer;Wir müssen noch 10 Kilometer bis zur Stadt fahren.;We still have to drive 10 kilometers to the city.;[sound:717.mp3]
+718;übernachten;to stay overnight;Wir werden heute Nacht in diesem Hotel übernachten.;We will stay overnight at this hotel tonight.;[sound:718.mp3]
+719;zurückkommen;to come back;Wann wirst du aus deinem Urlaub zurückkommen?;When will you come back from your vacation?;[sound:719.mp3]
+720;durch;through;Wir fahren durch den Tunnel.;'We''re driving through the tunnel.';[sound:720.mp3]
+721;um;around;Die Stadt ist umgeben von wunderschöner Natur.;The city is surrounded by beautiful nature.;[sound:721.mp3]
+722;das Wetter, Sg.;weather;Das Wetter heute ist sonnig und warm.;The weather today is sunny and warm.;[sound:722.mp3]
+723;die Sonne, Sg.;sun;Die Sonne scheint hell am Himmel.;The sun is shining brightly in the sky.;[sound:723.mp3]
+724;heiß;hot;Es ist heute sehr heiß.;'It''s very hot today.';[sound:724.mp3]
+725;sonnig;sunny;Das Wetter ist sonnig und klar.;The weather is sunny and clear.;[sound:725.mp3]
+726;der Regen, Sg.;rain;Der Regen hat den Boden durchnässt.;The rain has soaked the ground.;[sound:726.mp3]
+727;regnen;to rain;Es wird morgen den ganzen Tag regnen.;It will rain all day tomorrow.;[sound:727.mp3]
+728;nass;wet;Nach dem Regen sind die Straßen nass.;The streets are wet after the rain.;[sound:728.mp3]
+729;der Wind, -e;wind;Der Wind weht stark heute.;The wind is blowing strongly today.;[sound:729.mp3]
+730;windig;windy;Es ist sehr windig draußen.;'It''s very windy outside.';[sound:730.mp3]
+731;die Wolke, -n;cloud;Die Wolken am Himmel sind grau.;The clouds in the sky are gray.;[sound:731.mp3]
+732;bewölkt;cloudy;Der Himmel ist heute bewölkt.;The sky is cloudy today.;[sound:732.mp3]
+733;der Schnee, Sg.;snow;Der Schnee bedeckt die Landschaft im Winter.;Snow covers the landscape in winter.;[sound:733.mp3]
+734;schneien;to snow;Es wird morgen voraussichtlich schneien.;'It''s expected to snow tomorrow.';[sound:734.mp3]
+735;der Norden, Sg.;north;Der Norden des Landes ist oft kälter als der Süden.;The north of the country is often colder than the south.;[sound:735.mp3]
+736;der Osten, Sg.;east;Der Osten Deutschlands hat eine reiche Geschichte.;The east of Germany has a rich history.;[sound:736.mp3]
+737;der Süden, Sg.;south;Der Süden ist für sein warmes Klima bekannt.;The south is known for its warm climate.;[sound:737.mp3]
+738;der Westen, Sg.;west;Der Westen des Landes hat viele schöne Strände.;The west of the country has many beautiful beaches.;[sound:738.mp3]
+739;20° (Grad) Celsius;20 degrees Celsius;Das Thermometer zeigt 20 Grad Celsius an.;The thermometer reads 20 degrees Celsius.;[sound:739.mp3]
+740;genauso ... wie;just as ... as;Der Berg ist genauso hoch wie der andere.;The mountain is just as high as the other one.;[sound:740.mp3]
+741;die Jahreszeit, -en;season;Der Frühling ist meine Lieblingsjahreszeit.;Spring is my favorite season.;[sound:741.mp3]
+742;der Frühling;spring;Der Frühling bringt warmes Wetter und blühende Blumen.;Spring brings warm weather and blooming flowers.;[sound:742.mp3]
+743;der Sommer;summer;Im Sommer gehen wir gerne an den Strand.;We like to go to the beach in the summer.;[sound:743.mp3]
+744;der Herbst;autumn;Im Herbst fallen die Blätter von den Bäumen.;In autumn, the leaves fall from the trees.;[sound:744.mp3]
+745;der Winter;winter;Der Winter ist die kälteste Jahreszeit.;Winter is the coldest season.;[sound:745.mp3]
+746;der Monat, -e;month;Mein Geburtstag ist im Monat November.;My birthday is in the month of November.;[sound:746.mp3]
+747;der Januar;January;Der Januar ist der erste Monat des Jahres.;January is the first month of the year.;[sound:747.mp3]
+748;der Februar;February;Der Februar hat oft kaltes Wetter.;February often has cold weather.;[sound:748.mp3]
+749;der März;March;Im März beginnt der Frühling.;Spring begins in March.;[sound:749.mp3]
+750;der April;April;Im April blühen die Blumen.;The flowers bloom in April.;[sound:750.mp3]
+751;der Mai;May;Der Mai ist ein beliebter Monat für Hochzeiten.;May is a popular month for weddings.;[sound:751.mp3]
+752;der Juni;June;Im Juni sind die Tage am längsten.;June has the longest days.;[sound:752.mp3]
+753;der Juli;July;Im Juli feiern wir unseren Jahrestag.;We celebrate our anniversary in July.;[sound:753.mp3]
+754;der August;August;Im August machen viele Menschen Urlaub.;Many people go on vacation in August.;[sound:754.mp3]
+755;der September;September;Der September ist oft noch warm und sonnig.;September is often still warm and sunny.;[sound:755.mp3]
+756;der Oktober;October;Im Oktober sind die Blätter bunt.;In October, the leaves are colorful.;[sound:756.mp3]
+757;der November;November;Der November kann regnerisch sein.;November can be rainy.;[sound:757.mp3]
+758;der Dezember;December;Im Dezember feiern wir Weihnachten.;We celebrate Christmas in December.;[sound:758.mp3]
+759;das Tier, -e;animal;Die Kinder lieben Tiere, besonders Hunde und Katzen.;Children love animals, especially dogs and cats.;[sound:759.mp3]
+760;"der Campingplatz, ""-e";campsite;Wir werden auf einem Campingplatz in den Bergen zelten.;We will camp on a campsite in the mountains.;[sound:760.mp3]
+761;die Stadtrundfahrt, -en;city tour;Die Stadtrundfahrt führte uns zu den wichtigsten Sehenswürdigkeiten.;The city tour took us to the major attractions.;[sound:761.mp3]
+762;preiswert;affordable;Das Restaurant in der Nähe ist preiswert und hat gutes Essen.;The nearby restaurant is affordable and serves good food.;[sound:762.mp3]
+763;das Hotel, -s;hotel;Wir haben ein komfortables Hotel für unseren Urlaub gebucht.;We have booked a comfortable hotel for our vacation.;[sound:763.mp3]
+764;der Kinderwagen,-;stroller;Der Kinderwagen ist praktisch für Eltern mit Babys.;The stroller is convenient for parents with babies.;[sound:764.mp3]
+765;die Mülltonne,-n;garbage bin;Bitte werfen Sie Ihren Müll in die Mülltonne.;Please dispose of your trash in the garbage bin.;[sound:765.mp3]
+766;der Hof,-e;courtyard;Die Kinder spielen im Hof des Wohnhauses.;The children play in the courtyard of the apartment building.;[sound:766.mp3]
+767;die Klingel,-n;doorbell;Drücken Sie die Klingel, wenn Sie klingeln möchten.;Press the doorbell if you want to ring.;[sound:767.mp3]
+768;die Treppe,-n;stairs;Die Treppe führt ins Obergeschoss.;The stairs lead to the upper floor.;[sound:768.mp3]
+769;das Licht,Sg.;light;Bitte schalten Sie das Licht aus, wenn Sie den Raum verlassen.;Please turn off the light when you leave the room.;[sound:769.mp3]
+770;der Aufzug,-e;elevator;Der Aufzug bringt uns in die oberen Stockwerke des Gebäudes.;The elevator takes us to the upper floors of the building.;[sound:770.mp3]
+771;das Treppenhaus,-er;staircase;Das Treppenhaus ist gut beleuchtet.;The staircase is well lit.;[sound:771.mp3]
+772;der Nachbar,-n;neighbor (male);Unsere Nachbarn sind freundlich und hilfsbereit.;Our neighbors are friendly and helpful.;[sound:772.mp3]
+773;die Nachbarin,-nen;neighbor (female);Die Nachbarin hat einen schönen Garten.;The neighbor (female) has a beautiful garden.;[sound:773.mp3]
+774;stören;to disturb;Es tut mir leid, wenn ich störe.;'I''m sorry if I disturb.';[sound:774.mp3]
+775;die Bitte,-n;request;Könnte ich eine kleine Bitte haben?;May I make a small request?;[sound:775.mp3]
+776;gerade;straight;Gehen Sie die Straße geradeaus, dann links.;Go straight down the street, then turn left.;[sound:776.mp3]
+777;Gern geschehen!;'You''re welcome!';Vielen Dank für deine Hilfe. - Gern geschehen!;'Thank you for your help. - You''re welcome!';[sound:777.mp3]
+778;das Paket,-e;package;Das Paket wird morgen geliefert.;The package will be delivered tomorrow.;[sound:778.mp3]
+779;ein Paket abgeben;to drop off a package;Ich muss heute ein Paket bei der Post abgeben.;I need to drop off a package at the post office today.;[sound:779.mp3]
+780;das Päckchen,-;small package;Das Päckchen enthält ein Geschenk für dich.;The small package contains a gift for you.;[sound:780.mp3]
+781;das Salz,Sg.;salt;Kannst du bitte das Salz passieren?;Can you please pass the salt?;[sound:781.mp3]
+782;die Tasse,-n;cup;Ich trinke meinen Kaffee aus dieser Tasse.;I drink my coffee from this cup.;[sound:782.mp3]
+783;Blumen gießen;to water flowers;Vergiss nicht, die Blumen im Garten zu gießen.;'Don''t forget to water the flowers in the garden.';[sound:783.mp3]
+784;das Hoffest,-e;courtyard party;Das Hoffest findet am Samstag statt.;The courtyard party is on Saturday.;[sound:784.mp3]
+785;feiern;to celebrate;Wir feiern heute Abend meinen Geburtstag.;'We''re celebrating my birthday tonight.';[sound:785.mp3]
+786;der Grill,-s;grill;Wir machen heute Abend einen Grillabend im Garten.;'We''re having a barbecue in the garden tonight.';[sound:786.mp3]
+787;das Essen,Sg.;food;Das Essen in diesem Restaurant ist ausgezeichnet.;The food in this restaurant is excellent.;[sound:787.mp3]
+788;schmecken;to taste;Wie schmeckt das Essen? - Es schmeckt köstlich!;How does the food taste? - It tastes delicious!;[sound:788.mp3]
+789;Glück haben;to be lucky;Wir hatten Glück und haben die Lotterie gewonnen.;We were lucky and won the lottery.;[sound:789.mp3]
+790;wunderbar;wonderful;Das Konzert gestern Abend war wunderbar.;The concert last night was wonderful.;[sound:790.mp3]
+791;funktionieren;to function;Das Radio funktioniert nicht mehr. Es muss repariert werden.;'The radio doesn''t work anymore. It needs to be repaired.';[sound:791.mp3]
+792;Das Licht geht nicht.;The light is not working.;Das Licht geht nicht in meinem Zimmer.;;[sound:792.mp3]
+793;die Heizung,-en;heating;Die Heizung ist im Winter sehr wichtig.;Heating is very important in winter.;[sound:793.mp3]
+794;der Müll,Sg.;garbage;Bitte trennen Sie Ihren Müll.;Please separate your garbage.;[sound:794.mp3]
+795;die Tonne,-n;bin;Wir stellen die Mülltonnen am Straßenrand.;We place the bins by the roadside.;[sound:795.mp3]
+796;die Müllabfuhr,Sg.;garbage collection;Die Müllabfuhr kommt jeden Dienstag.;Garbage collection is on every Tuesday.;[sound:796.mp3]
+797;stellen;to place;Kannst du die Teller auf den Tisch stellen?;Can you place the plates on the table?;[sound:797.mp3]
+798;schmutzig;dirty;Die schmutzigen Schuhe bitte vor der Tür ausziehen.;Please take off your dirty shoes at the door.;[sound:798.mp3]
+799;riechen;to smell;Hier riecht es nach frischem Brot.;It smells like fresh bread in here.;[sound:799.mp3]
+800;ärgerlich;annoying;Es ist ärgerlich, wenn der Computer abstürzt.;'It''s annoying when the computer crashes.';[sound:800.mp3]
+801;bestellen;to order;Ich möchte eine Pizza bestellen, bitte.;I would like to order a pizza, please.;[sound:801.mp3]
+802;gefährlich;dangerous;Das ist eine gefährliche Kurve auf der Straße.;'That''s a dangerous curve on the road.';[sound:802.mp3]
+803;der Keller,-;basement;Im Keller lagern wir unsere Vorräte.;We store our supplies in the basement.;[sound:803.mp3]
+804;Fahrräder abstellen;to park bicycles;Wir können die Fahrräder vor dem Haus abstellen.;We can park the bicycles in front of the house.;[sound:804.mp3]
+805;denn;because;Ich gehe nicht zur Arbeit, denn ich bin krank.;'I''m not going to work because I''m sick.';[sound:805.mp3]
+806;aber;but;Ich wollte ins Kino gehen, aber es regnet.;'I wanted to go to the cinema, but it''s raining.';[sound:806.mp3]
+807;der Absender,-;sender;Der Absender des Pakets ist meine Tante.;The sender of the package is my aunt.;[sound:807.mp3]
+808;der/die Empfänger/in,-/-nen;recipient;Der Empfänger des Briefs ist mein Nachbar.;The recipient of the letter is my neighbor.;[sound:808.mp3]
+809;der Gruß,-e;greeting;Bitte sende deinen Gruß an deine Eltern.;Please send your greeting to your parents.;[sound:809.mp3]
+810;die Unterschrift,-en;signature;Die Unterschrift auf dem Vertrag ist erforderlich.;The signature on the contract is required.;[sound:810.mp3]
