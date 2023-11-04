@@ -40,7 +40,7 @@ Audio files were created with help google tts library.
 import audio to anki2
 https://docs.ankiweb.net/importing/text-files.html#importing-media
 
-%APPDATA%\Anki2
+After export csv at Windows copy mp3 files to %APPDATA%\Anki2
 
 
 **Happy Learning!**
