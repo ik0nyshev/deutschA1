@@ -1,8 +1,8 @@
 import csv
 
 # Input CSV file and output CSV file
-input_file = 'decks.csv'
-output_file = 'decks_output.csv'
+input_file = 'PlusPunkt Deutsch A1 (English).csv'
+output_file = 'decks.csv'
 
 # Open the input and output files
 with open(input_file, 'r', newline='') as input_csv, open(output_file, 'w', newline='') as output_csv:

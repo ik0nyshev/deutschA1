@@ -8,7 +8,7 @@ with open('decks.csv', 'r', encoding='utf-8') as csv_file:
     # Iterate through the rows in the CSV
     for row in csv_reader:
         namefile = row[0]
-        sentence = row[1]
+        sentence = row[1] + " . " + row[2]
 
         # Generate a German MP3 for the sentence
         tts = gTTS(sentence, lang='de')
