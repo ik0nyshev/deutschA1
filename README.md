@@ -42,6 +42,8 @@ https://docs.ankiweb.net/importing/text-files.html#importing-media
 
 After export csv at Windows copy mp3 files to %APPDATA%\Anki2
 
+## Shared 
+https://ankiweb.net/shared/info/512744818
 
 **Happy Learning!**
 
